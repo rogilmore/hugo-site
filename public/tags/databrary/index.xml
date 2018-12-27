@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Databrary on Rick Gilmore&#39;s site</title>
+    <link>/tags/databrary/</link>
+    <description>Recent content in Databrary on Rick Gilmore&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 27 Dec 2018 12:52:01 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/databrary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>databraryapi package</title>
+      <link>/project/databraryapi/</link>
+      <pubDate>Thu, 27 Dec 2018 12:52:01 -0500</pubDate>
+      
+      <guid>/project/databraryapi/</guid>
+      <description>I have released a working version of an R package that interacts with the Databrary.org API.</description>
+    </item>
+    
+    <item>
+      <title>Practical solutions for sharing data and materials from psychological research</title>
+      <link>/publication/practical-solutions/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/practical-solutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoViDev: A computer-vision framework to enhance and accelerate research in human development</title>
+      <link>/publication/autovidev/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/autovidev/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
