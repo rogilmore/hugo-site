@@ -14,16 +14,6 @@
     
     <item>
       <title>Hello, Hugo</title>
-      <link>/miscellany/getting-started/</link>
-      <pubDate>Thu, 27 Dec 2018 12:37:00 -0500</pubDate>
-      
-      <guid>/miscellany/getting-started/</guid>
-      <description>Hi, all.
-After a break, I&amp;rsquo;m back to blogging using the blogdown package for R, and the Hugo Academic theme. Let me know what you think.</description>
-    </item>
-    
-    <item>
-      <title>Hello, Hugo</title>
       <link>/post/getting-started/</link>
       <pubDate>Thu, 27 Dec 2018 12:37:00 -0500</pubDate>
       

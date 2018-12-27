@@ -25,7 +25,7 @@ date_format = "January 2006"
   location = "New York"
   date_start = "2013-01-01"
   date_end = ""
-  description = """Founded the first open data library specialized for storing, streaming, and sharing video data."""
+  description = """Co-founded the first open data library specialized for storing, streaming, and sharing video data."""
 
 [[experience]]
   title = "Associate Professor"

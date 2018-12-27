@@ -11,25 +11,25 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Ethical data sharing</title>
+      <link>/project/permission-to-share/</link>
+      <pubDate>Thu, 27 Dec 2018 14:31:00 -0500</pubDate>
+      
+      <guid>/project/permission-to-share/</guid>
+      <description>&lt;p&gt;Video recordings pose challenges for data sharing.
+They contain faces and voices that cannot be easily eliminated or altered without harming the value of the recordings for other researchers.
+My colleagues and I developed a data sharing policy framework for Databrary that requires researchers to gain consent to share from research participants and restricts access to institutionally-approved researchers.
+Databrary&amp;rsquo;s template sharing release (permission) language may be found &lt;a href=&#34;https://www.databrary.org/resources/templates/release-template.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, and some draft language relevant for gaining permission to share identifiable in the context of the EU&amp;rsquo;s General Data Protection Regulation (GDPR) may be found &lt;a href=&#34;https://github.com/gilmore-lab/ethical-data-sharing-w-GDPR&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>databraryapi package</title>
       <link>/project/databraryapi/</link>
       <pubDate>Thu, 27 Dec 2018 12:52:01 -0500</pubDate>
       
       <guid>/project/databraryapi/</guid>
       <description>&lt;p&gt;I have released a working version of an R package that interacts with the &lt;a href=&#34;http://databrary.org&#34; target=&#34;_blank&#34;&gt;Databrary.org&lt;/a&gt; API.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello, Hugo</title>
-      <link>/miscellany/getting-started/</link>
-      <pubDate>Thu, 27 Dec 2018 12:37:00 -0500</pubDate>
-      
-      <guid>/miscellany/getting-started/</guid>
-      <description>&lt;p&gt;Hi, all.&lt;/p&gt;
-
-&lt;p&gt;After a break, I&amp;rsquo;m back to blogging using the &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;blogdown&lt;/code&gt;&lt;/a&gt; package for R, and the Hugo &lt;strong&gt;Academic&lt;/strong&gt; theme.
-Let me know what you think.&lt;/p&gt;
 </description>
     </item>
     
@@ -47,11 +47,20 @@ Let me know what you think.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Young children&#39;s neural processing of their mother’s voice: An fMRI study</title>
+      <link>/publication/peep-ii-voices/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/peep-ii-voices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Neuroscience: The frontier within</title>
-      <link>/talk/example/</link>
+      <link>/talk/olli-2018-10-29/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>/talk/example/</guid>
+      <guid>/talk/olli-2018-10-29/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
 
@@ -77,6 +86,16 @@ Let me know what you think.&lt;/p&gt;
 &lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
 
 &lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     

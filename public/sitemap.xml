@@ -4,16 +4,16 @@
     
     <url>
     
-      <loc>/project/databraryapi/</loc>
-      <lastmod>2018-12-27T12:52:01-05:00</lastmod>
+      <loc>/project/permission-to-share/</loc>
+      <lastmod>2018-12-27T14:31:00-05:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>/miscellany/getting-started/</loc>
-      <lastmod>2018-12-27T12:37:00-05:00</lastmod>
+      <loc>/project/databraryapi/</loc>
+      <lastmod>2018-12-27T12:52:01-05:00</lastmod>
     </url>
     
   
@@ -28,7 +28,15 @@
     
     <url>
     
-      <loc>/talk/example/</loc>
+      <loc>/publication/peep-ii-voices/</loc>
+      <lastmod>2018-12-05T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/olli-2018-10-29/</loc>
       <lastmod>2018-10-29T00:00:00-04:00</lastmod>
     </url>
     
@@ -52,16 +60,16 @@
     
     <url>
     
-      <loc>/publication/practical-solutions/</loc>
-      <lastmod>2018-01-01T00:00:00-05:00</lastmod>
+      <loc>/privacy/</loc>
+      <lastmod>2018-06-28T00:00:00-04:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>/miscellany/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <loc>/publication/practical-solutions/</loc>
+      <lastmod>2018-01-01T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -134,7 +142,7 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2018-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-05T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -160,7 +168,16 @@
     <url>
     
       <loc>/tags/databrary/</loc>
-      <lastmod>2018-12-27T12:52:01-05:00</lastmod>
+      <lastmod>2018-12-27T14:31:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/gdpr/</loc>
+      <lastmod>2018-12-27T14:31:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -178,7 +195,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2018-12-27T12:52:01-05:00</lastmod>
+      <lastmod>2018-12-27T14:31:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -247,7 +264,7 @@
     <url>
     
       <loc>/tags/audition/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2018-12-05T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -273,6 +290,15 @@
     
     <url>
     
+      <loc>/tags/consent/</loc>
+      <lastmod>2018-12-27T14:31:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/data-science/</loc>
       <lastmod>2018-12-27T12:52:01-05:00</lastmod>
       <priority>0</priority>
@@ -283,7 +309,7 @@
     <url>
     
       <loc>/tags/data-sharing/</loc>
-      <lastmod>2018-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-27T14:31:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -292,7 +318,16 @@
     <url>
     
       <loc>/tags/emotion/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2018-12-05T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/ethics/</loc>
+      <lastmod>2018-12-27T14:31:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -319,7 +354,16 @@
     <url>
     
       <loc>/tags/perception/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2018-12-05T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/policy/</loc>
+      <lastmod>2018-12-27T14:31:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -328,7 +372,7 @@
     <url>
     
       <loc>/tags/video/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2018-12-27T14:31:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
