@@ -33,7 +33,7 @@ weight = 5
 # Biography
 
 Rick Gilmore is Associate Professor of Psychology at The Pennsylvania State University.
-He studies the development of visual perception in infants, children, and adults using behavioral, neural imaging, and computational methods.
+He studies the development of visual perception in infants, children, and adults using behavioral, neural imaging, and computational methods, as described more fully on his [lab website](https://gilmore-lab.github.io).
 He co-founded and co-directs the [Databrary.org](http://databrary.org) data library, co-founded the [Penn State Social, Life, & Engineering Sciences Imaging Center (SLEIC)](http://www.imaging.psu.edu), and advocates for more open, transparent, and reproducible scientific practices in psychology and neuroscience.
 
 Gilmore is a licensed amateur radio operator (callsign K3ROG) and is an avid hiker, cyclist, backpacker, paddler, banjo-picker, actor, and singer.

@@ -285,6 +285,11 @@ enableGitInfo = false
     icon_pack = "ai"
     link = "https://orcid.org/0000-0002-7676-3982"  
 
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "www.linkedin.com/in/rick-o-gilmore"  
+
     # For a direct email link, use "mailto:test@example.org".
 
   # Link to a PDF of your resume/CV from the About widget.
