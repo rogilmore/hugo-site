@@ -52,7 +52,31 @@
     
     <url>
     
-      <loc>/tutorial/example/</loc>
+      <loc>/personal/</loc>
+      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/adventure/</loc>
+      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/arts/</loc>
+      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/ham_radio_2/</loc>
       <lastmod>2018-09-09T00:00:00-04:00</lastmod>
     </url>
     
@@ -60,8 +84,24 @@
     
     <url>
     
-      <loc>/tutorial/</loc>
-      <lastmod>2018-09-09T00:00:00-04:00</lastmod>
+      <loc>/personal/ham_radio_1/</loc>
+      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/heroics/</loc>
+      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/public_service/</loc>
+      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -316,6 +356,15 @@
     
     <url>
     
+      <loc>/tags/cycling/</loc>
+      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/data-science/</loc>
       <lastmod>2018-12-27T12:52:01-05:00</lastmod>
       <priority>0</priority>
@@ -352,6 +401,33 @@
     
     <url>
     
+      <loc>/tags/ham-radio/</loc>
+      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/hiking/</loc>
+      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/music/</loc>
+      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/neuroscience/</loc>
       <lastmod>2018-10-29T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -370,8 +446,26 @@
     
     <url>
     
+      <loc>/tags/paddling/</loc>
+      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/perception/</loc>
       <lastmod>2018-12-05T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/poetry/</loc>
+      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -390,6 +484,15 @@
     
       <loc>/categories/politics/</loc>
       <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/theatre/</loc>
+      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

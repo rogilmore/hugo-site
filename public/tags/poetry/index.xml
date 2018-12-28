@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>poetry on Rick Gilmore&#39;s site</title>
+    <link>/tags/poetry/</link>
+    <description>Recent content in poetry on Rick Gilmore&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/poetry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Heroics</title>
+      <link>/personal/heroics/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/personal/heroics/</guid>
+      <description>Some rascal or rogue Stashed kryptonite Upon my person.
+Perhaps in that fingertip pocket of my Levi’s, Or the underside of the spare button on that green and black plaid shirt, Or the tunnel in my underwear that no man uses I assure you but most boys try at least once.
+I have always loved flying And nerdy girls. I have been underestimated by villains, And see beneath the surfaces of things.</description>
+    </item>
+    
+  </channel>
+</rss>

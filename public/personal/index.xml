@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rick Gilmore&#39;s site</title>
+    <link>/personal/</link>
+    <description>Recent content on Rick Gilmore&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/personal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Outdoors</title>
+      <link>/personal/adventure/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/personal/adventure/</guid>
+      <description>For fun, I like to walk, run, hike, backpack, kayak and ride my bicycles: a foldable touring Bike Friday, a Specialized Hybrid that I sometimes use to commute to work, a Specialized Allez road bike, and stoker-willing, a road tandem we call Tonya. Last summer, my wife and I took a tour of southern Tuscany with Vermont Bicycle Tours (VBT).</description>
+    </item>
+    
+    <item>
+      <title>Arts</title>
+      <link>/personal/arts/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/personal/arts/</guid>
+      <description>My family and I have been involved theatre and music for a very long time. Indeed, my wife and I met in a production of &amp;ldquo;South Pacific&amp;rdquo; with the Georgetown Gilbert &amp;amp; Sullivan Society (GG&amp;amp;SS).
+Recent shows here in State College have included &amp;ldquo;Oliver!&amp;rdquo;, &amp;ldquo;The Sound of Music,&amp;rdquo; and &amp;ldquo;Sweeney Todd,&amp;rdquo; with Singing Onstage, &amp;ldquo;Dracula&amp;rdquo;, &amp;ldquo;The Survivor&amp;rdquo;, and &amp;ldquo;Gypsy&amp;rdquo; with the State College Community Theatre (SCCT), and &amp;ldquo;The Memory of Water&amp;rdquo;, &amp;ldquo;Harper Regan&amp;rdquo;, and &amp;ldquo;Two Can Play&amp;rdquo; with The Next Stage theatre company.</description>
+    </item>
+    
+    <item>
+      <title>Equipment</title>
+      <link>/personal/ham_radio_2/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/personal/ham_radio_2/</guid>
+      <description> VHF/UHF  Kenwood TH-D74 Yaesu FT-70DR Kenwood TM-D710G  HF  Icom IC-7300 MFJ autotuner Multiband (80-10m) dipole at 10 m  Other  Tecsun portable receiver Openspot UHF digital mode (D-Start, Fusion, DMR) hotspot  </description>
+    </item>
+    
+    <item>
+      <title>Ham Radio</title>
+      <link>/personal/ham_radio_1/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/personal/ham_radio_1/</guid>
+      <description>I was licensed as a Tech+ in 1993, but was never really active. Kids and finishing grad school were higher priorities. After reading &amp;ldquo;Seveneves,&amp;rdquo; I got the bug again and took both the Technician and General in the space of a couple of weeks in the summer of 2016. With the moral support of some fellow club members and a helpful Elmer, I upgraded to Extra in July of 2017.</description>
+    </item>
+    
+    <item>
+      <title>Heroics</title>
+      <link>/personal/heroics/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/personal/heroics/</guid>
+      <description>Some rascal or rogue Stashed kryptonite Upon my person.
+Perhaps in that fingertip pocket of my Levi’s, Or the underside of the spare button on that green and black plaid shirt, Or the tunnel in my underwear that no man uses I assure you but most boys try at least once.
+I have always loved flying And nerdy girls. I have been underestimated by villains, And see beneath the surfaces of things.</description>
+    </item>
+    
+    <item>
+      <title>Public Service</title>
+      <link>/personal/public_service/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/personal/public_service/</guid>
+      <description>I have been involved in local politics, serving as clerk and Judge of Elections in my State College precinct and now Majority Inspector. I was a moderate Republican at one point, but changed parties after the 2000 election.
+My wife and I were formerly Democratic Precinct Co-chairs.
+I&amp;rsquo;m especially proud of the work that led to the construction of the Bellefonte Central Rail Trail. It was one of our community&amp;rsquo;s constructive responses to 9&amp;frasl;11.</description>
+    </item>
+    
+  </channel>
+</rss>

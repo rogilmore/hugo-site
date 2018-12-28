@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ham radio on Rick Gilmore&#39;s site</title>
+    <link>/tags/ham-radio/</link>
+    <description>Recent content in ham radio on Rick Gilmore&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/ham-radio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ham Radio</title>
+      <link>/personal/ham_radio_1/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/personal/ham_radio_1/</guid>
+      <description>I was licensed as a Tech+ in 1993, but was never really active. Kids and finishing grad school were higher priorities. After reading &amp;ldquo;Seveneves,&amp;rdquo; I got the bug again and took both the Technician and General in the space of a couple of weeks in the summer of 2016. With the moral support of some fellow club members and a helpful Elmer, I upgraded to Extra in July of 2017.</description>
+    </item>
+    
+  </channel>
+</rss>
