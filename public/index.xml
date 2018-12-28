@@ -43,7 +43,7 @@
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;with(databraryapi::read_csv_data_as_df(), plot(Auth_Investigators, Institutions))&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;## No encoding supplied: defaulting to UTF-8.&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;&lt;img src=&#34;/post/2018-12-28-test-driven-development-is-hard-and-important_files/figure-html/unnamed-chunk-3-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;I’ve said in other places that I think scientists will eventually interact with their data programmatically – via scripts like this – with the data and materials stored in repositories that others can also access programmatically. I think that the philosophy of test-driven development can help make our software AND the results and findings we derive from it more robust and reproducible.&lt;/p&gt;
+&lt;p&gt;I’ve said in other places that I think scientists will eventually interact with their data programmatically – via scripts like this – with the data and materials stored in repositories that others can also access programmatically. Furthermore, I think that the philosophy of test-driven development can help make our software AND the results and findings we derive from it more robust and reproducible.&lt;/p&gt;
 </description>
     </item>
     
