@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/project/play/</loc>
+      <lastmod>2018-12-28T16:55:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/test-driven-development-is-hard-and-important/</loc>
       <lastmod>2018-12-28T00:00:00+00:00</lastmod>
     </url>
@@ -260,7 +268,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2018-12-27T14:31:00-05:00</lastmod>
+      <lastmod>2018-12-28T16:55:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -320,7 +328,7 @@
     <url>
     
       <loc>/tags/annotation/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2018-12-28T16:55:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -383,7 +391,7 @@
     <url>
     
       <loc>/tags/data-sharing/</loc>
-      <lastmod>2018-12-27T14:31:00-05:00</lastmod>
+      <lastmod>2018-12-28T16:55:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -446,7 +454,7 @@
     <url>
     
       <loc>/tags/open-science/</loc>
-      <lastmod>2018-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-28T16:55:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -527,7 +535,7 @@
     <url>
     
       <loc>/tags/video/</loc>
-      <lastmod>2018-12-27T14:31:00-05:00</lastmod>
+      <lastmod>2018-12-28T16:55:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

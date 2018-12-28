@@ -17,17 +17,19 @@ linktitle = "Gear"
 
 ## VHF/UHF
 
-- Kenwood TH-D74
-- Yaesu FT-70DR
-- Kenwood TM-D710G
+- Kenwood TH-D74 HT
+- Yaesu FT-70DR HT
+- Kenwood TM-D710G mobile
+- Kenwood TM-281 mobile (for APRS I-Gate)
+- Tytera MD-2017 HT
 
 ## HF
 
 - Icom IC-7300
-- MFJ autotuner
+- MFJ 993B autotuner
 - Multiband (80-10m) dipole at 10 m
 
 ## Other
 
-- Tecsun portable receiver
-- Openspot UHF digital mode (D-Start, Fusion, DMR) hotspot 
+- Tecsun PL-880 portable shortwave/medium wave receiver
+- Openspot UHF digital mode (D-Star, Fusion, DMR) hotspot 

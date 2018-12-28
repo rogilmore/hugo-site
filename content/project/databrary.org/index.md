@@ -13,15 +13,23 @@ summary = "An open, secure data library for sharing video."
 tags = ["video", "open science", "data sharing"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://databrary.org"
+external_link = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
+# Links (optional).
+# url_pdf = ""
+# url_slides = ""
+# url_video = ""
+url_code = "https://github.com/databrary"
+
 [image]
   # Caption (optional)
-  caption = "Photo by Toa Heftiba on Unsplash"
+  caption = "Databrary logo"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+
+Karen Adolph and I co-founded [Databrary.org](https://databrary.org), a data library specialized for securely storing, streaming, and sharing video and audio recordings for use as data and documentation.

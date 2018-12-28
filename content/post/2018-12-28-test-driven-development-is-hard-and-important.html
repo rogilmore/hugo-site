@@ -4,6 +4,7 @@ author: ~
 date: '2018-12-28'
 slug: test-driven-development-is-hard-and-important
 categories: []
+projects: ["databraryapi", "databrary.org", "datavyu.org"]
 tags: ["R", "software", "Databrary", "test-driven development"]
 image:
   caption: ''
@@ -12,7 +13,7 @@ image:
 
 
 
-<p>I’ve been developing an R package that interacts with the <a href="https://databrary.org">Databrary.org</a> API. If you’re curious, you can download the <code>databraryapi</code> package from this GitHub repository: <a href="https://github.com/PLAY-behaviorome/databraryapi" class="uri">https://github.com/PLAY-behaviorome/databraryapi</a>.</p>
+<p>I’ve been developing an R package that interacts with the <a href="https://databrary.org">Databrary.org</a> API and with <a href="https://datavyu.org">Datavyu</a> annotation files stored locally or on Databrary alongside shared videos. If you’re curious, you can download the <code>databraryapi</code> package from this GitHub repository: <a href="https://github.com/PLAY-behaviorome/databraryapi" class="uri">https://github.com/PLAY-behaviorome/databraryapi</a>.</p>
 <p>Like many people in the software world, I’m entirely self-taught. Ok, I took a class in C programming at the U.S. Department of Agriculture’s Graduate School in the year before I applied to graduate schools in cognitive neuroscience. But my R package development skills are entirely self-taught. I must thank the incredibly generous geniuses who have gone before me and who share their code and their talents so freely and openly. Without the almost instant availability of these resources, my progress would be much, much slower.</p>
 <p>Developers are an opinionated bunch, and there are at least as many styles (fads?) in software development as their are developers. One style that I have started to try to emulate is <a href="https://en.wikipedia.org/wiki/Test-driven_development">‘test-driven development’</a>. In TDD, the idea is that you create tests for how each part of your package should respond given this or that input. If your tests are through enough and correct, your package should work…at least within the boundaries of what you tested.</p>
 <p>For the latest version of the package (0.1.4), I added a bunch of new tests to evaluate several new functions I’ve added to the package. Let’s just say that getting through my own self-designed test battery was challenging. But as a result, the code is cleaner and less buggy than it would be if I hadn’t gone this route.</p>

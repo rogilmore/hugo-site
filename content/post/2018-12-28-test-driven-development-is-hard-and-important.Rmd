@@ -4,13 +4,14 @@ author: ~
 date: '2018-12-28'
 slug: test-driven-development-is-hard-and-important
 categories: []
+projects: ["databraryapi", "databrary.org", "datavyu.org"]
 tags: ["R", "software", "Databrary", "test-driven development"]
 image:
   caption: ''
   focal_point: ''
 ---
 
-I've been developing an R package that interacts with the [Databrary.org](https://databrary.org) API.
+I've been developing an R package that interacts with the [Databrary.org](https://databrary.org) API and with [Datavyu](https://datavyu.org) annotation files stored locally or on Databrary alongside shared videos.
 If you're curious, you can download the `databraryapi` package from this GitHub repository: <https://github.com/PLAY-behaviorome/databraryapi>.
 
 Like many people in the software world, I'm entirely self-taught.

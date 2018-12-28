@@ -11,6 +11,17 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>PLAY project</title>
+      <link>/project/play/</link>
+      <pubDate>Fri, 28 Dec 2018 16:55:00 -0500</pubDate>
+      
+      <guid>/project/play/</guid>
+      <description>&lt;p&gt;The Play &amp;amp; Learning Across a Year (PLAY) project will provide a first-ever glimpse inside the homes of almost 1,000 families across the U.S.
+We will collect, annotate (code), and openly share on &lt;a href=&#34;https://databrary.org&#34; target=&#34;_blank&#34;&gt;Databrary&lt;/a&gt; video recordings of mothers and 12-, 18-, and 24-month-old infants engaged in natural behavior in their homes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Test-driven development is hard...and important.</title>
       <link>/post/test-driven-development-is-hard-and-important/</link>
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
@@ -19,7 +30,7 @@
       <description>
 
 
-&lt;p&gt;I’ve been developing an R package that interacts with the &lt;a href=&#34;https://databrary.org&#34;&gt;Databrary.org&lt;/a&gt; API. If you’re curious, you can download the &lt;code&gt;databraryapi&lt;/code&gt; package from this GitHub repository: &lt;a href=&#34;https://github.com/PLAY-behaviorome/databraryapi&#34; class=&#34;uri&#34;&gt;https://github.com/PLAY-behaviorome/databraryapi&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I’ve been developing an R package that interacts with the &lt;a href=&#34;https://databrary.org&#34;&gt;Databrary.org&lt;/a&gt; API and with &lt;a href=&#34;https://datavyu.org&#34;&gt;Datavyu&lt;/a&gt; annotation files stored locally or on Databrary alongside shared videos. If you’re curious, you can download the &lt;code&gt;databraryapi&lt;/code&gt; package from this GitHub repository: &lt;a href=&#34;https://github.com/PLAY-behaviorome/databraryapi&#34; class=&#34;uri&#34;&gt;https://github.com/PLAY-behaviorome/databraryapi&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Like many people in the software world, I’m entirely self-taught. Ok, I took a class in C programming at the U.S. Department of Agriculture’s Graduate School in the year before I applied to graduate schools in cognitive neuroscience. But my R package development skills are entirely self-taught. I must thank the incredibly generous geniuses who have gone before me and who share their code and their talents so freely and openly. Without the almost instant availability of these resources, my progress would be much, much slower.&lt;/p&gt;
 &lt;p&gt;Developers are an opinionated bunch, and there are at least as many styles (fads?) in software development as their are developers. One style that I have started to try to emulate is &lt;a href=&#34;https://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;‘test-driven development’&lt;/a&gt;. In TDD, the idea is that you create tests for how each part of your package should respond given this or that input. If your tests are through enough and correct, your package should work…at least within the boundaries of what you tested.&lt;/p&gt;
 &lt;p&gt;For the latest version of the package (0.1.4), I added a bunch of new tests to evaluate several new functions I’ve added to the package. Let’s just say that getting through my own self-designed test battery was challenging. But as a result, the code is cleaner and less buggy than it would be if I hadn’t gone this route.&lt;/p&gt;
@@ -173,24 +184,26 @@ Our folk music friends are pretty awesome, too.&lt;/p&gt;
 &lt;h2 id=&#34;vhf-uhf&#34;&gt;VHF/UHF&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Kenwood TH-D74&lt;/li&gt;
-&lt;li&gt;Yaesu FT-70DR&lt;/li&gt;
-&lt;li&gt;Kenwood TM-D710G&lt;/li&gt;
+&lt;li&gt;Kenwood TH-D74 HT&lt;/li&gt;
+&lt;li&gt;Yaesu FT-70DR HT&lt;/li&gt;
+&lt;li&gt;Kenwood TM-D710G mobile&lt;/li&gt;
+&lt;li&gt;Kenwood TM-281 mobile (for APRS I-Gate)&lt;/li&gt;
+&lt;li&gt;Tytera MD-2017 HT&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;hf&#34;&gt;HF&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Icom IC-7300&lt;/li&gt;
-&lt;li&gt;MFJ autotuner&lt;/li&gt;
+&lt;li&gt;MFJ 993B autotuner&lt;/li&gt;
 &lt;li&gt;Multiband (80-10m) dipole at 10 m&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;other&#34;&gt;Other&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Tecsun portable receiver&lt;/li&gt;
-&lt;li&gt;Openspot UHF digital mode (D-Start, Fusion, DMR) hotspot&lt;/li&gt;
+&lt;li&gt;Tecsun PL-880 portable shortwave/medium wave receiver&lt;/li&gt;
+&lt;li&gt;Openspot UHF digital mode (D-Star, Fusion, DMR) hotspot&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -275,15 +288,6 @@ In a previous rotation on the Commission, we helped implement traffic calming sp
       <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Practical solutions for sharing data and materials from psychological research</title>
-      <link>/publication/practical-solutions/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/practical-solutions/</guid>
-      <description></description>
     </item>
     
   </channel>
