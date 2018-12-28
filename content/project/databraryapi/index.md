@@ -44,4 +44,4 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
   focal_point = "Smart"
 +++
 
-I have released a working version of an R package that interacts with the [Databrary.org](http://databrary.org) API.
+I have released a working version (0.1.4) of an R package that interacts with the [Databrary.org](https://databrary.org) API.

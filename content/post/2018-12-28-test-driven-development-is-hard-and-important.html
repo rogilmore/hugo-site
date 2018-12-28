@@ -1,0 +1,39 @@
+---
+title: Test-driven development is hard...and important.
+author: ~
+date: '2018-12-28'
+slug: test-driven-development-is-hard-and-important
+categories: []
+tags: ["R", "software", "Databrary", "test-driven development"]
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+
+<p>I’ve been developing an R package that interacts with the <a href="https://databrary.org">Databrary.org</a> API. If you’re curious, you can download the <code>databraryapi</code> package from this GitHub repository: <a href="https://github.com/PLAY-behaviorome/databraryapi" class="uri">https://github.com/PLAY-behaviorome/databraryapi</a>.</p>
+<p>Like many people in the software world, I’m entirely self-taught. Ok, I took a class in C programming at the U.S. Department of Agriculture’s Graduate School in the year before I applied to graduate schools in cognitive neuroscience. But my R package development skills are entirely self-taught. I must thank the incredibly generous geniuses who have gone before me and who share their code and their talents so freely and openly. Without the almost instant availability of these resources, my progress would be much, much slower.</p>
+<p>Developers are an opinionated bunch, and there are at least as many styles (fads?) in software development as their are developers. One style that I have started to try to emulate is <a href="https://en.wikipedia.org/wiki/Test-driven_development">‘test-driven development’</a>. In TDD, the idea is that you create tests for how each part of your package should respond given this or that input. If your tests are through enough and correct, your package should work…at least within the boundaries of what you tested.</p>
+<p>For the latest version of the package (0.1.4), I added a bunch of new tests to evaluate several new functions I’ve added to the package. Let’s just say that getting through my own self-designed test battery was challenging. But as a result, the code is cleaner and less buggy than it would be if I hadn’t gone this route.</p>
+<p>In the larger sense, TDD is sort of a “plan for the worst” style. I like it because I know it forces me to be more precise and specific than I might otherwise choose to be. Since I’ve been using the <code>databraryapi</code> more often for keeping tabs on what’s going on in the Databrary world, that’s a very good thing.</p>
+<p>In case you’re curious what the package can do, check this out:</p>
+<pre class="r"><code>devtools::install_github(&quot;PLAY-behaviorome/databraryapi&quot;)</code></pre>
+<pre><code>## Skipping install of &#39;databraryapi&#39; from a github remote, the SHA1 (a6a700ea) has not changed since last install.
+##   Use `force = TRUE` to force installation</code></pre>
+<p>Here is a list of some recently authorized researchers:</p>
+<pre class="r"><code>databraryapi::get_db_stats(&quot;people&quot;)</code></pre>
+<pre><code>## # A tibble: 6 x 6
+##      id sortname   prename  affiliation                   url   institution
+##   &lt;int&gt; &lt;chr&gt;      &lt;chr&gt;    &lt;chr&gt;                         &lt;chr&gt; &lt;lgl&gt;      
+## 1  4784 Steinbeis  Nikolaus University College London     &lt;NA&gt;  NA         
+## 2  4794 Scheeringa Michael  Tulane University School of … &lt;NA&gt;  NA         
+## 3  4776 Sansom     Jennifer Central Michigan University   &lt;NA&gt;  NA         
+## 4  4790 Bloom      Stacie   New York University           &lt;NA&gt;  NA         
+## 5  4692 Malti      Tina     University of Toronto         &lt;NA&gt;  NA         
+## 6  4640 Fernandez  Victor   Georgetown University         &lt;NA&gt;  NA</code></pre>
+<p>And here is a very simple plot of the growth in authorized researchers and institutions over time:</p>
+<pre class="r"><code>with(databraryapi::read_csv_data_as_df(), plot(Auth_Investigators, Institutions))</code></pre>
+<pre><code>## No encoding supplied: defaulting to UTF-8.</code></pre>
+<p><img src="/post/2018-12-28-test-driven-development-is-hard-and-important_files/figure-html/unnamed-chunk-3-1.png" width="672" /></p>
+<p>I’ve said in other places that I think scientists will eventually interact with their data programmatically – via scripts like this – with the data and materials stored in repositories that others can also access programmatically. I think that the philosophy of test-driven development can help make our software AND the results and findings we derive from it more robust and reproducible.</p>

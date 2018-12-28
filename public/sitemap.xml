@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/post/test-driven-development-is-hard-and-important/</loc>
+      <lastmod>2018-12-28T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/permission-to-share/</loc>
       <lastmod>2018-12-27T14:31:00-05:00</lastmod>
     </url>
@@ -216,7 +224,7 @@
     <url>
     
       <loc>/tags/databrary/</loc>
-      <lastmod>2018-12-27T14:31:00-05:00</lastmod>
+      <lastmod>2018-12-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -270,7 +278,7 @@
     <url>
     
       <loc>/tags/r/</loc>
-      <lastmod>2018-12-27T12:52:01-05:00</lastmod>
+      <lastmod>2018-12-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -484,6 +492,24 @@
     
       <loc>/categories/politics/</loc>
       <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/software/</loc>
+      <lastmod>2018-12-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/test-driven-development/</loc>
+      <lastmod>2018-12-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

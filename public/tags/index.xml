@@ -24,7 +24,7 @@
     <item>
       <title>Databrary</title>
       <link>/tags/databrary/</link>
-      <pubDate>Thu, 27 Dec 2018 14:31:00 -0500</pubDate>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/databrary/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>R</title>
       <link>/tags/r/</link>
-      <pubDate>Thu, 27 Dec 2018 12:52:01 -0500</pubDate>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/r/</guid>
       <description></description>
@@ -234,6 +234,24 @@
       <pubDate>Thu, 27 Dec 2018 14:31:00 -0500</pubDate>
       
       <guid>/tags/policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>/tags/software/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test-driven development</title>
+      <link>/tags/test-driven-development/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/test-driven-development/</guid>
       <description></description>
     </item>
     
