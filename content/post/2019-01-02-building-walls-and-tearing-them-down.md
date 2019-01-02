@@ -4,7 +4,7 @@ author: ~
 date: '2019-01-02'
 slug: building-walls-and-tearing-them-down
 categories: ["commentary"]
-tags: ["folk music"]
+tags: ["folk music", "border wall"]
 image:
   caption: ''
   focal_point: ''

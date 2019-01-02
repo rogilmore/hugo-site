@@ -17,9 +17,9 @@ weight = 60
 
 I teach the following courses:
 
-- [PSYCH 260: Neurological Bases of Human Behavior](https://psu-psychology.github.io/psych-260-2019-spring/)
-- [PSY 511: Foundations of Cognitive and Affective Neuroscience](https://psu-psychology.github.io/psy-511-scan-fdns-2018/)
-- [PSY 525: Vision Science](http://psu-psychology.github.io/psy-525-vision-spring-2017/)
+- [PSYCH 260: Neurological Bases of Human Behavior](https://psu-psychology.github.io/psych-260-2019-spring/) (Spring 2019)
+- [PSY 511: Foundations of Cognitive and Affective Neuroscience](https://psu-psychology.github.io/psy-511-scan-fdns-2018/) (Fall 2018)
+- [PSY 525: Vision Science](http://psu-psychology.github.io/psy-525-vision-spring-2017/) (Spring 2018)
 
 I have also helped lead the following R workshops:
 
