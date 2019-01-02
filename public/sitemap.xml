@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/post/building-walls-and-tearing-them-down/</loc>
+      <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/play/</loc>
       <lastmod>2018-12-28T16:55:00-05:00</lastmod>
     </url>
@@ -354,6 +362,15 @@
     
     <url>
     
+      <loc>/categories/commentary/</loc>
+      <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/computer-vision/</loc>
       <lastmod>2013-07-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -410,6 +427,15 @@
     
       <loc>/tags/ethics/</loc>
       <lastmod>2018-12-27T14:31:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/folk-music/</loc>
+      <lastmod>2019-01-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
