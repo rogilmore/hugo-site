@@ -25,14 +25,14 @@ image:
 <p>Here is a list of some recently authorized researchers:</p>
 <pre class="r"><code>databraryapi::get_db_stats(&quot;people&quot;)</code></pre>
 <pre><code>## # A tibble: 6 x 6
-##      id sortname   prename  affiliation                   url   institution
-##   &lt;int&gt; &lt;chr&gt;      &lt;chr&gt;    &lt;chr&gt;                         &lt;chr&gt; &lt;lgl&gt;      
-## 1  4784 Steinbeis  Nikolaus University College London     &lt;NA&gt;  NA         
-## 2  4794 Scheeringa Michael  Tulane University School of … &lt;NA&gt;  NA         
-## 3  4776 Sansom     Jennifer Central Michigan University   &lt;NA&gt;  NA         
-## 4  4790 Bloom      Stacie   New York University           &lt;NA&gt;  NA         
-## 5  4692 Malti      Tina     University of Toronto         &lt;NA&gt;  NA         
-## 6  4640 Fernandez  Victor   Georgetown University         &lt;NA&gt;  NA</code></pre>
+##      id sortname  prename     affiliation               url   institution
+##   &lt;int&gt; &lt;chr&gt;     &lt;chr&gt;       &lt;chr&gt;                     &lt;chr&gt; &lt;lgl&gt;      
+## 1  4744 Tadepalli Prasad      Oregon State University   &lt;NA&gt;  NA         
+## 2  4871 Black     Jessica Jan Saint Vincent College     &lt;NA&gt;  NA         
+## 3  4477 Prull     Matthew     Whitman College           &lt;NA&gt;  NA         
+## 4   753 Childers  Jane        Trinity University        &lt;NA&gt;  NA         
+## 5  4881 Lindskog  Marcus      Uppsala University        &lt;NA&gt;  NA         
+## 6  4852 Hudson    Danae       Missouri State University &lt;NA&gt;  NA</code></pre>
 <p>And here is a very simple plot of the growth in authorized researchers and institutions over time:</p>
 <pre class="r"><code>with(databraryapi::read_csv_data_as_df(), plot(Auth_Investigators, Institutions))</code></pre>
 <pre><code>## No encoding supplied: defaulting to UTF-8.</code></pre>

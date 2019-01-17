@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/post/new-lab-logo/</loc>
+      <lastmod>2019-01-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/building-walls-and-tearing-them-down/</loc>
       <lastmod>2019-01-02T00:00:00+00:00</lastmod>
     </url>
@@ -344,6 +352,15 @@
     
     <url>
     
+      <loc>/tags/art/</loc>
+      <lastmod>2019-01-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/audition/</loc>
       <lastmod>2018-12-05T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -535,6 +552,15 @@
     
       <loc>/categories/politics/</loc>
       <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/research/</loc>
+      <lastmod>2019-01-16T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
