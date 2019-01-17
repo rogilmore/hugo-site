@@ -14,7 +14,7 @@ For I don't remember how many years I've wanted a lab logo.
 I thought that designing a logo was something that *some* student might actually enjoy doing.
 But I never pushed or insisted, and so it never happened.
 
-Then, as a byproduct of a bunch of reading I've been doing about causal modeling and the philosophy of science, I came up with a figure that seems to work on several levels, at least to me.
+Then, as a byproduct of a bunch of reading I've been doing about causal modeling and the philosophy of science, I came up with a figure that seems to work on several levels.
 
 <img src="../img/nested-causality.jpg.png" height=150px/>
 

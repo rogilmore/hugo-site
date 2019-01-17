@@ -11,6 +11,28 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>QSL? QSL</title>
+      <link>/post/qsl-qsl/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/qsl-qsl/</guid>
+      <description>&lt;p&gt;Last night, my friend Mike (N3LI) and I made our first-ever CW QSOs.
+In ham-speak, that means we chatted using Morse code.&lt;/p&gt;
+
+&lt;p&gt;It wasn&amp;rsquo;t fast, and we didn&amp;rsquo;t copy each other completely.
+But we exchanged meaningful information using a classic communication mode that is no longer a requirement for licensing but is still going strong.
+It was great fun, and we plan to keep practicing and plan to meet-up again next week.&lt;/p&gt;
+
+&lt;p&gt;Re-learning Morse code has reinforced several things for me.
+Patience and persistence are the most important qualities for long-term mastery of any difficult skill.
+And it&amp;rsquo;s good to give older brains a tough, but realizable challenge.
+Especially when there are concrete and visible measures of success.&lt;/p&gt;
+
+&lt;p&gt;So any no-code hams out there who haven&amp;rsquo;t taken the plunge, come on in!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>New lab logo</title>
       <link>/post/new-lab-logo/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
@@ -20,7 +42,7 @@
 I thought that designing a logo was something that &lt;em&gt;some&lt;/em&gt; student might actually enjoy doing.
 But I never pushed or insisted, and so it never happened.&lt;/p&gt;
 
-&lt;p&gt;Then, as a byproduct of a bunch of reading I&amp;rsquo;ve been doing about causal modeling and the philosophy of science, I came up with a figure that seems to work on several levels, at least to me.&lt;/p&gt;
+&lt;p&gt;Then, as a byproduct of a bunch of reading I&amp;rsquo;ve been doing about causal modeling and the philosophy of science, I came up with a figure that seems to work on several levels.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;../img/nested-causality.jpg.png&#34; height=150px/&gt;&lt;/p&gt;
 
@@ -284,36 +306,6 @@ With the moral support of some fellow club members and a helpful Elmer, I upgrad
 
 &lt;p&gt;My local club is the &lt;a href=&#34;https://http://nittany-arc.net/&#34; target=&#34;_blank&#34;&gt;Nittany Amateur Radio Club&lt;/a&gt;.
 I check-in to the Western PA D-Star net occasionally, and often monitor the 146.85 W3YA repeater and the Yaesu System Fusion AmericaLink reflector.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Heroics</title>
-      <link>/personal/heroics/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/personal/heroics/</guid>
-      <description>&lt;p&gt;Some rascal or rogue&lt;/br&gt;
-Stashed kryptonite&lt;/br&gt;
-Upon my person.&lt;/p&gt;
-
-&lt;p&gt;Perhaps in that fingertip pocket of my Levi’s,&lt;/br&gt;
-Or the underside of the spare button on that green and black plaid shirt,&lt;/br&gt;
-Or the tunnel in my underwear that no man uses I assure you but most boys try at least once.&lt;/br&gt;&lt;/p&gt;
-
-&lt;p&gt;I have always loved flying&lt;/br&gt;
-And nerdy girls.&lt;/br&gt;
-I have been underestimated by villains,&lt;/br&gt;
-And see beneath the surfaces of things.&lt;/br&gt;
-I’m unusually attentive to phone booths,&lt;/br&gt;
-And of course capes.&lt;/p&gt;
-
-&lt;p&gt;It’s just when I tried to catch bullets&lt;/br&gt;
-Lois changed lanes.&lt;/br&gt;
-And I needed the horn rims to see up from down&lt;/br&gt;
-When forced to discover that&lt;/br&gt;
-the laws of gravity&lt;/br&gt;
-Are never broken.&lt;/p&gt;
 </description>
     </item>
     

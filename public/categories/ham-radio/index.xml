@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ham radio on Rick Gilmore&#39;s site</title>
+    <link>/categories/ham-radio/</link>
+    <description>Recent content in ham radio on Rick Gilmore&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/ham-radio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>QSL? QSL</title>
+      <link>/post/qsl-qsl/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/qsl-qsl/</guid>
+      <description>Last night, my friend Mike (N3LI) and I made our first-ever CW QSOs. In ham-speak, that means we chatted using Morse code.
+It wasn&amp;rsquo;t fast, and we didn&amp;rsquo;t copy each other completely. But we exchanged meaningful information using a classic communication mode that is no longer a requirement for licensing but is still going strong. It was great fun, and we plan to keep practicing and plan to meet-up again next week.</description>
+    </item>
+    
+  </channel>
+</rss>
