@@ -1,0 +1,43 @@
+---
+title: The webs we weave
+author: ~
+date: '2019-01-25'
+slug: the-webs-we-weave
+categories: ['science']
+tags: ['motion perception', 'causal modeling']
+image:
+  caption: ''
+  focal_point: ''
+---
+
+<script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<script src="/rmarkdown-libs/viz/viz.js"></script>
+<link href="/rmarkdown-libs/DiagrammeR-styles/styles.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/grViz-binding/grViz.js"></script>
+
+
+<p>I’ve been ‘sketching’ out conceptual models for some time without realizing that there is an entire field of analysis where these sorts of diagrams are the starting point: Causal modeling. My introduction to this world was Judea Pearl’s <a href="https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/ref=sr_1_1?ie=UTF8&amp;qid=1548436587&amp;sr=8-1&amp;keywords=the+book+of+why">The Book of Why: The New Science of Cause and Effect</a>. Interested casual readers might also enjoy Steve Sloman’s excellent and delightfully clear <a href="https://www.amazon.com/Causal-Models-People-Think-Alternatives/dp/0195394291/ref=sr_1_2?ie=UTF8&amp;qid=1548436730&amp;sr=8-2&amp;keywords=steven+sloman"><em>Causal Models: How People Think About the World and Its Alternatives</em></a>.</p>
+<p>In this post, I want to build a model for how an observer perceives visual motion given various possible causes.</p>
+<pre class="r"><code>library(DiagrammeR)
+
+nodes &lt;- create_node_df(
+  n = 15,
+  label = c(&quot;retinal motion&quot;, &quot;eye mvmt&quot;, &quot;head mvmt&quot;, &quot;body mvmt&quot;, &quot;object mvmt&quot;, &quot;passive transp&quot;, &quot;eye cmd&quot;, &quot;head cmd&quot;, &quot;body cmd&quot;, &quot;eye prop&quot;, &quot;head prop&quot;, &quot;head vest&quot;, &quot;body prop&quot;, &quot;entity&quot;, &quot;passive force&quot;),
+  type = &quot;number&quot;
+)
+
+edges &lt;- create_edge_df(
+  from = c(2, 3, 4, 5, 6, 7, 8, 9, 2, 3, 3, 4, 4, 14, 15),
+  to = c(1, 1, 1, 1, 4, 2, 3, 4, 10, 11, 12, 12, 13, 5, 5),
+  rel = &quot;related&quot;
+)
+
+graph &lt;- DiagrammeR::create_graph(nodes_df = nodes, 
+                                  edges_df = edges)
+
+graph %&gt;% DiagrammeR::render_graph()</code></pre>
+<div id="htmlwidget-1" style="width:672px;height:480px;" class="grViz html-widget"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"diagram":"digraph {\n\ngraph [layout = \"neato\",\n       outputorder = \"edgesfirst\",\n       bgcolor = \"white\"]\n\nnode [fontname = \"Helvetica\",\n      fontsize = \"10\",\n      shape = \"circle\",\n      fixedsize = \"true\",\n      width = \"0.5\",\n      style = \"filled\",\n      fillcolor = \"aliceblue\",\n      color = \"gray70\",\n      fontcolor = \"gray50\"]\n\nedge [fontname = \"Helvetica\",\n     fontsize = \"8\",\n     len = \"1.5\",\n     color = \"gray80\",\n     arrowsize = \"0.5\"]\n\n  \"1\" [label = \"retinal motion\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"2\" [label = \"eye mvmt\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"3\" [label = \"head mvmt\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"4\" [label = \"body mvmt\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"5\" [label = \"object mvmt\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"6\" [label = \"passive transp\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"7\" [label = \"eye cmd\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"8\" [label = \"head cmd\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"9\" [label = \"body cmd\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"10\" [label = \"eye prop\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"11\" [label = \"head prop\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"12\" [label = \"head vest\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"13\" [label = \"body prop\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"14\" [label = \"entity\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"15\" [label = \"passive force\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"2\"->\"1\" \n  \"3\"->\"1\" \n  \"4\"->\"1\" \n  \"5\"->\"1\" \n  \"6\"->\"4\" \n  \"7\"->\"2\" \n  \"8\"->\"3\" \n  \"9\"->\"4\" \n  \"2\"->\"10\" \n  \"3\"->\"11\" \n  \"3\"->\"12\" \n  \"4\"->\"12\" \n  \"4\"->\"13\" \n  \"14\"->\"5\" \n  \"15\"->\"5\" \n}","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
+<p>The figure implies that motion on the retina comes from the movement of objects in the environment, movement of the observer, specifically the eyes, head, or body, or a combination of any of these. Eye movements stem from eye movement commands; head movements (translations and rotations) stem from head movement commands; body movements stem from commands to move the body. Movements of the eyes, head, or body generate proprioceptive signals from the eyes, head, and body. These signals derive from muscle, joint, and tendon receptors. Rotational and translational motion of the head stimulates vestibular signals.</p>
+<p>Note that retinal motion caused by the observer has multiple non-visual correlates (or consequences) that are detectable under typical circumstances. There may also be differences in the specific <em>properties</em> of motion caused by eye, head, body, or object motion. We’ll discuss these in a future post.</p>
+<p>So, the task for perception is to answer the question: What’s moving and why?</p>

@@ -29,7 +29,7 @@ The figure has other associations.
 It is similar to one used to demonstrate that rotational motion in 2 dimensions can evoke the perception of an object in 3 dimensions -- something called the stereokinetic depth effect (SKE).
 It evokes the perception of a cone-like shape protruding up and to the left.
 And it evokes a weaker perception of a tunnel.
-I study depth perception and motion perception, so these features make the figure even more appealing. 
+I study depth perception and motion perception, so these features make the figure even more appealing.
 
 Finally, the figure could be viewed as a large letter O, for openness, something I now embrace in all aspects of my scholarship.
 
@@ -38,4 +38,3 @@ The rest was purely accidental.
 But I guess invention is like that sometimes.
 
 I hope you like it.
-
