@@ -16,8 +16,9 @@ image:
 <p><img src="https://raw.githubusercontent.com/gilmore-lab/temple-2017-02-27/master/img/computing-flow.jpg"/></p>
 <p>Here, the key parameters were the instantaneous translation <span class="math inline">\((v_x{}, v_y{}, v_z{})\)</span> and rotation <span class="math inline">\((\omega_{x}, \omega_y{}, \omega_z{})\)</span> of the planar retina. Coupled with the optic flow equation,</p>
 <p><span class="math inline">\(\begin{pmatrix}\dot{x} \\ \dot{y}\end{pmatrix}=\frac{1}{z} \begin{pmatrix}-f &amp; 0 &amp; x\\ 0 &amp; -f &amp; y \end{pmatrix} \begin{pmatrix}{v_x{}}\\ {v_y{}} \\{v_z{}}\end{pmatrix}+ \frac{1}{f} \begin{pmatrix} xy &amp; -(f^2+x^2) &amp; fy\\ f^2+y^2 &amp; -xy &amp; -fy \end{pmatrix} \begin{pmatrix} \omega_{x}\\ \omega_{y}\\ \omega_{z} \end{pmatrix}\)</span></p>
-<p>we were able to simulate the <em>perceptual</em> effects of postural geometry: changes in eye height and forward translational speed that would occur when a child changed from crawling to walking.</p>
-<p>This work has lain dormant for a few years, but I now want to pick it back up. I’m looking for a concise, but thorough parameterization of body posture that includes the eyes, head, torso, arms, and legs. Here’s a sketch of what I have in mind for the upper parts body that have the greatest impact on the direction of visual fixation:</p>
+<p>we were able to simulate the <em>perceptual</em> effects of postural geometry: Changes in eye height and forward translational speed that would occur when a child changed from crawling to walking altered the pattern of retinal flow <span class="math inline">\((\dot{x}, \dot{y})\)</span> in interesting ways.</p>
+<p>This work has lain dormant for a few years, but I now want to pick it back up. In short, there are a handful of perception/action systems that provide the nervous system with deterministic, causal information about the effects of different actions. These must be important for development.</p>
+<p>For the next step, I’m looking for a concise, but thorough parameterization of body posture that includes the eyes, head, torso, arms, and legs. Here’s a sketch of what I have in mind for the upper parts body that have the greatest impact on the direction of visual fixation:</p>
 <table>
 <thead>
 <tr class="header">

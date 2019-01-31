@@ -20,10 +20,13 @@ Coupled with the optic flow equation,
 
 $\begin{pmatrix}\dot{x} \\ \dot{y}\end{pmatrix}=\frac{1}{z} \begin{pmatrix}-f & 0 & x\\ 0 & -f & y \end{pmatrix} \begin{pmatrix}{v_x{}}\\ {v_y{}} \\{v_z{}}\end{pmatrix}+ \frac{1}{f} \begin{pmatrix} xy & -(f^2+x^2) & fy\\ f^2+y^2 & -xy & -fy \end{pmatrix} \begin{pmatrix} \omega_{x}\\ \omega_{y}\\ \omega_{z} \end{pmatrix}$
 
-we were able to simulate the *perceptual* effects of postural geometry: changes in eye height and forward translational speed that would occur when a child changed from crawling to walking.
+we were able to simulate the *perceptual* effects of postural geometry: Changes in eye height and forward translational speed that would occur when a child changed from crawling to walking altered the pattern of retinal flow $(\dot{x}, \dot{y})$ in interesting ways.
 
 This work has lain dormant for a few years, but I now want to pick it back up.
-I'm looking for a concise, but thorough parameterization of body posture that includes the eyes, head, torso, arms, and legs.
+In short, there are a handful of perception/action systems that provide the nervous system with deterministic, causal information about the effects of different actions.
+These must be important for development.
+
+For the next step, I'm looking for a concise, but thorough parameterization of body posture that includes the eyes, head, torso, arms, and legs.
 Here's a sketch of what I have in mind for the upper parts body that have the greatest impact on the direction of visual fixation:
 
 | Body part | Parameter(s) |
