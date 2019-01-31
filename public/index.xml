@@ -101,6 +101,48 @@ We do need a list like this, though, don&amp;rsquo;t you think?&lt;/p&gt;
     </item>
     
     <item>
+      <title>Parameters for action</title>
+      <link>/post/parameters-for-action/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/parameters-for-action/</guid>
+      <description>
+
+
+&lt;p&gt;Several years ago, Florian Raudies, Swapnaa Jayaraman and I published a &lt;a href=&#34;http://doi.org/10.1109/DEVLRN.2015.7345450&#34;&gt;paper&lt;/a&gt; where we simulated the optic flow that infants would experience in different head/body postures. We computed cyclopian (one-eyed) flow on the basis of this schematic:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gilmore-lab/temple-2017-02-27/master/img/computing-flow.jpg&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;Here, the key parameters were the instantaneous translation &lt;span class=&#34;math inline&#34;&gt;\((v_x{}, v_y{}, v_z{})\)&lt;/span&gt; and rotation &lt;span class=&#34;math inline&#34;&gt;\((\omega_{x}, \omega_y{}, \omega_z{})\)&lt;/span&gt; of the planar retina. Coupled with the optic flow equation,&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;math inline&#34;&gt;\(\begin{pmatrix}\dot{x} \\ \dot{y}\end{pmatrix}=\frac{1}{z} \begin{pmatrix}-f &amp;amp; 0 &amp;amp; x\\ 0 &amp;amp; -f &amp;amp; y \end{pmatrix} \begin{pmatrix}{v_x{}}\\ {v_y{}} \\{v_z{}}\end{pmatrix}+ \frac{1}{f} \begin{pmatrix} xy &amp;amp; -(f^2+x^2) &amp;amp; fy\\ f^2+y^2 &amp;amp; -xy &amp;amp; -fy \end{pmatrix} \begin{pmatrix} \omega_{x}\\ \omega_{y}\\ \omega_{z} \end{pmatrix}\)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;we were able to simulate the &lt;em&gt;perceptual&lt;/em&gt; effects of postural geometry: changes in eye height and forward translational speed that would occur when a child changed from crawling to walking.&lt;/p&gt;
+&lt;p&gt;This work has lain dormant for a few years, but I now want to pick it back up. I’m looking for a concise, but thorough parameterization of body posture that includes the eyes, head, torso, arms, and legs. Here’s a sketch of what I have in mind for the upper parts body that have the greatest impact on the direction of visual fixation:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Body part&lt;/th&gt;
+&lt;th&gt;Parameter(s)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Eyes&lt;/td&gt;
+&lt;td&gt;$&lt;em&gt;{rx}, &lt;/em&gt;{ry}, &lt;em&gt;{lx}, &lt;/em&gt;{lx} $&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Head&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;math inline&#34;&gt;\(\theta_x{}, \theta_y{}, \theta_z{}\)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Torso&lt;/td&gt;
+&lt;td&gt;$_x{}, _y{}, _z{} $&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Coupled with the distance between the eyes, &lt;span class=&#34;math inline&#34;&gt;\(i\)&lt;/span&gt;, the radial distance to the head’s center of rotation, &lt;span class=&#34;math inline&#34;&gt;\(h\)&lt;/span&gt;, and the distance from the head’s center of rotation to the torso’s center of rotation, &lt;span class=&#34;math inline&#34;&gt;\(t\)&lt;/span&gt;, we can compute the effects of eye, head, and torso movement on visual motion at the two retinae. Now, if the &lt;em&gt;visual&lt;/em&gt; signals from eye vs. head vs. torso can be distinguished, then these could couple with other proprioceptive (muscle, tendon, cutaneous) signals to provide a powerful set of &lt;em&gt;sensory&lt;/em&gt; signals that are directly caused by eye, head, and torso motion. See &lt;a href=&#34;../the-webs-we-weave/&#34;&gt;this earlier post&lt;/a&gt; for a causal graph that elaborates on this point. I’ll discuss why I think there are &lt;em&gt;visual&lt;/em&gt; differences in the effects of eye and head motion in a future post.&lt;/p&gt;
+&lt;p&gt;My next step is to ask my colleagues in kinesiology if there is a canonical parameterization of body position that I can build upon. If you know of one, let me know.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The webs we weave</title>
       <link>/post/the-webs-we-weave/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
@@ -356,30 +398,6 @@ I&amp;rsquo;d like to see Congress restore balance here and in other areas.&lt;/
       <guid>/personal/adventure/</guid>
       <description>&lt;p&gt;For fun, I like to walk, run, hike, backpack, kayak and ride my bicycles: a foldable touring Bike Friday, a Specialized Hybrid that I sometimes use to commute to work, a Specialized Allez road bike, and stoker-willing, a road tandem we call Tonya.
 Last summer, my wife and I took a tour of southern Tuscany with Vermont Bicycle Tours (VBT).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Arts</title>
-      <link>/personal/arts/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/personal/arts/</guid>
-      <description>&lt;p&gt;My family and I have been involved theatre and music for a very long time.
-Indeed, my wife and I met in a production of &amp;ldquo;South Pacific&amp;rdquo; with the Georgetown Gilbert &amp;amp; Sullivan Society (GG&amp;amp;SS).&lt;/p&gt;
-
-&lt;p&gt;Recent shows here in State College have included &amp;ldquo;Oliver!&amp;rdquo;, &amp;ldquo;The Sound of Music,&amp;rdquo; and &amp;ldquo;Sweeney Todd,&amp;rdquo; with Singing Onstage, &amp;ldquo;Dracula&amp;rdquo;, &amp;ldquo;The Survivor&amp;rdquo;, and &amp;ldquo;Gypsy&amp;rdquo; with the &lt;a href=&#34;https://scctonline.org/&#34; target=&#34;_blank&#34;&gt;State College Community Theatre (SCCT)&lt;/a&gt;, and &amp;ldquo;The Memory of Water&amp;rdquo;, &amp;ldquo;Harper Regan&amp;rdquo;, and &amp;ldquo;Two Can Play&amp;rdquo; with &lt;a href=&#34;https://www.facebook.com/thenextstageinc/&#34; target=&#34;_blank&#34;&gt;The Next Stage&lt;/a&gt; theatre company.&lt;/p&gt;
-
-&lt;p&gt;I am a former president of SCCT.
-I&amp;rsquo;m proud to say that my colleagues and I forced the owners of the Boal Barn to make essential repairs to the facility.&lt;/p&gt;
-
-&lt;p&gt;Needless to say, I love to sing and dance.
-My wife and daugther are the instrumentalists, but I pick a banjo now and then or play a bit of harmonic or tin whistle.&lt;/p&gt;
-
-&lt;p&gt;My wife and I also enjoy volunteering with the &lt;a href=&#34;https://acousticbrew.org/&#34; target=&#34;_blank&#34;&gt;Acoustic Brew&lt;/a&gt; concert series and attending shows.
-Our folk music friends are pretty awesome, too.&lt;/p&gt;
-
-&lt;p&gt;When the spirit moves me, I write poetry.&lt;/p&gt;
 </description>
     </item>
     

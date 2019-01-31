@@ -15,10 +15,12 @@
   
     
   
-  <meta name="description" content="I’ve been ‘sketching’ out conceptual models for some time without realizing that there is an entire field of analysis where these sorts of diagrams are the starting point: Causal modeling. My introduction to this world was Judea Pearl’s The Book of Why: The New Science of Cause and Effect. Interested casual readers might also enjoy Steve Sloman’s excellent and delightfully clear Causal Models: How People Think About the World and Its Alternatives.">
+  <meta name="description" content="Several years ago, Florian Raudies, Swapnaa Jayaraman and I published a paper where we simulated the optic flow that infants would experience in different head/body postures. We computed cyclopian (one-eyed) flow on the basis of this schematic:
+Here, the key parameters were the instantaneous translation \((v_x{}, v_y{}, v_z{})\) and rotation \((\omega_{x}, \omega_y{}, \omega_z{})\) of the planar retina. Coupled with the optic flow equation,
+\(\begin{pmatrix}\dot{x} \\ \dot{y}\end{pmatrix}=\frac{1}{z} \begin{pmatrix}-f &amp; 0 &amp; x\\ 0 &amp; -f &amp; y \end{pmatrix} \begin{pmatrix}{v_x{}}\\ {v_y{}} \\{v_z{}}\end{pmatrix}&#43; \frac{1}{f} \begin{pmatrix} xy &amp; -(f^2&#43;x^2) &amp; fy\\ f^2&#43;y^2 &amp; -xy &amp; -fy \end{pmatrix} \begin{pmatrix} \omega_{x}\\ \omega_{y}\\ \omega_{z} \end{pmatrix}\)">
 
   
-  <link rel="alternate" hreflang="en-us" href="/post/the-webs-we-weave/">
+  <link rel="alternate" hreflang="en-us" href="/post/parameters-for-action/">
 
   
 
@@ -92,7 +94,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/post/the-webs-we-weave/">
+  <link rel="canonical" href="/post/parameters-for-action/">
 
   
   
@@ -106,21 +108,23 @@
   <meta property="twitter:creator" content="@rogilmore">
   
   <meta property="og:site_name" content="Rick Gilmore&#39;s site">
-  <meta property="og:url" content="/post/the-webs-we-weave/">
-  <meta property="og:title" content="The webs we weave | Rick Gilmore&#39;s site">
-  <meta property="og:description" content="I’ve been ‘sketching’ out conceptual models for some time without realizing that there is an entire field of analysis where these sorts of diagrams are the starting point: Causal modeling. My introduction to this world was Judea Pearl’s The Book of Why: The New Science of Cause and Effect. Interested casual readers might also enjoy Steve Sloman’s excellent and delightfully clear Causal Models: How People Think About the World and Its Alternatives."><meta property="og:image" content="/img/rog.png">
+  <meta property="og:url" content="/post/parameters-for-action/">
+  <meta property="og:title" content="Parameters for action | Rick Gilmore&#39;s site">
+  <meta property="og:description" content="Several years ago, Florian Raudies, Swapnaa Jayaraman and I published a paper where we simulated the optic flow that infants would experience in different head/body postures. We computed cyclopian (one-eyed) flow on the basis of this schematic:
+Here, the key parameters were the instantaneous translation \((v_x{}, v_y{}, v_z{})\) and rotation \((\omega_{x}, \omega_y{}, \omega_z{})\) of the planar retina. Coupled with the optic flow equation,
+\(\begin{pmatrix}\dot{x} \\ \dot{y}\end{pmatrix}=\frac{1}{z} \begin{pmatrix}-f &amp; 0 &amp; x\\ 0 &amp; -f &amp; y \end{pmatrix} \begin{pmatrix}{v_x{}}\\ {v_y{}} \\{v_z{}}\end{pmatrix}&#43; \frac{1}{f} \begin{pmatrix} xy &amp; -(f^2&#43;x^2) &amp; fy\\ f^2&#43;y^2 &amp; -xy &amp; -fy \end{pmatrix} \begin{pmatrix} \omega_{x}\\ \omega_{y}\\ \omega_{z} \end{pmatrix}\)"><meta property="og:image" content="/img/rog.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-01-25T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2019-01-31T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2019-01-25T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2019-01-31T00:00:00&#43;00:00">
   
 
   
 
-  <title>The webs we weave | Rick Gilmore&#39;s site</title>
+  
+
+  <title>Parameters for action | Rick Gilmore&#39;s site</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -336,7 +340,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">The webs we weave</h1>
+  <h1 itemprop="name">Parameters for action</h1>
 
   
 
@@ -354,9 +358,9 @@
 
   <span class="article-date">
     
-    <meta content="2019-01-25 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-    <time datetime="2019-01-25 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-      2019-01-25
+    <meta content="2019-01-31 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+    <time datetime="2019-01-31 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+      2019-01-31
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -366,14 +370,14 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    3 min read
+    2 min read
   </span>
   
 
   
   
   <span class="middot-divider"></span>
-  <a href="/post/the-webs-we-weave/#disqus_thread"></a>
+  <a href="/post/parameters-for-action/#disqus_thread"></a>
   
 
   
@@ -383,7 +387,9 @@
   <span class="article-categories">
     <i class="fas fa-folder"></i>
     
-    <a href="/categories/science/">science</a>
+    <a href="/categories/science/">science</a>, 
+    
+    <a href="/categories/research/">research</a>
     
   </span>
   
@@ -395,35 +401,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=The%20webs%20we%20weave&amp;url=%2fpost%2fthe-webs-we-weave%2f"
+         href="https://twitter.com/intent/tweet?text=Parameters%20for%20action&amp;url=%2fpost%2fparameters-for-action%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=%2fpost%2fthe-webs-we-weave%2f"
+         href="https://www.facebook.com/sharer.php?u=%2fpost%2fparameters-for-action%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpost%2fthe-webs-we-weave%2f&amp;title=The%20webs%20we%20weave"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpost%2fparameters-for-action%2f&amp;title=Parameters%20for%20action"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=%2fpost%2fthe-webs-we-weave%2f&amp;title=The%20webs%20we%20weave"
+         href="http://service.weibo.com/share/share.php?url=%2fpost%2fparameters-for-action%2f&amp;title=Parameters%20for%20action"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=The%20webs%20we%20weave&amp;body=%2fpost%2fthe-webs-we-weave%2f">
+         href="mailto:?subject=Parameters%20for%20action&amp;body=%2fpost%2fparameters-for-action%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -460,37 +466,38 @@
 
     <div class="article-style" itemprop="articleBody">
       
-<script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
-<script src="/rmarkdown-libs/viz/viz.js"></script>
-<link href="/rmarkdown-libs/DiagrammeR-styles/styles.css" rel="stylesheet" />
-<script src="/rmarkdown-libs/grViz-binding/grViz.js"></script>
 
 
-<p>I’ve been ‘sketching’ out conceptual models for some time without realizing that there is an entire field of analysis where these sorts of diagrams are the starting point: Causal modeling. My introduction to this world was Judea Pearl’s <a href="https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/ref=sr_1_1?ie=UTF8&amp;qid=1548436587&amp;sr=8-1&amp;keywords=the+book+of+why">The Book of Why: The New Science of Cause and Effect</a>. Interested casual readers might also enjoy Steve Sloman’s excellent and delightfully clear <a href="https://www.amazon.com/Causal-Models-People-Think-Alternatives/dp/0195394291/ref=sr_1_2?ie=UTF8&amp;qid=1548436730&amp;sr=8-2&amp;keywords=steven+sloman"><em>Causal Models: How People Think About the World and Its Alternatives</em></a>.</p>
-<p>In this post, I want to build a model for how an observer perceives visual motion given various possible causes.</p>
-<pre class="r"><code>library(DiagrammeR)
-
-nodes &lt;- create_node_df(
-  n = 15,
-  label = c(&quot;retinal motion&quot;, &quot;eye mvmt&quot;, &quot;head mvmt&quot;, &quot;body mvmt&quot;, &quot;object mvmt&quot;, &quot;passive transp&quot;, &quot;eye cmd&quot;, &quot;head cmd&quot;, &quot;body cmd&quot;, &quot;eye prop&quot;, &quot;head prop&quot;, &quot;head vest&quot;, &quot;body prop&quot;, &quot;entity&quot;, &quot;passive force&quot;),
-  type = &quot;number&quot;
-)
-
-edges &lt;- create_edge_df(
-  from = c(2, 3, 4, 5, 6, 7, 8, 9, 2, 3, 3, 4, 4, 14, 15),
-  to = c(1, 1, 1, 1, 4, 2, 3, 4, 10, 11, 12, 12, 13, 5, 5),
-  rel = &quot;related&quot;
-)
-
-graph &lt;- DiagrammeR::create_graph(nodes_df = nodes, 
-                                  edges_df = edges)
-
-graph %&gt;% DiagrammeR::render_graph()</code></pre>
-<div id="htmlwidget-1" style="width:672px;height:480px;" class="grViz html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"diagram":"digraph {\n\ngraph [layout = \"neato\",\n       outputorder = \"edgesfirst\",\n       bgcolor = \"white\"]\n\nnode [fontname = \"Helvetica\",\n      fontsize = \"10\",\n      shape = \"circle\",\n      fixedsize = \"true\",\n      width = \"0.5\",\n      style = \"filled\",\n      fillcolor = \"aliceblue\",\n      color = \"gray70\",\n      fontcolor = \"gray50\"]\n\nedge [fontname = \"Helvetica\",\n     fontsize = \"8\",\n     len = \"1.5\",\n     color = \"gray80\",\n     arrowsize = \"0.5\"]\n\n  \"1\" [label = \"retinal motion\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"2\" [label = \"eye mvmt\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"3\" [label = \"head mvmt\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"4\" [label = \"body mvmt\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"5\" [label = \"object mvmt\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"6\" [label = \"passive transp\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"7\" [label = \"eye cmd\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"8\" [label = \"head cmd\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"9\" [label = \"body cmd\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"10\" [label = \"eye prop\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"11\" [label = \"head prop\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"12\" [label = \"head vest\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"13\" [label = \"body prop\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"14\" [label = \"entity\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"15\" [label = \"passive force\", fillcolor = \"#F0F8FF\", fontcolor = \"#000000\"] \n  \"2\"->\"1\" \n  \"3\"->\"1\" \n  \"4\"->\"1\" \n  \"5\"->\"1\" \n  \"6\"->\"4\" \n  \"7\"->\"2\" \n  \"8\"->\"3\" \n  \"9\"->\"4\" \n  \"2\"->\"10\" \n  \"3\"->\"11\" \n  \"3\"->\"12\" \n  \"4\"->\"12\" \n  \"4\"->\"13\" \n  \"14\"->\"5\" \n  \"15\"->\"5\" \n}","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
-<p>The figure implies that motion on the retina comes from the movement of objects in the environment, movement of the observer, specifically the eyes, head, or body, or a combination of any of these. Eye movements stem from eye movement commands; head movements (translations and rotations) stem from head movement commands; body movements stem from commands to move the body. Movements of the eyes, head, or body generate proprioceptive signals from the eyes, head, and body. These signals derive from muscle, joint, and tendon receptors. Rotational and translational motion of the head stimulates vestibular signals.</p>
-<p>Note that retinal motion caused by the observer has multiple non-visual correlates (or consequences) that are detectable under typical circumstances. There may also be differences in the specific <em>properties</em> of motion caused by eye, head, body, or object motion. We’ll discuss these in a future post.</p>
-<p>So, the task for perception is to answer the question: What’s moving and why?</p>
+<p>Several years ago, Florian Raudies, Swapnaa Jayaraman and I published a <a href="http://doi.org/10.1109/DEVLRN.2015.7345450">paper</a> where we simulated the optic flow that infants would experience in different head/body postures. We computed cyclopian (one-eyed) flow on the basis of this schematic:</p>
+<p><img src="https://raw.githubusercontent.com/gilmore-lab/temple-2017-02-27/master/img/computing-flow.jpg"/></p>
+<p>Here, the key parameters were the instantaneous translation <span class="math inline">\((v_x{}, v_y{}, v_z{})\)</span> and rotation <span class="math inline">\((\omega_{x}, \omega_y{}, \omega_z{})\)</span> of the planar retina. Coupled with the optic flow equation,</p>
+<p><span class="math inline">\(\begin{pmatrix}\dot{x} \\ \dot{y}\end{pmatrix}=\frac{1}{z} \begin{pmatrix}-f &amp; 0 &amp; x\\ 0 &amp; -f &amp; y \end{pmatrix} \begin{pmatrix}{v_x{}}\\ {v_y{}} \\{v_z{}}\end{pmatrix}+ \frac{1}{f} \begin{pmatrix} xy &amp; -(f^2+x^2) &amp; fy\\ f^2+y^2 &amp; -xy &amp; -fy \end{pmatrix} \begin{pmatrix} \omega_{x}\\ \omega_{y}\\ \omega_{z} \end{pmatrix}\)</span></p>
+<p>we were able to simulate the <em>perceptual</em> effects of postural geometry: changes in eye height and forward translational speed that would occur when a child changed from crawling to walking.</p>
+<p>This work has lain dormant for a few years, but I now want to pick it back up. I’m looking for a concise, but thorough parameterization of body posture that includes the eyes, head, torso, arms, and legs. Here’s a sketch of what I have in mind for the upper parts body that have the greatest impact on the direction of visual fixation:</p>
+<table>
+<thead>
+<tr class="header">
+<th>Body part</th>
+<th>Parameter(s)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Eyes</td>
+<td>$<em>{rx}, </em>{ry}, <em>{lx}, </em>{lx} $</td>
+</tr>
+<tr class="even">
+<td>Head</td>
+<td><span class="math inline">\(\theta_x{}, \theta_y{}, \theta_z{}\)</span></td>
+</tr>
+<tr class="odd">
+<td>Torso</td>
+<td>$_x{}, _y{}, _z{} $</td>
+</tr>
+</tbody>
+</table>
+<p>Coupled with the distance between the eyes, <span class="math inline">\(i\)</span>, the radial distance to the head’s center of rotation, <span class="math inline">\(h\)</span>, and the distance from the head’s center of rotation to the torso’s center of rotation, <span class="math inline">\(t\)</span>, we can compute the effects of eye, head, and torso movement on visual motion at the two retinae. Now, if the <em>visual</em> signals from eye vs. head vs. torso can be distinguished, then these could couple with other proprioceptive (muscle, tendon, cutaneous) signals to provide a powerful set of <em>sensory</em> signals that are directly caused by eye, head, and torso motion. See <a href="../the-webs-we-weave/">this earlier post</a> for a causal graph that elaborates on this point. I’ll discuss why I think there are <em>visual</em> differences in the effects of eye and head motion in a future post.</p>
+<p>My next step is to ask my colleagues in kinesiology if there is a canonical parameterization of body position that I can build upon. If you know of one, let me know.</p>
 
     </div>
 
@@ -499,9 +506,7 @@ graph %&gt;% DiagrammeR::render_graph()</code></pre>
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/motion-perception/">motion perception</a>
-  
-  <a class="badge badge-light" href="/tags/causal-modeling/">causal modeling</a>
+  <a class="badge badge-light" href="/tags/action/">action</a>
   
 </div>
 
@@ -638,13 +643,13 @@ graph %&gt;% DiagrammeR::render_graph()</code></pre>
   
   <div class="post-nav-item">
     <div class="meta-nav">Next</div>
-    <a href="/post/parameters-for-action/" rel="next">Parameters for action</a>
+    <a href="/post/in-search-of-the-ethogram/" rel="next">In search of the ethogram</a>
   </div>
   
   
   <div class="post-nav-item">
     <div class="meta-nav">Previous</div>
-    <a href="/post/qsl-qsl/" rel="prev">QSL? QSL</a>
+    <a href="/post/the-webs-we-weave/" rel="prev">The webs we weave</a>
   </div>
   
 </div>

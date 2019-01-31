@@ -23,6 +23,17 @@ I recently went looking for a systematic catalogue of behaviors that should, in 
     </item>
     
     <item>
+      <title>Parameters for action</title>
+      <link>/post/parameters-for-action/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/parameters-for-action/</guid>
+      <description>Several years ago, Florian Raudies, Swapnaa Jayaraman and I published a paper where we simulated the optic flow that infants would experience in different head/body postures. We computed cyclopian (one-eyed) flow on the basis of this schematic:
+Here, the key parameters were the instantaneous translation \((v_x{}, v_y{}, v_z{})\) and rotation \((\omega_{x}, \omega_y{}, \omega_z{})\) of the planar retina. Coupled with the optic flow equation,
+\(\begin{pmatrix}\dot{x} \\ \dot{y}\end{pmatrix}=\frac{1}{z} \begin{pmatrix}-f &amp;amp; 0 &amp;amp; x\\ 0 &amp;amp; -f &amp;amp; y \end{pmatrix} \begin{pmatrix}{v_x{}}\\ {v_y{}} \\{v_z{}}\end{pmatrix}+ \frac{1}{f} \begin{pmatrix} xy &amp;amp; -(f^2+x^2) &amp;amp; fy\\ f^2+y^2 &amp;amp; -xy &amp;amp; -fy \end{pmatrix} \begin{pmatrix} \omega_{x}\\ \omega_{y}\\ \omega_{z} \end{pmatrix}\)</description>
+    </item>
+    
+    <item>
       <title>The webs we weave</title>
       <link>/post/the-webs-we-weave/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
