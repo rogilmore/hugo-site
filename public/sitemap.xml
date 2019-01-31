@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/post/in-search-of-the-ethogram/</loc>
+      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/the-webs-we-weave/</loc>
       <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     </url>
@@ -395,6 +403,24 @@
     
     <url>
     
+      <loc>/tags/behavior/</loc>
+      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/behaviorome/</loc>
+      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/blogging/</loc>
       <lastmod>2018-12-27T12:37:00-05:00</lastmod>
       <priority>0</priority>
@@ -494,6 +520,15 @@
     
     <url>
     
+      <loc>/tags/ethogram/</loc>
+      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/folk-music/</loc>
       <lastmod>2019-01-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -550,6 +585,15 @@
     
       <loc>/tags/neuroscience/</loc>
       <lastmod>2018-10-29T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/ontology/</loc>
+      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -621,7 +665,7 @@
     <url>
     
       <loc>/categories/science/</loc>
-      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
