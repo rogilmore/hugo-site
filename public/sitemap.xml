@@ -204,8 +204,24 @@
     
     <url>
     
+      <loc>/talk/srcd-2019-03-22/</loc>
+      <lastmod>2018-03-18T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/practical-solutions/</loc>
       <lastmod>2018-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/goad-gunner/</loc>
+      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -254,6 +270,150 @@
     
       <loc>/project/peep/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/delightful-delusion/</loc>
+      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/promise/</loc>
+      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/specific-gravity/</loc>
+      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/i-never-metaphysics/</loc>
+      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/haiku-4-u/</loc>
+      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/lonely-cicada/</loc>
+      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/oh-beautiful/</loc>
+      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/food-for-thought/</loc>
+      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/four-letter-word/</loc>
+      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/who-knows-how-to-unmake-love/</loc>
+      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/lipstick-on-a-pig/</loc>
+      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/unsolicited-advice/</loc>
+      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/who-shall-lionize/</loc>
+      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/angels-blue/</loc>
+      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/love-of-death/</loc>
+      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/no-one-loves-a-volcano/</loc>
+      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/the-physics-of-love/</loc>
+      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/personal/there-are-no-heroes/</loc>
+      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -588,8 +748,8 @@
     
     <url>
     
-      <loc>/tags/ham-radio/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+      <loc>/categories/ham-radio/</loc>
+      <lastmod>2019-01-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -597,8 +757,8 @@
     
     <url>
     
-      <loc>/categories/ham-radio/</loc>
-      <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+      <loc>/tags/ham-radio/</loc>
+      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -678,8 +838,8 @@
     
     <url>
     
-      <loc>/tags/poetry/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+      <loc>/categories/poetry/</loc>
+      <lastmod>2019-02-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -687,8 +847,8 @@
     
     <url>
     
-      <loc>/categories/poetry/</loc>
-      <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+      <loc>/tags/poetry/</loc>
+      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

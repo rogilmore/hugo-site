@@ -26,8 +26,8 @@ Where and how has America fallen short?
 My list may differ from yours, but here are some suggestions: Our genocide of Native Americans, our history of slavery, our treatment of any number of immigrant groups, the long delay in granting women suffrage, the Japanese internment, the ways [American white supremacists inspired the Nazis](https://www.theatlantic.com/magazine/archive/2019/04/adam-serwer-madison-grant-white-nationalism/583258/), the interminable war on terror no one seems willing to end, and our failures to confront and address climate change.
 
 A truly great and powerful nation can muster the courage to face its own flaws and to hold itself account.
-Indeed, lacking that courage, how can any people aspire to righteousness?
+Indeed, lacking that courage, how can any people aspire to righteousness or assume the responsibilities of leadership?
 
 Like the Jews, who atone for sin on Yom Kippur by seeking forgiveness from one another before facing judgment from the almighty, let us set aside April 9 for a national day of reflection and reconciliation.
 Let us find strength in examining our weakness.
-And let such a day form a more perfect union among us that we may secure the blessings of liberty, as we the people have ordained, for all posterity.
+And let such a day form a more perfect union among us that we may secure the blessings of liberty, as we the people have ordained in our Constitution, for all posterity.
