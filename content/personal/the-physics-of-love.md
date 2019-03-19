@@ -17,7 +17,7 @@ linktitle = "The physics of love"
   weight = 2
 +++
 
-<img src="http://upload.wikimedia.org/wikipedia/commons/d/d4/Comet_P1_McNaught02_-_23-01-07-edited.jpg" width="600px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Comet_P1_McNaught02_-_23-01-07-edited.jpg" width="600px"/>
 
 <p>like surfing a comet</p>
 

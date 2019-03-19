@@ -17,7 +17,7 @@ linktitle = "Love of death"
   weight = 2
 +++
 
-![Execution of James Foley by ISIS](http://i.guim.co.uk/static/w-620/h--/q-95/sys-images/Guardian/Pix/pictures/2014/8/20/1408530010517/Screengrab-from-the-ISIS--011.jpg)
+![Execution of James Foley by ISIS](https://i.guim.co.uk/static/w-620/h--/q-95/sys-images/Guardian/Pix/pictures/2014/8/20/1408530010517/Screengrab-from-the-ISIS--011.jpg)
 
 <p>Love of death and fear of life</br>
 well describes the current strife</br>
