@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open science on Rick Gilmore&#39;s site</title>
+    <link>/categories/open-science/</link>
+    <description>Recent content in open science on Rick Gilmore&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/open-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open developmental science</title>
+      <link>/post/open-developmental-science/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/open-developmental-science/</guid>
+      <description>If you plan to attend the Society for Research in Child Development (SRCD) meeting in Baltimore later this week, you might be interested in some of the open science activities that will be taking place:
+On Friday, March 22, from 10-11:30 am, I am co-leading a conversation hour on the topic What SRCD is doing to address open science. We&amp;rsquo;ll focus on a set of new policies and guidelines to authors that the SRCD Task Force on Scientific Integrity and Openness produced.</description>
+    </item>
+    
+  </channel>
+</rss>

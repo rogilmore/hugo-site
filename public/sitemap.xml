@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/post/open-developmental-science/</loc>
+      <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/april-9-a-day-of-reflection-and-reconciliation/</loc>
       <lastmod>2019-03-18T00:00:00+00:00</lastmod>
     </url>
@@ -544,6 +552,15 @@
     
     <url>
     
+      <loc>/tags/srcd/</loc>
+      <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/slides/</loc>
       <priority>0</priority>
     </url>
@@ -820,6 +837,15 @@
     
     <url>
     
+      <loc>/categories/open-science/</loc>
+      <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/paddling/</loc>
       <lastmod>2018-12-28T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -884,7 +910,7 @@
     <url>
     
       <loc>/categories/science/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+      <lastmod>2019-03-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
