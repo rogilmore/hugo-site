@@ -11,6 +11,48 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Burns a bridge</title>
+      <link>/post/burns-a-bridge/</link>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/burns-a-bridge/</guid>
+      <description>&lt;p&gt;burns a bridge&lt;/br&gt;
+the night long, this heat&lt;/br&gt;
+retards bitterness and cold&lt;/br&gt;
+yellow-red flickers illuminate, but dimly&lt;/br&gt;
+even in that moment fleeting&lt;/br&gt;
+but wonders he later&lt;/br&gt;
+wherefore the stench&lt;/br&gt;
+and who has shut the road&lt;/br&gt;
+again.&lt;/p&gt;
+
+&lt;p&gt;we do not swim.&lt;/p&gt;
+
+&lt;p&gt;in motion emotion forever &lt;/br&gt;
+forward&lt;/br&gt;
+fresh, frenetic,&lt;/br&gt;
+pushed by what&lt;/br&gt;
+i know not&lt;/br&gt;
+pulled more like&lt;/br&gt;
+perhaps by gravitational force&lt;/br&gt;
+or some repulsion.&lt;/br&gt;
+the formula admits no closed form solution.&lt;/p&gt;
+
+&lt;p&gt;ash &amp;amp; ember&lt;/br&gt;
+linger in their dull glow.&lt;/br&gt;
+fire can cauterize, staunch, and save the wounded,&lt;/br&gt;
+but also sear&lt;/br&gt;
+the mortal flesh,&lt;/br&gt;
+branding innocents,&lt;/br&gt;
+and in smoky shadows scar&amp;ndash;&lt;/br&gt;
+spreading jumble-tumbles of silent speaking symbols&amp;ndash;&lt;/br&gt;
+others inspect for structure or sense&lt;/br&gt;
+and in failing ask&lt;/br&gt;
+why&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Open developmental science</title>
       <link>/post/open-developmental-science/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
@@ -446,19 +488,6 @@ Databrary&amp;rsquo;s template sharing release (permission) language may be foun
       
       <guid>/project/databraryapi/</guid>
       <description>&lt;p&gt;I have released a working version (0.1.4) of an R package that interacts with the &lt;a href=&#34;https://databrary.org&#34; target=&#34;_blank&#34;&gt;Databrary.org&lt;/a&gt; API.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello, Hugo</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Thu, 27 Dec 2018 12:37:00 -0500</pubDate>
-      
-      <guid>/post/getting-started/</guid>
-      <description>&lt;p&gt;Hi, all.&lt;/p&gt;
-
-&lt;p&gt;After a break, I&amp;rsquo;m back to blogging using the &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;blogdown&lt;/code&gt;&lt;/a&gt; package for R, and the Hugo &lt;strong&gt;Academic&lt;/strong&gt; theme.
-Let me know what you think.&lt;/p&gt;
 </description>
     </item>
     
