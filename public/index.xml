@@ -11,6 +11,38 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Of Donocrats and Trumpublicans</title>
+      <link>/post/of-donocrats-and-trumpublicans/</link>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/of-donocrats-and-trumpublicans/</guid>
+      <description>&lt;p&gt;I wish it were otherwise, but I agree with &lt;a href=&#34;http://nymag.com/intelligencer/2019/03/trump-is-a-massive-failure-and-getting-exactly-what-he-wants.html&#34; target=&#34;_blank&#34;&gt;Andrew Sullivan&lt;/a&gt;.
+Regardless of what the Mueller report holds, Trump has severely damaged the country and made our Nation weaker, not stronger.&lt;/p&gt;
+
+&lt;p&gt;Regretably, Mr. Trump has been exactly the sort of president many of us feared he would be.
+And his supporters, Donocrat and Trumpublican alike, actually like it that way.
+That is the grim reality that his opponents must face.
+His bombast and bluster and poutiness and pettiness appeal to large numbers of Americans.
+This charlatan&amp;rsquo;s charlatan seems authentic to them in ways that other more competent and legitimate leaders do not.
+Absent a meaningful challenge from within his own party, nowhere evident, that sentiment is unlikely to change.&lt;/p&gt;
+
+&lt;p&gt;I am reminded of &lt;a href=&#34;https://www.nytimes.com/2016/11/18/opinion/the-right-way-to-resist-trump.html&#34; target=&#34;_blank&#34;&gt;this essay in the &lt;em&gt;New York Times&lt;/em&gt;&lt;/a&gt; published before the dust of the 2016 election had truly settled.
+Zingales argues that opponents of Italy&amp;rsquo;s Trump-like prime minister, Silvio Berlusconi, learned the hard way that the only way to defeat a larger-than-life autocrat is to sweat the details.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The Italian experience provides a blueprint for how to defeat Mr. Trump. Only two men in Italy have won an electoral competition against Mr. Berlusconi: Romano Prodi and the current prime minister, Matteo Renzi (albeit only in a 2014 European election). Both of them treated Mr. Berlusconi as an ordinary opponent. They focused on the issues, not on his character.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The deficit has exploded, the border is insecure, North Korea remains a mortal threat to its neighbors, America&amp;rsquo;s reputation, power, and influence have declined, the rule of law has been weakened, and we have magnified the already challenges we must inevitably face in responding to climate change.
+Trump has not, will not, and cannot make America great.
+And his supporters have not, will not, and cannot acknowledge it.&lt;/p&gt;
+
+&lt;p&gt;But as &lt;a href=&#34;https://www.brainyquote.com/quotes/john_adams_134175&#34; target=&#34;_blank&#34;&gt;John Adams said&lt;/a&gt;, &amp;ldquo;Facts are stubborn things; and whatever may be our wishes, our inclinations, or the dictates of our passions, they cannot alter the state of facts and evidence.&amp;rdquo;
+And it is the facts and evidence of Trump&amp;rsquo;s incompetence we must highlight, relentlessly and fearlessly, to defeat him.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Burns a bridge</title>
       <link>/post/burns-a-bridge/</link>
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
@@ -478,16 +510,6 @@ We will collect, annotate (code), and openly share on &lt;a href=&#34;https://da
 They contain faces and voices that cannot be easily eliminated or altered without harming the value of the recordings for other researchers.
 My colleagues and I developed a data sharing policy framework for Databrary that requires researchers to gain consent to share from research participants and restricts access to institutionally-approved researchers.
 Databrary&amp;rsquo;s template sharing release (permission) language may be found &lt;a href=&#34;https://www.databrary.org/resources/templates/release-template.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, and some draft language relevant for gaining permission to share identifiable in the context of the EU&amp;rsquo;s General Data Protection Regulation (GDPR) may be found &lt;a href=&#34;https://github.com/gilmore-lab/ethical-data-sharing-w-GDPR&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>databraryapi package</title>
-      <link>/project/databraryapi/</link>
-      <pubDate>Thu, 27 Dec 2018 12:52:01 -0500</pubDate>
-      
-      <guid>/project/databraryapi/</guid>
-      <description>&lt;p&gt;I have released a working version (0.1.4) of an R package that interacts with the &lt;a href=&#34;https://databrary.org&#34; target=&#34;_blank&#34;&gt;Databrary.org&lt;/a&gt; API.&lt;/p&gt;
 </description>
     </item>
     
