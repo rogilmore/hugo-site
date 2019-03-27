@@ -228,6 +228,14 @@
     
     <url>
     
+      <loc>/talk/cne-2019-03-27/</loc>
+      <lastmod>2018-03-27T12:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/talk/srcd-2019-03-22/</loc>
       <lastmod>2018-03-18T00:00:00-04:00</lastmod>
     </url>
@@ -532,6 +540,15 @@
     
     <url>
     
+      <loc>/tags/play/</loc>
+      <lastmod>2018-03-27T12:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/</loc>
       <lastmod>2018-12-28T16:55:00-05:00</lastmod>
       <priority>0</priority>
@@ -718,6 +735,15 @@
     
     <url>
     
+      <loc>/tags/cybernetics/</loc>
+      <lastmod>2018-03-27T12:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/cycling/</loc>
       <lastmod>2018-12-28T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -738,6 +764,15 @@
     
       <loc>/tags/data-sharing/</loc>
       <lastmod>2018-12-28T16:55:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/dynamics/</loc>
+      <lastmod>2018-03-27T12:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -954,6 +989,15 @@
     
       <loc>/tags/theatre/</loc>
       <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/unknown-knowns/</loc>
+      <lastmod>2018-03-27T12:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
