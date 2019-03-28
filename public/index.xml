@@ -11,6 +11,32 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>If you JS8...</title>
+      <link>/post/if-you-js8/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/if-you-js8/</guid>
+      <description>&lt;p&gt;One thing I like about ham radio is the variety.
+There are new modes to try and new things to learn all the time.&lt;/p&gt;
+
+&lt;p&gt;Most recently, I&amp;rsquo;ve been playing with the low power, weak signal &lt;a href=&#34;http://js8call.com/&#34; target=&#34;_blank&#34;&gt;JS8Call mode&lt;/a&gt;.
+JS8Call takes the weak signal characteristics of the JT8 mode that has taken the ham world by storm, but enables actual ragchew-style QSOs.
+This means that with low power, modest antennas, and poor propagation conditions, hams can have actual conversations with one another.&lt;/p&gt;
+
+&lt;p&gt;This represents a significant departure from FT8 where callsigns, grid squares, and signal reports are about all that get exchanged.
+I&amp;rsquo;ve played around with JT8, too, but the appeal seems limited to me.
+Yes, my elmer got DXCC on FT8 in less than a month, and yes, I&amp;rsquo;m still working my way there on SSB.
+But, JS8Call suits my interests more directly.
+The developer, a guy named Jordan Scherer is an open source guru and all around righteous ham, and he has a plan about where this sort of tool might go.
+Check out this &lt;a href=&#34;https://youtu.be/mZKhVcFOljY&#34; target=&#34;_blank&#34;&gt;YouTube video&lt;/a&gt; to see what I mean.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s how my 25 W signal was getting out earlier today.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../img/js8call-k3rog.jpg&#34;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Of Donocrats and Trumpublicans</title>
       <link>/post/of-donocrats-and-trumpublicans/</link>
       <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
@@ -497,19 +523,6 @@ We will collect, annotate (code), and openly share on &lt;a href=&#34;https://da
 &lt;pre&gt;&lt;code&gt;## No encoding supplied: defaulting to UTF-8.&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;&lt;img src=&#34;/post/2018-12-28-test-driven-development-is-hard-and-important_files/figure-html/unnamed-chunk-3-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;I’ve said in other places that I think scientists will eventually interact with their data programmatically – via scripts like this – with the data and materials stored in repositories that others can also access programmatically. Furthermore, I think that the philosophy of test-driven development can help make our software AND the results and findings we derive from it more robust and reproducible.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ethical data sharing</title>
-      <link>/project/permission-to-share/</link>
-      <pubDate>Thu, 27 Dec 2018 14:31:00 -0500</pubDate>
-      
-      <guid>/project/permission-to-share/</guid>
-      <description>&lt;p&gt;Video recordings pose challenges for data sharing.
-They contain faces and voices that cannot be easily eliminated or altered without harming the value of the recordings for other researchers.
-My colleagues and I developed a data sharing policy framework for Databrary that requires researchers to gain consent to share from research participants and restricts access to institutionally-approved researchers.
-Databrary&amp;rsquo;s template sharing release (permission) language may be found &lt;a href=&#34;https://www.databrary.org/resources/templates/release-template.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, and some draft language relevant for gaining permission to share identifiable in the context of the EU&amp;rsquo;s General Data Protection Regulation (GDPR) may be found &lt;a href=&#34;https://github.com/gilmore-lab/ethical-data-sharing-w-GDPR&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
