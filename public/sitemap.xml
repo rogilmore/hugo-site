@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/post/poets-may-know-it/</loc>
+      <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/if-you-js8/</loc>
       <lastmod>2019-03-28T00:00:00+00:00</lastmod>
     </url>
@@ -865,8 +873,8 @@
     
     <url>
     
-      <loc>/tags/ham-radio/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+      <loc>/categories/ham-radio/</loc>
+      <lastmod>2019-03-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -874,8 +882,8 @@
     
     <url>
     
-      <loc>/categories/ham-radio/</loc>
-      <lastmod>2019-03-28T00:00:00+00:00</lastmod>
+      <loc>/tags/ham-radio/</loc>
+      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -928,8 +936,8 @@
     
     <url>
     
-      <loc>/tags/open-science/</loc>
-      <lastmod>2018-12-28T16:55:00-05:00</lastmod>
+      <loc>/categories/open-science/</loc>
+      <lastmod>2019-03-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -937,8 +945,8 @@
     
     <url>
     
-      <loc>/categories/open-science/</loc>
-      <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+      <loc>/tags/open-science/</loc>
+      <lastmod>2018-12-28T16:55:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -964,8 +972,8 @@
     
     <url>
     
-      <loc>/tags/poetry/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+      <loc>/categories/poetry/</loc>
+      <lastmod>2019-03-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -973,8 +981,8 @@
     
     <url>
     
-      <loc>/categories/poetry/</loc>
-      <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+      <loc>/tags/poetry/</loc>
+      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
