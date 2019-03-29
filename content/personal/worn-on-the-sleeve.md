@@ -18,38 +18,27 @@ linktitle = "Worn on the sleeve"
 +++
 
 I used to envy those who carried</br>
-
-their hearts
-
+their hearts</br>
 safe</br>
-surrounded by the warm fellowship of the other organs.
+surrounded by the warm fellowship of other organs.
 
-worn on the sleeve
-
-mine fits no item of clothing,
-
-so rides exposed,
-
-bumping into this sharp-edged
-
-tongue, or that pointed 
-
+worn on the sleeve</br>
+mine fits no item of clothing,</br>
+so rides exposed,</br>
+bumping into this sharp-edged</br>
+tongue, or that pointed</br>
 remark.
 
-but a bleeding heart is never really broken,
-
-and worn there
-
-it escapes its ribbed-cage.
+but a bleeding heart is never really broken,</br>
+and worn there</br>
+it escapes its ribbed-cage.</br>
 
 on the lam, its every beat sucks in sorrow,
+pumps out sweetness, the flow of life and its ebb.</br>
 
-pumps out sweetness, the flow of life and its ebb.
-
-worn there it shows itself to all and to me,
-
-each and every ticking second,
-
-that the time is always
+wristworn its hands waving,
+it warns all and me,</br>
+each staccato second,</br>
+that the time is always</br>
 
 now.
