@@ -28,7 +28,7 @@ Like many people in the software world, I’m entirely self-taught. Ok, I took a
       <pubDate>Thu, 27 Dec 2018 14:31:00 -0500</pubDate>
       
       <guid>/project/permission-to-share/</guid>
-      <description>Video recordings pose challenges for data sharing. They contain faces and voices that cannot be easily eliminated or altered without harming the value of the recordings for other researchers. My colleagues and I developed a data sharing policy framework for Databrary that requires researchers to gain consent to share from research participants and restricts access to institutionally-approved researchers. Databrary&amp;rsquo;s template sharing release (permission) language may be found here, and some draft language relevant for gaining permission to share identifiable in the context of the EU&amp;rsquo;s General Data Protection Regulation (GDPR) may be found here.</description>
+      <description>Identifiable data &lt;em&gt;can&lt;/em&gt; be shared ethically.</description>
     </item>
     
     <item>
@@ -37,7 +37,7 @@ Like many people in the software world, I’m entirely self-taught. Ok, I took a
       <pubDate>Thu, 27 Dec 2018 12:52:01 -0500</pubDate>
       
       <guid>/project/databraryapi/</guid>
-      <description>I have released a working version (0.1.4) of an R package that interacts with the Databrary.org API.</description>
+      <description>An R package for interacting with the Databrary.org API.</description>
     </item>
     
     <item>

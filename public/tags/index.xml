@@ -7,44 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>AI</title>
-      <link>/tags/ai/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
+      <title>data sharing</title>
+      <link>/tags/data-sharing/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ai/</guid>
+      <guid>/tags/data-sharing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CW</title>
-      <link>/tags/cw/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      <title>ethics</title>
+      <link>/tags/ethics/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cw/</guid>
+      <guid>/tags/ethics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Databrary</title>
-      <link>/tags/databrary/</link>
-      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <title>pre-registration</title>
+      <link>/tags/pre-registration/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/databrary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GDPR</title>
-      <link>/tags/gdpr/</link>
-      <pubDate>Thu, 27 Dec 2018 14:31:00 -0500</pubDate>
-      
-      <guid>/tags/gdpr/</guid>
+      <guid>/tags/pre-registration/</guid>
       <description></description>
     </item>
     
@@ -58,65 +49,11 @@
     </item>
     
     <item>
-      <title>Matlab</title>
-      <link>/tags/matlab/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/matlab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Middle East</title>
-      <link>/tags/middle-east/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/middle-east/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PLAY</title>
-      <link>/tags/play/</link>
-      <pubDate>Tue, 27 Mar 2018 12:00:00 -0400</pubDate>
-      
-      <guid>/tags/play/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>/tags/r/</link>
-      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SRCD</title>
       <link>/tags/srcd/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/srcd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>action</title>
-      <link>/tags/action/</link>
-      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/action/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>annotation</title>
-      <link>/tags/annotation/</link>
-      <pubDate>Fri, 28 Dec 2018 16:55:00 -0500</pubDate>
-      
-      <guid>/tags/annotation/</guid>
       <description></description>
     </item>
     
@@ -130,29 +67,20 @@
     </item>
     
     <item>
-      <title>art</title>
-      <link>/tags/art/</link>
-      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/art/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>audition</title>
-      <link>/tags/audition/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/audition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>behavior</title>
       <link>/tags/behavior/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>action</title>
+      <link>/tags/action/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/action/</guid>
       <description></description>
     </item>
     
@@ -166,173 +94,11 @@
     </item>
     
     <item>
-      <title>blogging</title>
-      <link>/tags/blogging/</link>
-      <pubDate>Thu, 27 Dec 2018 12:37:00 -0500</pubDate>
-      
-      <guid>/tags/blogging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>border wall</title>
-      <link>/tags/border-wall/</link>
-      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/border-wall/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>causal modeling</title>
-      <link>/tags/causal-modeling/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/causal-modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>computer vision</title>
-      <link>/tags/computer-vision/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/computer-vision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>consent</title>
-      <link>/tags/consent/</link>
-      <pubDate>Thu, 27 Dec 2018 14:31:00 -0500</pubDate>
-      
-      <guid>/tags/consent/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cybernetics</title>
-      <link>/tags/cybernetics/</link>
-      <pubDate>Tue, 27 Mar 2018 12:00:00 -0400</pubDate>
-      
-      <guid>/tags/cybernetics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cycling</title>
-      <link>/tags/cycling/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/cycling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data science</title>
-      <link>/tags/data-science/</link>
-      <pubDate>Thu, 27 Dec 2018 12:52:01 -0500</pubDate>
-      
-      <guid>/tags/data-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data sharing</title>
-      <link>/tags/data-sharing/</link>
-      <pubDate>Fri, 28 Dec 2018 16:55:00 -0500</pubDate>
-      
-      <guid>/tags/data-sharing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dynamics</title>
-      <link>/tags/dynamics/</link>
-      <pubDate>Tue, 27 Mar 2018 12:00:00 -0400</pubDate>
-      
-      <guid>/tags/dynamics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>emotion</title>
-      <link>/tags/emotion/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/emotion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ethics</title>
-      <link>/tags/ethics/</link>
-      <pubDate>Thu, 27 Dec 2018 14:31:00 -0500</pubDate>
-      
-      <guid>/tags/ethics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ethogram</title>
       <link>/tags/ethogram/</link>
       <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/ethogram/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>folk music</title>
-      <link>/tags/folk-music/</link>
-      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/folk-music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ham radio</title>
-      <link>/tags/ham-radio/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/ham-radio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hiking</title>
-      <link>/tags/hiking/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/hiking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>motion perception</title>
-      <link>/tags/motion-perception/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/motion-perception/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>music</title>
-      <link>/tags/music/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neuroscience</title>
-      <link>/tags/neuroscience/</link>
-      <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/neuroscience/</guid>
       <description></description>
     </item>
     
@@ -346,6 +112,69 @@
     </item>
     
     <item>
+      <title>causal modeling</title>
+      <link>/tags/causal-modeling/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/causal-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>motion perception</title>
+      <link>/tags/motion-perception/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/motion-perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CW</title>
+      <link>/tags/cw/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>art</title>
+      <link>/tags/art/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>border wall</title>
+      <link>/tags/border-wall/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/border-wall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>folk music</title>
+      <link>/tags/folk-music/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/folk-music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>annotation</title>
+      <link>/tags/annotation/</link>
+      <pubDate>Fri, 28 Dec 2018 16:55:00 -0500</pubDate>
+      
+      <guid>/tags/annotation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>open science</title>
       <link>/tags/open-science/</link>
       <pubDate>Fri, 28 Dec 2018 16:55:00 -0500</pubDate>
@@ -355,38 +184,29 @@
     </item>
     
     <item>
-      <title>paddling</title>
-      <link>/tags/paddling/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      <title>video</title>
+      <link>/tags/video/</link>
+      <pubDate>Fri, 28 Dec 2018 16:55:00 -0500</pubDate>
       
-      <guid>/tags/paddling/</guid>
+      <guid>/tags/video/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>perception</title>
-      <link>/tags/perception/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 -0500</pubDate>
+      <title>Databrary</title>
+      <link>/tags/databrary/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/perception/</guid>
+      <guid>/tags/databrary/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>poetry</title>
-      <link>/tags/poetry/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/poetry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>policy</title>
-      <link>/tags/policy/</link>
-      <pubDate>Thu, 27 Dec 2018 14:31:00 -0500</pubDate>
-      
-      <guid>/tags/policy/</guid>
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     
@@ -409,11 +229,191 @@
     </item>
     
     <item>
+      <title>GDPR</title>
+      <link>/tags/gdpr/</link>
+      <pubDate>Thu, 27 Dec 2018 14:31:00 -0500</pubDate>
+      
+      <guid>/tags/gdpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>consent</title>
+      <link>/tags/consent/</link>
+      <pubDate>Thu, 27 Dec 2018 14:31:00 -0500</pubDate>
+      
+      <guid>/tags/consent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>policy</title>
+      <link>/tags/policy/</link>
+      <pubDate>Thu, 27 Dec 2018 14:31:00 -0500</pubDate>
+      
+      <guid>/tags/policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data science</title>
+      <link>/tags/data-science/</link>
+      <pubDate>Thu, 27 Dec 2018 12:52:01 -0500</pubDate>
+      
+      <guid>/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blogging</title>
+      <link>/tags/blogging/</link>
+      <pubDate>Thu, 27 Dec 2018 12:37:00 -0500</pubDate>
+      
+      <guid>/tags/blogging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Middle East</title>
+      <link>/tags/middle-east/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/middle-east/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>war</title>
+      <link>/tags/war/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/war/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>audition</title>
+      <link>/tags/audition/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/audition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emotion</title>
+      <link>/tags/emotion/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/emotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perception</title>
+      <link>/tags/perception/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neuroscience</title>
+      <link>/tags/neuroscience/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/neuroscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cycling</title>
+      <link>/tags/cycling/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/cycling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ham radio</title>
+      <link>/tags/ham-radio/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/ham-radio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hiking</title>
+      <link>/tags/hiking/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/hiking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>/tags/music/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>paddling</title>
+      <link>/tags/paddling/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/paddling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poetry</title>
+      <link>/tags/poetry/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/poetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>theatre</title>
       <link>/tags/theatre/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/tags/theatre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PLAY</title>
+      <link>/tags/play/</link>
+      <pubDate>Tue, 27 Mar 2018 12:00:00 -0400</pubDate>
+      
+      <guid>/tags/play/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cybernetics</title>
+      <link>/tags/cybernetics/</link>
+      <pubDate>Tue, 27 Mar 2018 12:00:00 -0400</pubDate>
+      
+      <guid>/tags/cybernetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dynamics</title>
+      <link>/tags/dynamics/</link>
+      <pubDate>Tue, 27 Mar 2018 12:00:00 -0400</pubDate>
+      
+      <guid>/tags/dynamics/</guid>
       <description></description>
     </item>
     
@@ -427,20 +427,29 @@
     </item>
     
     <item>
-      <title>video</title>
-      <link>/tags/video/</link>
-      <pubDate>Fri, 28 Dec 2018 16:55:00 -0500</pubDate>
+      <title>Matlab</title>
+      <link>/tags/matlab/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/tags/video/</guid>
+      <guid>/tags/matlab/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>war</title>
-      <link>/tags/war/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <title>AI</title>
+      <link>/tags/ai/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
       
-      <guid>/tags/war/</guid>
+      <guid>/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer vision</title>
+      <link>/tags/computer-vision/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/computer-vision/</guid>
       <description></description>
     </item>
     

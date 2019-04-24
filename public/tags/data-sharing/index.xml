@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 28 Dec 2018 16:55:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/data-sharing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Devilish details</title>
+      <link>/post/devilish-details/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/devilish-details/</guid>
+      <description>I&amp;rsquo;ve found myself at odds recently with colleagues who, like me, view themselves as advocates for open science. This post attempts to clarify what I see as the crux of our disagreements.
+We don&amp;rsquo;t own our data Most researchers feel a strong sense of ownership about our data and often, properly so I think, feel especially protective of our research participants. The fact remains, however, that despite our essential role in determining what data get collected from whom and how, we researchers have the weakest claim to actually owning the data we collect.</description>
+    </item>
     
     <item>
       <title>PLAY project</title>
@@ -18,7 +28,7 @@
       <pubDate>Fri, 28 Dec 2018 16:55:00 -0500</pubDate>
       
       <guid>/project/play/</guid>
-      <description>The Play &amp;amp; Learning Across a Year (PLAY) project will provide a first-ever glimpse inside the homes of almost 1,000 families across the U.S. We will collect, annotate (code), and openly share on Databrary video recordings of mothers and 12-, 18-, and 24-month-old infants engaged in natural behavior in their homes.</description>
+      <description>The Play &amp;amp; Learning Across a Year Project</description>
     </item>
     
     <item>
@@ -27,7 +37,7 @@
       <pubDate>Thu, 27 Dec 2018 14:31:00 -0500</pubDate>
       
       <guid>/project/permission-to-share/</guid>
-      <description>Video recordings pose challenges for data sharing. They contain faces and voices that cannot be easily eliminated or altered without harming the value of the recordings for other researchers. My colleagues and I developed a data sharing policy framework for Databrary that requires researchers to gain consent to share from research participants and restricts access to institutionally-approved researchers. Databrary&amp;rsquo;s template sharing release (permission) language may be found here, and some draft language relevant for gaining permission to share identifiable in the context of the EU&amp;rsquo;s General Data Protection Regulation (GDPR) may be found here.</description>
+      <description>Identifiable data &lt;em&gt;can&lt;/em&gt; be shared ethically.</description>
     </item>
     
     <item>
@@ -45,7 +55,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/project/databrary.org/</guid>
-      <description>Karen Adolph and I co-founded Databrary.org, a data library specialized for securely storing, streaming, and sharing video and audio recordings for use as data and documentation.</description>
+      <description>An open, secure data library for sharing video.</description>
     </item>
     
     <item>
@@ -54,7 +64,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/project/datavyu.org/</guid>
-      <description>Datavyu.org is a free open-source tool for video and audio annotation.</description>
+      <description>An open source tool for video annotation.</description>
     </item>
     
   </channel>
