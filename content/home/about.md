@@ -24,7 +24,7 @@ weight = 5
   year = 1997
 
 [[education.courses]]
-  course = "BA in Cognitive Science"
+  course = "BA cum laude in Cognitive Science"
   institution = "Brown University"
   year = 1985
  
@@ -32,6 +32,6 @@ weight = 5
 
 # Biography
 
-Rick Gilmore is Associate Professor of [Psychology](https://psych.la.psu.edu) at [The Pennsylvania State University](https://www.psu.edu).
+Rick Gilmore is Professor of [Psychology](https://psych.la.psu.edu) at [The Pennsylvania State University](https://www.psu.edu).
 He studies the development of visual perception in infants, children, and adults using behavioral, neural imaging, and computational methods, as described more fully on his [lab website](https://gilmore-lab.github.io).
 He co-founded and co-directs the [Databrary.org](https://databrary.org) data library, co-founded the [Penn State Social, Life, & Engineering Sciences Imaging Center (SLEIC)](https://www.imaging.psu.edu), and advocates for more open, transparent, and reproducible scientific practices, especially in psychology and neuroscience.

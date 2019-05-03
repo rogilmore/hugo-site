@@ -28,15 +28,23 @@ date_format = "January 2006"
   description = """Co-founded the first open data library specialized for storing, streaming, and sharing video data."""
 
 [[experience]]
-  title = "Associate Professor"
+  title = "Professor of Psychology"
+  company = "The Pennsylvania State University"
+  company_url = "http://www.psu.edu"
+  location = "Pennsylvania"
+  date_start = "2019-07-01"
+  date_end = ""
+
+[[experience]]
+  title = "Associate Professor of Psychology"
   company = "The Pennsylvania State University"
   company_url = "http://www.psu.edu"
   location = "Pennsylvania"
   date_start = "2004-07-01"
-  date_end = ""
+  date_end = "2019-06-30"
 
 [[experience]]
-  title = "Assistant Professor"
+  title = "Assistant Professor of Psychology"
   company = "The Pennsylvania State University"
   company_url = "http://www.psu.edu"
   location = "Pennsylvania"
