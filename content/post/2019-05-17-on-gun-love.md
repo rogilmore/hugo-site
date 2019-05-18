@@ -17,7 +17,7 @@ the atheist prays every day to gods she finds incomprehensible:</br>
 
 Remove the sticks of destruction</br>
 from our arsenals and minds.</br>
-Banish them to etnernity.</br>
+Banish them to eternity.</br>
 Cleanse us that we may be clean.
 
 
