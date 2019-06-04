@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 28 Dec 2018 16:55:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 28 Dec 2018 16:55:00 -0700</lastBuildDate>
     
 	<atom:link href="/tags/open-science/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>PLAY project</title>
       <link>/project/play/</link>
-      <pubDate>Fri, 28 Dec 2018 16:55:00 -0500</pubDate>
+      <pubDate>Fri, 28 Dec 2018 16:55:00 -0700</pubDate>
       
       <guid>/project/play/</guid>
       <description>The Play &amp;amp; Learning Across a Year Project</description>
@@ -24,7 +24,7 @@
     <item>
       <title>The whole elephant</title>
       <link>/talk/cne-2019-03-27/</link>
-      <pubDate>Tue, 27 Mar 2018 12:00:00 -0400</pubDate>
+      <pubDate>Tue, 27 Mar 2018 12:00:00 -0700</pubDate>
       
       <guid>/talk/cne-2019-03-27/</guid>
       <description>Click on the **Slides** button above to view the built-in slides feature.  </description>
@@ -33,7 +33,7 @@
     <item>
       <title>What SRCD is doing to address open science</title>
       <link>/talk/srcd-2019-03-22/</link>
-      <pubDate>Sun, 18 Mar 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 -0700</pubDate>
       
       <guid>/talk/srcd-2019-03-22/</guid>
       <description>Click on the **Slides** button above to view the built-in slides feature.  </description>
@@ -42,7 +42,7 @@
     <item>
       <title>Practical solutions for sharing data and materials from psychological research</title>
       <link>/publication/practical-solutions/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
       
       <guid>/publication/practical-solutions/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Databrary.org</title>
       <link>/project/databrary.org/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/project/databrary.org/</guid>
       <description>An open, secure data library for sharing video.</description>
@@ -60,7 +60,7 @@
     <item>
       <title>Datavyu.org</title>
       <link>/project/datavyu.org/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/project/datavyu.org/</guid>
       <description>An open source tool for video annotation.</description>

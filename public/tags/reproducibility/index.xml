@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reproducibility on Rick Gilmore&#39;s site</title>
+    <link>/tags/reproducibility/</link>
+    <description>Recent content in reproducibility on Rick Gilmore&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 04 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/reproducibility/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Is there a crisis of reproducibility in science?</title>
+      <link>/post/is-there-a-crisis-of-reproducibilityin-science/</link>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/is-there-a-crisis-of-reproducibilityin-science/</guid>
+      <description>A recent article in the Proceedings of the National Academy of Sciences by Redish et al. argues that &amp;lsquo;reproducibility failures are essential to scientific inquiry.&amp;rsquo; The authors remind readers that progress in many fields often proceeds haltingly, with successes, retrenchments, reconsiderations, and revisions. As examples, Redish et al. summarize the history of the Four Color Theorem, the claim that Fourier series can characterize any function, and the conditions under which neural networks can carry out certain computations.</description>
+    </item>
+    
+  </channel>
+</rss>

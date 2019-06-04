@@ -3,16 +3,25 @@
     
     <url>
     
-      <loc>/post/on-gun-love/</loc>
-      <lastmod>2019-05-17T00:00:00+00:00</lastmod>
+      <loc>/categories/</loc>
+      <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
     
     <url>
     
-      <loc>/categories/</loc>
-      <lastmod>2019-05-17T00:00:00+00:00</lastmod>
+      <loc>/post/is-there-a-crisis-of-reproducibilityin-science/</loc>
+      <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/open-science/</loc>
+      <lastmod>2019-06-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -21,7 +30,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2019-05-17T00:00:00+00:00</lastmod>
+      <lastmod>2019-06-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -30,8 +39,34 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2019-05-17T00:00:00+00:00</lastmod>
+      <lastmod>2019-06-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/open-data/</loc>
+      <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/reproducibility/</loc>
+      <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/on-gun-love/</loc>
+      <lastmod>2019-05-17T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -92,15 +127,6 @@
     <url>
     
       <loc>/tags/ethics/</loc>
-      <lastmod>2019-04-24T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/open-science/</loc>
       <lastmod>2019-04-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -393,7 +419,7 @@
     <url>
     
       <loc>/project/play/</loc>
-      <lastmod>2018-12-28T16:55:00-05:00</lastmod>
+      <lastmod>2018-12-28T16:55:00-07:00</lastmod>
     </url>
     
   
@@ -401,7 +427,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2018-12-28T16:55:00-05:00</lastmod>
+      <lastmod>2018-12-28T16:55:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -410,7 +436,7 @@
     <url>
     
       <loc>/tags/annotation/</loc>
-      <lastmod>2018-12-28T16:55:00-05:00</lastmod>
+      <lastmod>2018-12-28T16:55:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -419,7 +445,7 @@
     <url>
     
       <loc>/tags/open-science/</loc>
-      <lastmod>2018-12-28T16:55:00-05:00</lastmod>
+      <lastmod>2018-12-28T16:55:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -428,7 +454,7 @@
     <url>
     
       <loc>/tags/video/</loc>
-      <lastmod>2018-12-28T16:55:00-05:00</lastmod>
+      <lastmod>2018-12-28T16:55:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -481,7 +507,7 @@
     <url>
     
       <loc>/project/permission-to-share/</loc>
-      <lastmod>2018-12-27T14:31:00-05:00</lastmod>
+      <lastmod>2018-12-27T14:31:00-07:00</lastmod>
     </url>
     
   
@@ -489,7 +515,7 @@
     <url>
     
       <loc>/tags/gdpr/</loc>
-      <lastmod>2018-12-27T14:31:00-05:00</lastmod>
+      <lastmod>2018-12-27T14:31:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -498,7 +524,7 @@
     <url>
     
       <loc>/tags/consent/</loc>
-      <lastmod>2018-12-27T14:31:00-05:00</lastmod>
+      <lastmod>2018-12-27T14:31:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -507,7 +533,7 @@
     <url>
     
       <loc>/tags/policy/</loc>
-      <lastmod>2018-12-27T14:31:00-05:00</lastmod>
+      <lastmod>2018-12-27T14:31:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -516,7 +542,7 @@
     <url>
     
       <loc>/tags/data-science/</loc>
-      <lastmod>2018-12-27T12:52:01-05:00</lastmod>
+      <lastmod>2018-12-27T12:52:01-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -525,7 +551,7 @@
     <url>
     
       <loc>/project/databraryapi/</loc>
-      <lastmod>2018-12-27T12:52:01-05:00</lastmod>
+      <lastmod>2018-12-27T12:52:01-07:00</lastmod>
     </url>
     
   
@@ -533,7 +559,7 @@
     <url>
     
       <loc>/post/getting-started/</loc>
-      <lastmod>2018-12-27T12:37:00-05:00</lastmod>
+      <lastmod>2018-12-27T12:37:00-07:00</lastmod>
     </url>
     
   
@@ -541,7 +567,7 @@
     <url>
     
       <loc>/tags/blogging/</loc>
-      <lastmod>2018-12-27T12:37:00-05:00</lastmod>
+      <lastmod>2018-12-27T12:37:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -576,7 +602,7 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2018-12-05T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-05T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -585,7 +611,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2018-12-05T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-05T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -594,7 +620,7 @@
     <url>
     
       <loc>/publication/peep-ii-voices/</loc>
-      <lastmod>2018-12-05T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-05T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -602,7 +628,7 @@
     <url>
     
       <loc>/tags/audition/</loc>
-      <lastmod>2018-12-05T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-05T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -611,7 +637,7 @@
     <url>
     
       <loc>/tags/emotion/</loc>
-      <lastmod>2018-12-05T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-05T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -620,7 +646,7 @@
     <url>
     
       <loc>/tags/perception/</loc>
-      <lastmod>2018-12-05T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-05T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -629,7 +655,7 @@
     <url>
     
       <loc>/talk/olli-2018-10-29/</loc>
-      <lastmod>2018-10-29T00:00:00-04:00</lastmod>
+      <lastmod>2018-10-29T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -637,7 +663,7 @@
     <url>
     
       <loc>/tags/neuroscience/</loc>
-      <lastmod>2018-10-29T00:00:00-04:00</lastmod>
+      <lastmod>2018-10-29T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -646,7 +672,7 @@
     <url>
     
       <loc>/personal/</loc>
-      <lastmod>2018-12-31T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-31T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -654,7 +680,7 @@
     <url>
     
       <loc>/personal/adventure/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-28T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -662,7 +688,7 @@
     <url>
     
       <loc>/personal/arts/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-28T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -670,7 +696,7 @@
     <url>
     
       <loc>/personal/ham_radio_2/</loc>
-      <lastmod>2018-09-09T00:00:00-04:00</lastmod>
+      <lastmod>2018-09-09T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -678,7 +704,7 @@
     <url>
     
       <loc>/personal/ham_radio_1/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-28T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -686,7 +712,7 @@
     <url>
     
       <loc>/personal/heroics/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-28T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -694,7 +720,7 @@
     <url>
     
       <loc>/personal/public_service/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-28T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -702,7 +728,7 @@
     <url>
     
       <loc>/tags/cycling/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-28T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -711,7 +737,7 @@
     <url>
     
       <loc>/tags/ham-radio/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-28T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -720,7 +746,7 @@
     <url>
     
       <loc>/tags/hiking/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-28T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -729,7 +755,7 @@
     <url>
     
       <loc>/tags/music/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-28T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -738,7 +764,7 @@
     <url>
     
       <loc>/tags/paddling/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-28T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -747,7 +773,7 @@
     <url>
     
       <loc>/tags/poetry/</loc>
-      <lastmod>2019-03-29T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-29T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -756,7 +782,7 @@
     <url>
     
       <loc>/tags/theatre/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-28T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -765,7 +791,7 @@
     <url>
     
       <loc>/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00-04:00</lastmod>
+      <lastmod>2018-06-28T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -773,7 +799,7 @@
     <url>
     
       <loc>/tags/play/</loc>
-      <lastmod>2018-03-27T12:00:00-04:00</lastmod>
+      <lastmod>2018-03-27T12:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -782,7 +808,7 @@
     <url>
     
       <loc>/talk/cne-2019-03-27/</loc>
-      <lastmod>2018-03-27T12:00:00-04:00</lastmod>
+      <lastmod>2018-03-27T12:00:00-07:00</lastmod>
     </url>
     
   
@@ -790,7 +816,7 @@
     <url>
     
       <loc>/tags/cybernetics/</loc>
-      <lastmod>2018-03-27T12:00:00-04:00</lastmod>
+      <lastmod>2018-03-27T12:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -799,7 +825,7 @@
     <url>
     
       <loc>/tags/dynamics/</loc>
-      <lastmod>2018-03-27T12:00:00-04:00</lastmod>
+      <lastmod>2018-03-27T12:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -808,7 +834,7 @@
     <url>
     
       <loc>/tags/unknown-knowns/</loc>
-      <lastmod>2018-03-27T12:00:00-04:00</lastmod>
+      <lastmod>2018-03-27T12:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -817,7 +843,7 @@
     <url>
     
       <loc>/talk/srcd-2019-03-22/</loc>
-      <lastmod>2018-03-18T00:00:00-04:00</lastmod>
+      <lastmod>2018-03-18T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -825,7 +851,7 @@
     <url>
     
       <loc>/publication/practical-solutions/</loc>
-      <lastmod>2018-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -833,7 +859,7 @@
     <url>
     
       <loc>/personal/goad-gunner/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-18T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -841,7 +867,7 @@
     <url>
     
       <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -849,7 +875,7 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -857,7 +883,7 @@
     <url>
     
       <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -865,7 +891,7 @@
     <url>
     
       <loc>/project/databrary.org/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -873,7 +899,7 @@
     <url>
     
       <loc>/project/datavyu.org/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -881,7 +907,7 @@
     <url>
     
       <loc>/tags/matlab/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -890,7 +916,7 @@
     <url>
     
       <loc>/project/peep/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -898,7 +924,7 @@
     <url>
     
       <loc>/personal/fourth-and-long/</loc>
-      <lastmod>2019-03-29T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-29T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -906,7 +932,7 @@
     <url>
     
       <loc>/personal/delightful-delusion/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-18T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -914,7 +940,7 @@
     <url>
     
       <loc>/personal/promise/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-18T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -922,7 +948,7 @@
     <url>
     
       <loc>/personal/specific-gravity/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-18T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -930,7 +956,7 @@
     <url>
     
       <loc>/personal/i-never-metaphysics/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-18T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -938,7 +964,7 @@
     <url>
     
       <loc>/personal/haiku-4-u/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-18T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -946,7 +972,7 @@
     <url>
     
       <loc>/personal/lonely-cicada/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-18T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -954,7 +980,7 @@
     <url>
     
       <loc>/personal/oh-beautiful/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-18T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -962,7 +988,7 @@
     <url>
     
       <loc>/personal/food-for-thought/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-18T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -970,7 +996,7 @@
     <url>
     
       <loc>/personal/four-letter-word/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-18T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -978,7 +1004,7 @@
     <url>
     
       <loc>/personal/who-knows-how-to-unmake-love/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-18T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -986,7 +1012,7 @@
     <url>
     
       <loc>/personal/lipstick-on-a-pig/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-18T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -994,7 +1020,7 @@
     <url>
     
       <loc>/personal/unsolicited-advice/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-18T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -1002,7 +1028,7 @@
     <url>
     
       <loc>/personal/who-shall-lionize/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-18T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -1010,7 +1036,7 @@
     <url>
     
       <loc>/personal/angels-blue/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-18T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -1018,7 +1044,7 @@
     <url>
     
       <loc>/personal/love-of-death/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-18T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -1026,7 +1052,7 @@
     <url>
     
       <loc>/personal/no-one-loves-a-volcano/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-18T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -1034,7 +1060,7 @@
     <url>
     
       <loc>/personal/the-physics-of-love/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-18T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -1042,7 +1068,7 @@
     <url>
     
       <loc>/personal/worn-on-the-sleeve/</loc>
-      <lastmod>2019-03-29T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-29T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -1050,7 +1076,7 @@
     <url>
     
       <loc>/personal/there-are-no-heroes/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-18T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -1058,7 +1084,7 @@
     <url>
     
       <loc>/personal/we-do-not-swim/</loc>
-      <lastmod>2019-03-29T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-29T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -1066,7 +1092,7 @@
     <url>
     
       <loc>/personal/joy-untethered/</loc>
-      <lastmod>2019-03-29T00:00:00-04:00</lastmod>
+      <lastmod>2019-03-29T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -1074,7 +1100,7 @@
     <url>
     
       <loc>/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00-04:00</lastmod>
+      <lastmod>2013-07-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1083,7 +1109,7 @@
     <url>
     
       <loc>/tags/ai/</loc>
-      <lastmod>2013-07-01T00:00:00-04:00</lastmod>
+      <lastmod>2013-07-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1092,7 +1118,7 @@
     <url>
     
       <loc>/publication/autovidev/</loc>
-      <lastmod>2013-07-01T00:00:00-04:00</lastmod>
+      <lastmod>2013-07-01T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -1100,7 +1126,7 @@
     <url>
     
       <loc>/tags/computer-vision/</loc>
-      <lastmod>2013-07-01T00:00:00-04:00</lastmod>
+      <lastmod>2013-07-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     

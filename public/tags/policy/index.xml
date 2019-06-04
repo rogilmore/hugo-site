@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 27 Dec 2018 14:31:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 27 Dec 2018 14:31:00 -0700</lastBuildDate>
     
 	<atom:link href="/tags/policy/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Ethical data sharing</title>
       <link>/project/permission-to-share/</link>
-      <pubDate>Thu, 27 Dec 2018 14:31:00 -0500</pubDate>
+      <pubDate>Thu, 27 Dec 2018 14:31:00 -0700</pubDate>
       
       <guid>/project/permission-to-share/</guid>
       <description>Identifiable data &lt;em&gt;can&lt;/em&gt; be shared ethically.</description>

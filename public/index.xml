@@ -6,8 +6,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 17 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Is there a crisis of reproducibility in science?</title>
+      <link>/post/is-there-a-crisis-of-reproducibilityin-science/</link>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/is-there-a-crisis-of-reproducibilityin-science/</guid>
+      <description>&lt;p&gt;A recent &lt;a href=&#34;http://doi.org/doi/10.1073/pnas.1806370115&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt; in the Proceedings of the National Academy of Sciences by Redish et al. argues that &amp;lsquo;reproducibility failures are essential to scientific inquiry.&amp;rsquo;
+The authors remind readers that progress in many fields often proceeds haltingly, with successes, retrenchments, reconsiderations, and revisions.
+As examples, Redish et al. summarize the history of the &lt;a href=&#34;https://en.wikipedia.org/wiki/Four_color_theorem&#34; target=&#34;_blank&#34;&gt;Four Color Theorem&lt;/a&gt;, the claim that &lt;a href=&#34;https://en.wikipedia.org/wiki/Fourier_series&#34; target=&#34;_blank&#34;&gt;Fourier series&lt;/a&gt; can characterize any function, and the conditions under which neural networks can carry out certain computations.
+I find useful these reminders from mathematics and computer science that progress and regress are essential parts of the trajectory of scientific discovery, but I find unconvincing arguments that &amp;lsquo;many of the current concerns about reproducibility overlook the dynamic, iterative nature of the process of discovery.&amp;rsquo;&lt;/p&gt;
+
+&lt;p&gt;According to a &lt;a href=&#34;https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970&#34; target=&#34;_blank&#34;&gt;2016 survey in Nature&lt;/a&gt;, some 90% of scientists surveyed agreed that &amp;lsquo;there is a reproducibility crisis.&amp;rsquo;
+Sixty to eighty percent of scientists in fields from chemistry to earth and environmental sciences reported failing to reproduce someone else&amp;rsquo;s experiment, and 40-60% reported failing to reproduce their own experiments.
+Respondents expressed widely-ranging opinions about &amp;lsquo;how much published work in your field is reproducible?&amp;rsquo;
+Curiously, physicists and chemists were most confident in the literature AND most likely to report having failed to reproduce a study.
+Perhaps chemists and physicists are more likely to attempt to reproduce published results than scientists in other fields.&lt;/p&gt;
+
+&lt;p&gt;Redish et al. rightly point out that no single study should be viewed as definitive, and that discovering robust findings takes time.
+But I think the authors miss an opportunity to talk about what specific practices accelerate the process of discovery and what practices retard it.
+Open sharing of results, positive and negative, data, experimental procedures, analysis code, and materials accelerates progress.
+In the fields of psychology, vision science, and neuroscience I am most familiar with, failures to replicate are almost impossible to publish.
+If the failures aren&amp;rsquo;t published, discovering the reasons for the failure will be difficult to discern.
+Open data, materials, analysis code, and procedure sharing are slowly growing in popularity, but still not commonplace.
+Without ready access to these elements, it is almost certain that attempts to replicate will differ from the original finding in ways that may or may not be readily apparent.&lt;/p&gt;
+
+&lt;p&gt;Redish et al. state:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A failure to reproduce is only the first step in scientific inquiry. In many ways, how science responds to these failures is what determines whether it succeeds.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I agree.
+And the response of many open science advocates is to encourage our colleagues to adopt more transparent practices in reporting and sharing results, data, analyses, and materials, and to build &lt;a href=&#34;https://databrary.org&#34; target=&#34;_blank&#34;&gt;tools&lt;/a&gt; for making this easy.
+If we want to build &amp;lsquo;a genuinely cumulative science&amp;rsquo;, to borrow a phrase from &lt;a href=&#34;https://www.psychologicalscience.org/observer/becoming-a-cumulative-science&#34; target=&#34;_blank&#34;&gt;George Mischel&lt;/a&gt;, we need to attend to improving the processes of self-correction that Redish et al. rightly point out are endemic to science and essential to its power.
+Right now, it&amp;rsquo;s far too difficult for researchers to learn about failures to replicate or generalize and far too difficult to explore the reasons why.
+So perhaps the crisis of reproducibility is more usefully thought of as a crisis of transparency, and if this is so, there are ready solutions at hand.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Atheist prayer</title>
@@ -581,43 +620,6 @@ And it&amp;rsquo;s good to give older brains a tough, but realizable challenge.
 Especially when there are concrete and visible measures of success.&lt;/p&gt;
 
 &lt;p&gt;So any no-code hams out there who haven&amp;rsquo;t taken the plunge, come on in!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New lab logo</title>
-      <link>/post/new-lab-logo/</link>
-      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/new-lab-logo/</guid>
-      <description>&lt;p&gt;For I don&amp;rsquo;t remember how many years I&amp;rsquo;ve wanted a lab logo.
-I thought that designing a logo was something that &lt;em&gt;some&lt;/em&gt; student might actually enjoy doing.
-But I never pushed or insisted, and so it never happened.&lt;/p&gt;
-
-&lt;p&gt;Then, as a byproduct of a bunch of reading I&amp;rsquo;ve been doing about causal modeling and the philosophy of science, I came up with a figure that seems to work on several levels.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../img/nested-causality.jpg.png&#34; height=150px/&gt;&lt;/p&gt;
-
-&lt;p&gt;The outer circle represents the world, the next circle the body that is embedded in the world, the next the nervous system embedded in that body (in the world), and the smallest the mind embedded in the brain (in the body in the world).
-The world, body, and brain are directly measurable in various ways.
-The mind is not.
-We infer properties and structures of the mind indirectly, through patterns of brain activity or peripheral physiology or behavior.
-The focal point of psychology as a science is making inferences about something that cannot be directly measured.
-This is one reason psychology is harder than physics.&lt;/p&gt;
-
-&lt;p&gt;The figure has other associations.
-It is similar to one used to demonstrate that rotational motion in 2 dimensions can evoke the perception of an object in 3 dimensions &amp;ndash; something called the stereokinetic depth effect (SKE).
-It evokes the perception of a cone-like shape protruding up and to the left.
-And it evokes a weaker perception of a tunnel.
-I study depth perception and motion perception, so these features make the figure even more appealing.&lt;/p&gt;
-
-&lt;p&gt;Finally, the figure could be viewed as a large letter O, for openness, something I now embrace in all aspects of my scholarship.&lt;/p&gt;
-
-&lt;p&gt;I confess that I was just trying a new way to depict the embedded causal relationships among mind, brain, body, and the environment and found a color scheme I liked.
-The rest was purely accidental.
-But I guess invention is like that sometimes.&lt;/p&gt;
-
-&lt;p&gt;I hope you like it.&lt;/p&gt;
 </description>
     </item>
     
