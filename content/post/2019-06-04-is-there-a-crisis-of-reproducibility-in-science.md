@@ -35,6 +35,6 @@ Redish et al. state:
 
 I agree.
 And the response of many open science advocates is to encourage our colleagues to adopt more transparent practices in reporting and sharing results, data, analyses, and materials, and to build [tools](https://databrary.org) for making this easy.
-If we want to build 'a genuinely cumulative science', to borrow a phrase from [George Mischel](https://www.psychologicalscience.org/observer/becoming-a-cumulative-science), we need to attend to improving the processes of self-correction that Redish et al. rightly point out are endemic to science and essential to its power.
+If we want to build 'a genuinely cumulative science', to borrow a phrase from [Walter Mischel](https://www.psychologicalscience.org/observer/becoming-a-cumulative-science), we need to attend to improving the processes of self-correction that Redish et al. rightly point out are endemic to science and essential to its power.
 Right now, it's far too difficult for researchers to learn about failures to replicate or generalize and far too difficult to explore the reasons why.
 So perhaps the crisis of reproducibility is more usefully thought of as a crisis of transparency, and if this is so, there are ready solutions at hand.
