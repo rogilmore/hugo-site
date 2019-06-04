@@ -12,17 +12,8 @@
     
     <url>
     
-      <loc>/post/is-there-a-crisis-of-reproducibilityin-science/</loc>
+      <loc>/post/is-there-a-crisis-of-reproducibility-in-science/</loc>
       <lastmod>2019-06-04T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/open-science/</loc>
-      <lastmod>2019-06-04T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -48,6 +39,15 @@
     <url>
     
       <loc>/tags/open-data/</loc>
+      <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/open-science/</loc>
       <lastmod>2019-06-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

@@ -2,7 +2,7 @@
 title: Is there a crisis of reproducibility in science?
 author: ~
 date: '2019-06-04'
-slug: is-there-a-crisis-of-reproducibilityin-science
+slug: is-there-a-crisis-of-reproducibility-in-science
 categories: ['Open Science']
 tags: ['reproducibility', 'open data']
 image:
