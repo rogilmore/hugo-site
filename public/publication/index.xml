@@ -7,15 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>They get rhythm--Who could ask for anything more? Commentary on Brakke &amp; Pacheco, 2019</title>
+      <link>/publication/they-get-rhythm/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/they-get-rhythm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoViDev: A computer-vision framework to enhance and accelerate research in human development</title>
+      <link>/publication/autovidev/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/autovidev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Young children&#39;s neural processing of their mother’s voice: An fMRI study</title>
       <link>/publication/peep-ii-voices/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>/publication/peep-ii-voices/</guid>
       <description></description>
@@ -24,18 +42,9 @@
     <item>
       <title>Practical solutions for sharing data and materials from psychological research</title>
       <link>/publication/practical-solutions/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
       <guid>/publication/practical-solutions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AutoViDev: A computer-vision framework to enhance and accelerate research in human development</title>
-      <link>/publication/autovidev/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0700</pubDate>
-      
-      <guid>/publication/autovidev/</guid>
       <description></description>
     </item>
     

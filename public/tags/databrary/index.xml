@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 28 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tags/databrary/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>They get rhythm--Who could ask for anything more? Commentary on Brakke &amp; Pacheco, 2019</title>
+      <link>/publication/they-get-rhythm/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/they-get-rhythm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoViDev: A computer-vision framework to enhance and accelerate research in human development</title>
+      <link>/publication/autovidev/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/autovidev/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Test-driven development is hard...and important.</title>
@@ -25,7 +43,7 @@ Like many people in the software world, I’m entirely self-taught. Ok, I took a
     <item>
       <title>Ethical data sharing</title>
       <link>/project/permission-to-share/</link>
-      <pubDate>Thu, 27 Dec 2018 14:31:00 -0700</pubDate>
+      <pubDate>Thu, 27 Dec 2018 14:31:00 -0500</pubDate>
       
       <guid>/project/permission-to-share/</guid>
       <description>Identifiable data &lt;em&gt;can&lt;/em&gt; be shared ethically.</description>
@@ -34,7 +52,7 @@ Like many people in the software world, I’m entirely self-taught. Ok, I took a
     <item>
       <title>databraryapi package</title>
       <link>/project/databraryapi/</link>
-      <pubDate>Thu, 27 Dec 2018 12:52:01 -0700</pubDate>
+      <pubDate>Thu, 27 Dec 2018 12:52:01 -0500</pubDate>
       
       <guid>/project/databraryapi/</guid>
       <description>An R package for interacting with the Databrary.org API.</description>
@@ -43,18 +61,9 @@ Like many people in the software world, I’m entirely self-taught. Ok, I took a
     <item>
       <title>Practical solutions for sharing data and materials from psychological research</title>
       <link>/publication/practical-solutions/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
       <guid>/publication/practical-solutions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AutoViDev: A computer-vision framework to enhance and accelerate research in human development</title>
-      <link>/publication/autovidev/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0700</pubDate>
-      
-      <guid>/publication/autovidev/</guid>
       <description></description>
     </item>
     

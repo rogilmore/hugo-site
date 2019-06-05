@@ -1,6 +1,6 @@
 +++
 title = "AutoViDev: A computer-vision framework to enhance and accelerate research in human development"
-date = 2013-07-01T00:00:00
+date = 2019-05-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -56,7 +56,7 @@ tags = ["AI", "computer vision", "data science", "video", "Databrary"]
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "http://doi.org/10.1007%2F978-3-030-17798-0_14"
 
 # Does this page contain LaTeX math? (true/false)
 math = true

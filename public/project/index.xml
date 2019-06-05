@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 28 Dec 2018 16:55:00 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 28 Dec 2018 16:55:00 -0500</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>PLAY project</title>
       <link>/project/play/</link>
-      <pubDate>Fri, 28 Dec 2018 16:55:00 -0700</pubDate>
+      <pubDate>Fri, 28 Dec 2018 16:55:00 -0500</pubDate>
       
       <guid>/project/play/</guid>
       <description>The Play &amp;amp; Learning Across a Year Project</description>
@@ -24,7 +24,7 @@
     <item>
       <title>Ethical data sharing</title>
       <link>/project/permission-to-share/</link>
-      <pubDate>Thu, 27 Dec 2018 14:31:00 -0700</pubDate>
+      <pubDate>Thu, 27 Dec 2018 14:31:00 -0500</pubDate>
       
       <guid>/project/permission-to-share/</guid>
       <description>Identifiable data &lt;em&gt;can&lt;/em&gt; be shared ethically.</description>
@@ -33,7 +33,7 @@
     <item>
       <title>databraryapi package</title>
       <link>/project/databraryapi/</link>
-      <pubDate>Thu, 27 Dec 2018 12:52:01 -0700</pubDate>
+      <pubDate>Thu, 27 Dec 2018 12:52:01 -0500</pubDate>
       
       <guid>/project/databraryapi/</guid>
       <description>An R package for interacting with the Databrary.org API.</description>
@@ -42,7 +42,7 @@
     <item>
       <title>Databrary.org</title>
       <link>/project/databrary.org/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/project/databrary.org/</guid>
       <description>An open, secure data library for sharing video.</description>
@@ -51,7 +51,7 @@
     <item>
       <title>Datavyu.org</title>
       <link>/project/datavyu.org/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/project/datavyu.org/</guid>
       <description>An open source tool for video annotation.</description>
@@ -60,7 +60,7 @@
     <item>
       <title>Proximal Emotional Environment Project (PEEP)</title>
       <link>/project/peep/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/project/peep/</guid>
       <description>What is the emotional environment really like?</description>
