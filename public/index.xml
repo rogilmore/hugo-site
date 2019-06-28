@@ -6,8 +6,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 05 Jun 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Just do it!</title>
+      <link>/post/just-do-it/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/just-do-it/</guid>
+      <description>&lt;p&gt;Two years ago, I participated in my first Field Day as a ham.
+For the uninitiated, Field Day is an annual event where radio amateurs set-up radio stations in locations they would normally not operate.
+We then try to make as many contacts as possible in a 24 hour period.&lt;/p&gt;
+
+&lt;p&gt;My local club, the &lt;a href=&#34;https://www.nittany-arc.net&#34; target=&#34;_blank&#34;&gt;Nittany Amateur Radio Club&lt;/a&gt; brings out the big guns for Field Day &amp;ndash; big directional beam antennas, high power amplifiers, and capable radios (Elecraft K3S and Icom IC-7610).
+This year was no exception.
+Here are a few pics I took early Saturday morning.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../img/6m-moon.jpg&#34; width=300px/&gt;
+&lt;img src=&#34;../../img/vhf-uhf.jpg&#34; width=300px/&gt;
+&lt;img src=&#34;../../yagis-fd-2019.jpg&#34; height=480px/&gt;&lt;/p&gt;
+
+&lt;p&gt;Unlike two years ago, when one of the more senior hams had to shove the microphone and headphones into my hands to get me to jump into the chair, this year I happily jumped into the fray whenever the opportunity arose.
+And that would include 3 am on Sunday morning.&lt;/p&gt;
+
+&lt;p&gt;I know I&amp;rsquo;m not alone in seeing an experienced ham work a pile-up and think how could I possibly listen, type, and talk in the phonetic alphabet without losing it.
+And the answer is, like so many other things, you just have to try.
+So, my unsolicited advice to hams like me who are a little mic shy, or maybe intimidated by CW?&lt;/p&gt;
+
+&lt;p&gt;Just do it.
+It&amp;rsquo;s exhilarating to jump out of your comfort zone and piles of fun.&lt;/p&gt;
+
+&lt;p&gt;Besides, some afternoons you can &amp;lsquo;work&amp;rsquo; (talk to) people in Greenland with 100 Watts and a wire strung up between the trees in your backyard.&lt;/p&gt;
+
+&lt;p&gt;73 de K3ROG&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>They get rhythm--Who could ask for anything more? Commentary on Brakke &amp; Pacheco, 2019</title>
@@ -532,49 +566,6 @@ Some examples of specific behaviors tagged in the AVA dataset are &lt;em&gt;craw
 &lt;p&gt;Maybe some combination of these approaches is as good a start as any.
 After all, if &lt;a href=&#34;http://doi.org/10.1016/j.anbehav.2009.03.018&#34; target=&#34;_blank&#34;&gt;behavioral biologists don&amp;rsquo;t seem to agree about what constitutes behavior&lt;/a&gt;, it&amp;rsquo;s not that surprising that psychologists haven&amp;rsquo;t yet created our own list.
 We do need a list like this, though, don&amp;rsquo;t you think?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Parameters for action</title>
-      <link>/post/parameters-for-action/</link>
-      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/parameters-for-action/</guid>
-      <description>
-
-
-&lt;p&gt;Several years ago, Florian Raudies, Swapnaa Jayaraman and I published a &lt;a href=&#34;http://doi.org/10.1109/DEVLRN.2015.7345450&#34;&gt;paper&lt;/a&gt; where we simulated the optic flow that infants would experience in different head/body postures. We computed cyclopian (one-eyed) flow on the basis of this schematic:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gilmore-lab/temple-2017-02-27/master/img/computing-flow.jpg&#34;/&gt;&lt;/p&gt;
-&lt;p&gt;Here, the key parameters were the instantaneous translation &lt;span class=&#34;math inline&#34;&gt;\((v_x{}, v_y{}, v_z{})\)&lt;/span&gt; and rotation &lt;span class=&#34;math inline&#34;&gt;\((\omega_{x}, \omega_y{}, \omega_z{})\)&lt;/span&gt; of the planar retina. Coupled with the optic flow equation,&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;math inline&#34;&gt;\(\begin{pmatrix}\dot{x} \\ \dot{y}\end{pmatrix}=\frac{1}{z} \begin{pmatrix}-f &amp;amp; 0 &amp;amp; x\\ 0 &amp;amp; -f &amp;amp; y \end{pmatrix} \begin{pmatrix}{v_x{}}\\ {v_y{}} \\{v_z{}}\end{pmatrix}+ \frac{1}{f} \begin{pmatrix} xy &amp;amp; -(f^2+x^2) &amp;amp; fy\\ f^2+y^2 &amp;amp; -xy &amp;amp; -fy \end{pmatrix} \begin{pmatrix} \omega_{x}\\ \omega_{y}\\ \omega_{z} \end{pmatrix}\)&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;we were able to simulate the &lt;em&gt;perceptual&lt;/em&gt; effects of postural geometry: Changes in eye height and forward translational speed that would occur when a child changed from crawling to walking altered the pattern of retinal flow &lt;span class=&#34;math inline&#34;&gt;\((\dot{x}, \dot{y})\)&lt;/span&gt; in interesting ways.&lt;/p&gt;
-&lt;p&gt;This work has lain dormant for a few years, but I now want to pick it back up. In short, there are a handful of perception/action systems that provide the nervous system with deterministic, causal information about the effects of different actions. These must be important for development.&lt;/p&gt;
-&lt;p&gt;For the next step, I’m looking for a concise, but thorough parameterization of body posture that includes the eyes, head, torso, arms, and legs. Here’s a sketch of what I have in mind for the upper parts body that have the greatest impact on the direction of visual fixation:&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr class=&#34;header&#34;&gt;
-&lt;th&gt;Body part&lt;/th&gt;
-&lt;th&gt;Parameter(s)&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr class=&#34;odd&#34;&gt;
-&lt;td&gt;Eyes&lt;/td&gt;
-&lt;td&gt;$&lt;em&gt;{rx}, &lt;/em&gt;{ry}, &lt;em&gt;{lx}, &lt;/em&gt;{lx} $&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&#34;even&#34;&gt;
-&lt;td&gt;Head&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;math inline&#34;&gt;\(\theta_x{}, \theta_y{}, \theta_z{}\)&lt;/span&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&#34;odd&#34;&gt;
-&lt;td&gt;Torso&lt;/td&gt;
-&lt;td&gt;$_x{}, _y{}, _z{} $&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Coupled with the distance between the eyes, &lt;span class=&#34;math inline&#34;&gt;\(i\)&lt;/span&gt;, the radial distance to the head’s center of rotation, &lt;span class=&#34;math inline&#34;&gt;\(h\)&lt;/span&gt;, and the distance from the head’s center of rotation to the torso’s center of rotation, &lt;span class=&#34;math inline&#34;&gt;\(t\)&lt;/span&gt;, we can compute the effects of eye, head, and torso movement on visual motion at the two retinae. Now, if the &lt;em&gt;visual&lt;/em&gt; signals from eye vs. head vs. torso can be distinguished, then these could couple with other proprioceptive (muscle, tendon, cutaneous) signals to provide a powerful set of &lt;em&gt;sensory&lt;/em&gt; signals that are directly caused by eye, head, and torso motion. See &lt;a href=&#34;../the-webs-we-weave/&#34;&gt;this earlier post&lt;/a&gt; for a causal graph that elaborates on this point. I’ll discuss why I think there are &lt;em&gt;visual&lt;/em&gt; differences in the effects of eye and head motion in a future post.&lt;/p&gt;
-&lt;p&gt;My next step is to ask my colleagues in kinesiology if there is a canonical parameterization of body position that I can build upon. If you know of one, let me know.&lt;/p&gt;
 </description>
     </item>
     

@@ -3,6 +3,68 @@
     
     <url>
     
+      <loc>/categories/</loc>
+      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/just-do-it/</loc>
+      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/amateur-radio/</loc>
+      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/field-day/</loc>
+      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/ham-radio/</loc>
+      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication_types/0/</loc>
       <lastmod>2019-06-05T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -30,24 +92,6 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2019-06-05T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2019-06-05T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/publication/they-get-rhythm/</loc>
       <lastmod>2019-06-05T00:00:00-04:00</lastmod>
     </url>
@@ -67,15 +111,6 @@
     
       <loc>/tags/open-science/</loc>
       <lastmod>2019-06-05T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <lastmod>2019-06-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -258,15 +293,6 @@
     <url>
     
       <loc>/tags/js8call/</loc>
-      <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/ham-radio/</loc>
       <lastmod>2019-03-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
