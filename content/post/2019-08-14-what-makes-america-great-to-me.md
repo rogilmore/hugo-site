@@ -20,7 +20,7 @@ What makes America great (to me) is exactly, precisely this diversity.
 What makes America great is that from our very founding, we have attempted to forge a one from the many.
 Did you know that [E Pluribus Unum](https://en.wikipedia.org/wiki/E_pluribus_unum), "out of many, one", was considered our de facto motto until the 1950's when "In God We Trust" was adopted as the official one?
 I didn't.
-And I think that was a mistake, just as I think adding ["under God" to the Pledege of Allegiance](https://en.wikipedia.org/wiki/Pledge_of_Allegiance) was a mistake.
+And I think that was a mistake, just as I think adding ["under God" to the Pledge of Allegiance](https://en.wikipedia.org/wiki/Pledge_of_Allegiance) was a mistake.
 Atheists and animists comprise the pluribus, too.
 And somehow I suspect a supreme entity, should one exist, is diminished in no way by a national motto or pledge that fully reflects the diversity of the creation, encompassing believer and unbeliever alike.
 
