@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 17 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2020 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>data sharing</title>
+      <link>/tags/data-sharing/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/data-sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open science</title>
+      <link>/tags/open-science/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/open-science/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>impeachment</title>
@@ -36,24 +54,6 @@
       <pubDate>Wed, 05 Jun 2019 00:00:00 -0400</pubDate>
       
       <guid>/tags/databrary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data sharing</title>
-      <link>/tags/data-sharing/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/data-sharing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open science</title>
-      <link>/tags/open-science/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/open-science/</guid>
       <description></description>
     </item>
     
