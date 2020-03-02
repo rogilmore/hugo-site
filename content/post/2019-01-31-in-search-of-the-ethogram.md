@@ -16,11 +16,11 @@ Mental experience -- thoughts and feelings -- are also common targets of inquiry
 I recently went looking for a systematic catalogue of behaviors that should, in theory, constitute the substance of what psychologists and other behavioral scientists study.
 My goal was to take that catalogue as a starting point for thinking about the relationship between information available for perception and the actions (behaviors) that this information informs.
 The formal term for this sort of catalog is an '[ethogram](https://en.wikipedia.org/wiki/Ethogram)'.
-Here's a sample [template](http://tolweb.org/onlinecontributors/app?page=TeacherResourceViewSupportMaterial&service=external&sp=l3090&sp=4) from the Tree of Life project.
+Here's a sample [template](https://tolweb.org/onlinecontributors/app?page=TeacherResourceViewSupportMaterial&service=external&sp=l3090&sp=4) from the Tree of Life project.
 Unfortunately, I failed in my quest.
 
 There have been attempts to create and openly share animal ethograms like the apparently stalled or inactive ethobank.org site associated with the EthoSource project.
-The [Cognitive Paradigm Ontology](http://www.cogpo.org/) and the [Cognitive Atlas](http://www.cognitiveatlas.org/) project attempt to create systematic ontologies (systematic representations of categories and concepts and their relations) of tasks used in experimental psychology.
+The [Cognitive Paradigm Ontology](https://www.cogpo.org/) and the [Cognitive Atlas](https://www.cognitiveatlas.org/) project attempt to create systematic ontologies (systematic representations of categories and concepts and their relations) of tasks used in experimental psychology.
 Cognitive psychology tasks clearly require very specific types of behavior from participants.
 Systematically organizing the nature of these tasks should lead to faster progress in understanding how they relate to one another, and ultimately, how minds and brains actually work.
 Still, I came up short in finding a comprehensive human ethogram.
@@ -57,5 +57,5 @@ Google’s Atomic Visual Action (AVA) dataset (https://research.google.com/ava/)
 Some examples of specific behaviors tagged in the AVA dataset are *crawl*, *dance*, *jump/leap*, *lift*, *open*, *press*, *hug*, *kiss*, and *listen to*.
 
 Maybe some combination of these approaches is as good a start as any.
-After all, if [behavioral biologists don't seem to agree about what constitutes behavior](http://doi.org/10.1016/j.anbehav.2009.03.018), it's not that surprising that psychologists haven't yet created our own list.
+After all, if [behavioral biologists don't seem to agree about what constitutes behavior](https://doi.org/10.1016/j.anbehav.2009.03.018), it's not that surprising that psychologists haven't yet created our own list.
 We do need a list like this, though, don't you think?

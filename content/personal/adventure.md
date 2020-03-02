@@ -17,5 +17,5 @@ linktitle = "Adventure bio"
   weight = 1
 +++
 
-For fun, I like to walk, run, hike, backpack, kayak and ride my bicycles: a foldable touring Bike Friday, a Specialized Hybrid that I sometimes use to commute to work, a Specialized Allez road bike, and stoker-willing, a road tandem we call Tonya.
+For fun, I like to walk, run, hike, backpack, kayak and ride my bicycles: a foldable touring Bike Friday, a Specialized Hybrid that I sometimes use to commute to work, a Specialized Allez road bike, and stoker-willing, a Hokitika road tandem we call Tonya.
 Last summer, my wife and I took a tour of southern Tuscany with Vermont Bicycle Tours (VBT).

@@ -10,7 +10,7 @@ image:
   focal_point: ''
 ---
 
-I wish it were otherwise, but I agree with [Andrew Sullivan](http://nymag.com/intelligencer/2019/03/trump-is-a-massive-failure-and-getting-exactly-what-he-wants.html).
+I wish it were otherwise, but I agree with [Andrew Sullivan](https://nymag.com/intelligencer/2019/03/trump-is-a-massive-failure-and-getting-exactly-what-he-wants.html).
 Regardless of what the Mueller report holds, Trump has severely damaged the country and made our Nation weaker, not stronger.
 
 Regretably, Mr. Trump has been exactly the sort of president many of us feared he would be.

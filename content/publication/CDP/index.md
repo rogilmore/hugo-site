@@ -41,8 +41,8 @@ projects = []
 tags = ["open science", "data sharing"]
 
 # Links (optional).
-# url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-# url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+# url_pdf = "https://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+# url_preprint = "https://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 # url_code = "#"
 # url_dataset = "#"
 # url_project = ""
@@ -53,7 +53,7 @@ tags = ["open science", "data sharing"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# url_custom = [{name = "Custom Link", url = "https://example.org"}]
 
 # Digital Object Identifier (DOI)
 doi = "https://doi.org/10.1111/cdep.12360"

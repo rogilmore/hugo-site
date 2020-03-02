@@ -11,7 +11,7 @@ image:
 ---
 
 I find Andrew Sullivan worth reading almost all of the time even if I disagree with him.
-This [time](http://nymag.com/intelligencer/2018/12/andrew-sullivan-establishment-will-never-say-no-to-a-war.html), I agree completely:
+This [time](https://nymag.com/intelligencer/2018/12/andrew-sullivan-establishment-will-never-say-no-to-a-war.html), I agree completely:
 
 > "*...I simply do not believe that the West has the knowledge, the will, or the ability to shape the extremely complicated and endlessly vicious politics of the Middle East. And I defy anyone to show otherwise...*"
 

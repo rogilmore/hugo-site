@@ -42,14 +42,14 @@ projects = ["Databrary"]
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "http://gilmore-lab.github.io/2018-05-26-aps-opensaysme/"
+slides = "https://gilmore-lab.github.io/2018-05-26-aps-opensaysme/"
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["open science", "data sharing", "Databrary"]
 
 # Links (optional).
-# url_pdf = "http://arxiv.org/pdf/1512.04133v1"
+# url_pdf = "https://arxiv.org/pdf/1512.04133v1"
 url_preprint = ""
 # url_code = ""
 # url_dataset = ""
@@ -61,7 +61,7 @@ url_preprint = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# url_custom = [{name = "Custom Link", url = "https://example.org"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.1177%2F2515245917746500"

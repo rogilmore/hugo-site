@@ -10,7 +10,7 @@ image:
   focal_point: ''
 ---
 
-Several years ago, Florian Raudies, Swapnaa Jayaraman and I published a [paper](http://doi.org/10.1109/DEVLRN.2015.7345450) where we simulated the optic flow that infants would experience in different head/body postures.
+Several years ago, Florian Raudies, Swapnaa Jayaraman and I published a [paper](https://doi.org/10.1109/DEVLRN.2015.7345450) where we simulated the optic flow that infants would experience in different head/body postures.
 We computed cyclopian (one-eyed) flow on the basis of this schematic:
 
 <img src="https://raw.githubusercontent.com/gilmore-lab/temple-2017-02-27/master/img/computing-flow.jpg"/>

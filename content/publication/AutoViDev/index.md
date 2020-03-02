@@ -41,8 +41,8 @@ projects = []
 tags = ["AI", "computer vision", "data science", "video", "Databrary"]
 
 # Links (optional).
-# url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-# url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+# url_pdf = "https://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+# url_preprint = "https://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 # url_code = "#"
 # url_dataset = "#"
 # url_project = ""
@@ -53,10 +53,10 @@ tags = ["AI", "computer vision", "data science", "video", "Databrary"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# url_custom = [{name = "Custom Link", url = "https://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "http://doi.org/10.1007%2F978-3-030-17798-0_14"
+doi = "https://doi.org/10.1007%2F978-3-030-17798-0_14"
 
 # Does this page contain LaTeX math? (true/false)
 math = true

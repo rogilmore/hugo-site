@@ -34,4 +34,4 @@ weight = 5
 
 Rick Gilmore is Professor of [Psychology](https://psych.la.psu.edu) at [The Pennsylvania State University](https://www.psu.edu).
 He studies the development of visual perception in infants, children, and adults using behavioral, neural imaging, and computational methods, as described more fully on his [lab website](https://gilmore-lab.github.io).
-He co-founded and co-directs the [Databrary.org](https://databrary.org) data library, co-founded the [Penn State Social, Life, & Engineering Sciences Imaging Center (SLEIC)](https://www.imaging.psu.edu), and advocates for more open, transparent, and reproducible scientific practices, especially in psychology and neuroscience.
+He co-founded and co-directs the [Databrary.org](https://databrary.org) data library, co-founded the [Penn State Social, Life, & Engineering Sciences Imaging Center (SLEIC)](https://www.imaging.psu.edu), directs the Open Data and Developmental Science (ODDS) initiative through the [Penn State Child Study Center](https://csc.la.psu.edu/), and advocates for more open, transparent, and reproducible scientific practices, especially in psychology and neuroscience.

@@ -44,7 +44,7 @@ tags = ["emotion", "perception", "audition"]
 # url_pdf = "#"
 # url_preprint = "#"
 url_code = "https://github.com/gilmore-lab/peep-II/"
-url_dataset = "http://doi.org/10.17910/b7.339"
+url_dataset = "https://doi.org/10.17910/b7.339"
 # url_project = "#"
 # url_slides = "#"
 # url_video = "#"
@@ -53,7 +53,7 @@ url_dataset = "http://doi.org/10.17910/b7.339"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Custom Link", url = "http://example.org"}]
+#url_custom = [{name = "Custom Link", url = "https://example.org"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.1016/j.neuropsychologia.2018.12.003"

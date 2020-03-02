@@ -28,5 +28,5 @@ To help with our local APRS coverage, I also run a fill-in digipeater/I-Gate.
 
 I still have ambitions of (re)learning code and doing QRP SOTA and POTA type of activations as a way to combine my love of outdoor activities (hiking, cycling, and paddling) with ham radio.
 
-My local club is the [Nittany Amateur Radio Club](https://http://nittany-arc.net/).
+My local club is the [Nittany Amateur Radio Club](https://https://nittany-arc.net/).
 I check-in to the Western PA D-Star net occasionally, and often monitor the 146.85 W3YA repeater and the Yaesu System Fusion AmericaLink reflector.

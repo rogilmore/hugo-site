@@ -10,7 +10,7 @@ image:
   focal_point: ''
 ---
 
-A recent [article](http://doi.org/doi/10.1073/pnas.1806370115) in the *Proceedings of the National Academy of Sciences* by Redish et al. argues that 'reproducibility failures are essential to scientific inquiry.'
+A recent [article](https://doi.org/doi/10.1073/pnas.1806370115) in the *Proceedings of the National Academy of Sciences* by Redish et al. argues that 'reproducibility failures are essential to scientific inquiry.'
 The authors remind readers that progress in many fields often proceeds haltingly, with successes, retrenchments, reconsiderations, and revisions.
 As examples, Redish et al. summarize the history of the [Four Color Theorem](https://en.wikipedia.org/wiki/Four_color_theorem), the claim that [Fourier series](https://en.wikipedia.org/wiki/Fourier_series) can characterize any function, and the conditions under which neural networks can carry out certain computations.
 I find useful these reminders from mathematics and computer science that progress and regress are essential parts of the trajectory of scientific discovery, but I find unconvincing arguments that 'many of the current concerns about reproducibility overlook the dynamic, iterative nature of the process of discovery.'
