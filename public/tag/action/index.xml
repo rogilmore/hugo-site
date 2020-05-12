@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>action | Rick Gilmore&#39;s site</title>
+    <link>/tag/action/</link>
+      <atom:link href="/tag/action/index.xml" rel="self" type="application/rss+xml" />
+    <description>action</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>action</title>
+      <link>/tag/action/</link>
+    </image>
+    
+    <item>
+      <title>Parameters for action</title>
+      <link>/post/parameters-for-action/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/post/parameters-for-action/</guid>
+      <description>
+
+
+&lt;p&gt;Several years ago, Florian Raudies, Swapnaa Jayaraman and I published a &lt;a href=&#34;https://doi.org/10.1109/DEVLRN.2015.7345450&#34;&gt;paper&lt;/a&gt; where we simulated the optic flow that infants would experience in different head/body postures.
+We computed cyclopian (one-eyed) flow on the basis of this schematic:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gilmore-lab/temple-2017-02-27/master/img/computing-flow.jpg&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;Here, the key parameters were the instantaneous translation &lt;span class=&#34;math inline&#34;&gt;\((v_x{}, v_y{}, v_z{})\)&lt;/span&gt; and rotation &lt;span class=&#34;math inline&#34;&gt;\((\omega_{x}, \omega_y{}, \omega_z{})\)&lt;/span&gt; of the planar retina.
+Coupled with the optic flow equation,&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;math inline&#34;&gt;\(\begin{pmatrix}\dot{x} \\ \dot{y}\end{pmatrix}=\frac{1}{z} \begin{pmatrix}-f &amp;amp; 0 &amp;amp; x\\ 0 &amp;amp; -f &amp;amp; y \end{pmatrix} \begin{pmatrix}{v_x{}}\\ {v_y{}} \\{v_z{}}\end{pmatrix}+ \frac{1}{f} \begin{pmatrix} xy &amp;amp; -(f^2+x^2) &amp;amp; fy\\ f^2+y^2 &amp;amp; -xy &amp;amp; -fy \end{pmatrix} \begin{pmatrix} \omega_{x}\\ \omega_{y}\\ \omega_{z} \end{pmatrix}\)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;we were able to simulate the &lt;em&gt;perceptual&lt;/em&gt; effects of postural geometry: Changes in eye height and forward translational speed that would occur when a child changed from crawling to walking altered the pattern of retinal flow &lt;span class=&#34;math inline&#34;&gt;\((\dot{x}, \dot{y})\)&lt;/span&gt; in interesting ways.&lt;/p&gt;
+&lt;p&gt;This work has lain dormant for a few years, but I now want to pick it back up.
+In short, there are a handful of perception/action systems that provide the nervous system with deterministic, causal information about the effects of different actions.
+These must be important for development.&lt;/p&gt;
+&lt;p&gt;For the next step, I’m looking for a concise, but thorough parameterization of body posture that includes the eyes, head, torso, arms, and legs.
+Here’s a sketch of what I have in mind for the upper parts body that have the greatest impact on the direction of visual fixation:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Body part&lt;/th&gt;
+&lt;th&gt;Parameter(s)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Eyes&lt;/td&gt;
+&lt;td&gt;$&lt;em&gt;{rx}, &lt;/em&gt;{ry}, &lt;em&gt;{lx}, &lt;/em&gt;{lx} $&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Head&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;math inline&#34;&gt;\(\theta_x{}, \theta_y{}, \theta_z{}\)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Torso&lt;/td&gt;
+&lt;td&gt;$_x{}, _y{}, _z{} $&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Coupled with the distance between the eyes, &lt;span class=&#34;math inline&#34;&gt;\(i\)&lt;/span&gt;, the radial distance to the head’s center of rotation, &lt;span class=&#34;math inline&#34;&gt;\(h\)&lt;/span&gt;, and the distance from the head’s center of rotation to the torso’s center of rotation, &lt;span class=&#34;math inline&#34;&gt;\(t\)&lt;/span&gt;, we can compute the effects of eye, head, and torso movement on visual motion at the two retinae.
+Now, if the &lt;em&gt;visual&lt;/em&gt; signals from eye vs. head vs. torso can be distinguished, then these could couple with other proprioceptive (muscle, tendon, cutaneous) signals to provide a powerful set of &lt;em&gt;sensory&lt;/em&gt; signals that are directly caused by eye, head, and torso motion.
+See &lt;a href=&#34;../the-webs-we-weave/&#34;&gt;this earlier post&lt;/a&gt; for a causal graph that elaborates on this point.
+I’ll discuss why I think there are &lt;em&gt;visual&lt;/em&gt; differences in the effects of eye and head motion in a future post.&lt;/p&gt;
+&lt;p&gt;My next step is to ask my colleagues in kinesiology if there is a canonical parameterization of body position that I can build upon.
+If you know of one, let me know.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

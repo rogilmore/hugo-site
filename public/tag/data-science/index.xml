@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data science | Rick Gilmore&#39;s site</title>
+    <link>/tag/data-science/</link>
+      <atom:link href="/tag/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>data science</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>data science</title>
+      <link>/tag/data-science/</link>
+    </image>
+    
+    <item>
+      <title>AutoViDev: A computer-vision framework to enhance and accelerate research in human development</title>
+      <link>/publication/autovidev/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
+      <guid>/publication/autovidev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>databraryapi package</title>
+      <link>/project/databraryapi/</link>
+      <pubDate>Thu, 27 Dec 2018 12:52:01 -0500</pubDate>
+      <guid>/project/databraryapi/</guid>
+      <description>&lt;p&gt;I have released a working version (0.1.4) of an R package that interacts with the 
+&lt;a href=&#34;https://databrary.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Databrary.org&lt;/a&gt; API.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

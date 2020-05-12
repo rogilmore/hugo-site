@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unknown-knowns | Rick Gilmore&#39;s site</title>
+    <link>/tag/unknown-knowns/</link>
+      <atom:link href="/tag/unknown-knowns/index.xml" rel="self" type="application/rss+xml" />
+    <description>unknown-knowns</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Tue, 27 Mar 2018 12:00:00 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>unknown-knowns</title>
+      <link>/tag/unknown-knowns/</link>
+    </image>
+    
+    <item>
+      <title>The whole elephant</title>
+      <link>/talk/cne-2019-03-27/</link>
+      <pubDate>Tue, 27 Mar 2018 12:00:00 -0400</pubDate>
+      <guid>/talk/cne-2019-03-27/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

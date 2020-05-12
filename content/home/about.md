@@ -1,11 +1,16 @@
 +++
-# About/Biography widget.
-widget = "about"
-active = true
-date = 2016-04-20T00:00:00
+# About widget.
+widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 5  # Order that this section will appear in.
 
-# Order that this section will appear in.
-weight = 5
+title = "Biography"
+
+# Choose the user profile to display
+# This should be the username of a profile in your `content/authors/` folder.
+# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
+author = "admin"
 
 # List your academic interests.
 [interests]
@@ -18,20 +23,21 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "Ph.D. in Psychology and Cognitive Neuroscience"
-  institution = "Carnegie Mellon University"
-  year = 1997
-
-[[education.courses]]
-  course = "BA cum laude in Cognitive Science"
-  institution = "Brown University"
-  year = 1985
+# [[education.courses]]
+#   course = "Ph.D. in Psychology and Cognitive Neuroscience"
+#   institution = "Carnegie Mellon University"
+#   year = 1997
+#   
+# [[education.courses]]
+#   course = "M.A. in Psychology"
+#   institution = "Carnegie Mellon University"
+#   year = 1995
+# 
+# [[education.courses]]
+#   course = "B.A, magna cum laude, in Cognitive Science"
+#   institution = "Brown University"
+#   year = 1985
  
 +++
 
-# Biography
 
-Rick Gilmore is Professor of [Psychology](https://psych.la.psu.edu) at [The Pennsylvania State University](https://www.psu.edu).
-He studies the development of visual perception in infants, children, and adults using behavioral, neural imaging, and computational methods, as described more fully on his [lab website](https://gilmore-lab.github.io).
-He co-founded and co-directs the [Databrary.org](https://databrary.org) data library, co-founded the [Penn State Social, Life, & Engineering Sciences Imaging Center (SLEIC)](https://www.imaging.psu.edu), directs the Open Data and Developmental Science (ODDS) initiative through the [Penn State Child Study Center](https://csc.la.psu.edu/), and advocates for more open, transparent, and reproducible scientific practices, especially in psychology and neuroscience.

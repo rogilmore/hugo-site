@@ -1,5 +1,5 @@
 +++
-title = "Arts"
+title = ""
 
 date = 2018-09-09T00:00:00
 lastmod = 2018-12-28T00:00:00
@@ -19,6 +19,7 @@ linktitle = "Arts bio"
 
 My family and I have been involved theatre and music for a very long time.
 Indeed, my wife and I met in a production of "South Pacific" with the Georgetown Gilbert & Sullivan Society (GG&SS).
+I played "The Professor" if you can believe it.
 
 Recent shows here in State College have included "Oliver!", "The Sound of Music," and "Sweeney Todd," with Singing Onstage, "Dracula", "The Survivor", and "Gypsy" with the [State College Community Theatre (SCCT)](https://scctonline.org/), and "The Memory of Water", "Harper Regan", and "Two Can Play" with [The Next Stage](https://www.facebook.com/thenextstageinc/) theatre company. 
 

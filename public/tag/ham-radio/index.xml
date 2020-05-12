@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ham radio | Rick Gilmore&#39;s site</title>
+    <link>/tag/ham-radio/</link>
+      <atom:link href="/tag/ham-radio/index.xml" rel="self" type="application/rss+xml" />
+    <description>ham radio</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>ham radio</title>
+      <link>/tag/ham-radio/</link>
+    </image>
+    
+    <item>
+      <title>Ham Radio</title>
+      <link>/personal/ham_radio_1/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      <guid>/personal/ham_radio_1/</guid>
+      <description>&lt;p&gt;I was licensed as a Tech+ in 1993, but was never really active.
+Kids and finishing grad school were higher priorities.
+After reading &amp;ldquo;Seveneves,&amp;rdquo; I got the bug again and took both the Technician and General in the space of a couple of weeks in the summer of 2016.
+With the moral support of some fellow club members and a helpful Elmer, I upgraded to Extra in July of 2017.&lt;/p&gt;
+&lt;p&gt;I enjoy VHF special event support and help run a local EmComm net. I&amp;rsquo;m doing my best to chase DX on 20 and 40 m using a barefoot IC-7300 and a multiband doublet.
+In the fall of 2019, I added tuned dipoles for 20m and 40m, and in
+the Spring of 2020, I added a Comet 3 for better VHF and UHF coverage.&lt;/p&gt;
+&lt;p&gt;To help with our local APRS coverage, I also run a fill-in digipeater/I-Gate.&lt;/p&gt;
+&lt;p&gt;I am taking the CW Academy courses to (re)learn the code in hopes of doing QRP SOTA and POTA type of activations.
+That seems like an ideal way to combine my love of outdoor activities (hiking, cycling, and paddling) with ham radio.&lt;/p&gt;
+&lt;p&gt;My local club is the 
+&lt;a href=&#34;https://https://nittany-arc.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nittany Amateur Radio Club&lt;/a&gt;.
+I check-in to the Western PA D-Star net occasionally, and often monitor the 146.85 W3YA repeater and the Yaesu System Fusion AmericaLink reflector.
+In Spring 2020, I joined the Board of Directors of NARC.&lt;/p&gt;
+&lt;p&gt;In 2019, I took over as Faculty Adviser for the Penn State Amateur Radio Club.
+I am also trustee for the three K3CR repeaters.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

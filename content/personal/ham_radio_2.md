@@ -26,8 +26,11 @@ linktitle = "Gear"
 ## HF
 
 - Icom IC-7300
+- Icom IC-7100
+- LDG 600ProII autotuner
 - MFJ 993B autotuner
-- Multiband (80-10m) dipole at 10 m
+- Multiband (80-10m) doublet at 10 m
+- Dipoles for 20m and 40m
 
 ## Other
 

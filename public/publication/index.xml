@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Rick Gilmore&#39;s site</title>
+    <title>Publications | Rick Gilmore&#39;s site</title>
     <link>/publication/</link>
-    <description>Recent content in Publications on Rick Gilmore&#39;s site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Tue, 12 May 2020 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
     
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>I know that voice! Mothers&#39; voices influence children&#39;s perceptions of emotional intensity</title>
+      <link>/publication/jecp-2020/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 -0400</pubDate>
+      <guid>/publication/jecp-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Advancing scientific integrity, transparency, and openness in child development research: Challenges and possible solutions</title>
       <link>/publication/cdp/</link>
       <pubDate>Thu, 23 Jan 2020 00:00:00 -0500</pubDate>
-      
       <guid>/publication/cdp/</guid>
       <description></description>
     </item>
@@ -25,7 +32,6 @@
       <title>They get rhythm--Who could ask for anything more? Commentary on Brakke &amp; Pacheco, 2019</title>
       <link>/publication/they-get-rhythm/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 -0400</pubDate>
-      
       <guid>/publication/they-get-rhythm/</guid>
       <description></description>
     </item>
@@ -34,7 +40,6 @@
       <title>AutoViDev: A computer-vision framework to enhance and accelerate research in human development</title>
       <link>/publication/autovidev/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
-      
       <guid>/publication/autovidev/</guid>
       <description></description>
     </item>
@@ -43,7 +48,6 @@
       <title>Young children&#39;s neural processing of their mother’s voice: An fMRI study</title>
       <link>/publication/peep-ii-voices/</link>
       <pubDate>Wed, 05 Dec 2018 00:00:00 -0500</pubDate>
-      
       <guid>/publication/peep-ii-voices/</guid>
       <description></description>
     </item>
@@ -52,7 +56,6 @@
       <title>Practical solutions for sharing data and materials from psychological research</title>
       <link>/publication/practical-solutions/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
-      
       <guid>/publication/practical-solutions/</guid>
       <description></description>
     </item>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SRCD | Rick Gilmore&#39;s site</title>
+    <link>/tag/srcd/</link>
+      <atom:link href="/tag/srcd/index.xml" rel="self" type="application/rss+xml" />
+    <description>SRCD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>SRCD</title>
+      <link>/tag/srcd/</link>
+    </image>
+    
+    <item>
+      <title>Open developmental science</title>
+      <link>/post/open-developmental-science/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/post/open-developmental-science/</guid>
+      <description>&lt;p&gt;If you plan to attend the Society for Research in Child Development (SRCD) meeting in Baltimore later this week, you might be interested in some of the open science activities that will be taking place:&lt;/p&gt;
+&lt;p&gt;On Friday, March 22, from 10-11:30 am, I am co-leading a conversation hour on the topic 
+&lt;a href=&#34;https://www.rick-gilmore.com/talk/srcd-2019-03-22/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;What SRCD is doing to address open science&lt;/em&gt;&lt;/a&gt;.
+We&amp;rsquo;ll focus on a set of new policies and guidelines to authors that the SRCD Task Force on Scientific Integrity and Openness produced.&lt;/p&gt;
+&lt;p&gt;In addition, there are other open science events happening at SRCD:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;ManyBabies: Bringing large-scale collaborative projects to infant development research&lt;/em&gt;, Saturday, March 23, 12:45-2:15 pm, Hilton Baltimore, Level 2, Key 4&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Making developmental science more open: Successes, obstacles, and solutions&lt;/em&gt;, Saturday, March 23, 2:30-4:00 pm, Baltimore Convention Center, Room 309&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;See you in Baltimore!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karen E. Adolph | Rick Gilmore&#39;s site</title>
+    <link>/author/karen-e.-adolph/</link>
+      <atom:link href="/author/karen-e.-adolph/index.xml" rel="self" type="application/rss+xml" />
+    <description>Karen E. Adolph</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Karen E. Adolph</title>
+      <link>/author/karen-e.-adolph/</link>
+    </image>
+    
+    <item>
+      <title>AutoViDev: A computer-vision framework to enhance and accelerate research in human development</title>
+      <link>/publication/autovidev/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
+      <guid>/publication/autovidev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical solutions for sharing data and materials from psychological research</title>
+      <link>/publication/practical-solutions/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      <guid>/publication/practical-solutions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

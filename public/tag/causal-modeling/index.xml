@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>causal modeling | Rick Gilmore&#39;s site</title>
+    <link>/tag/causal-modeling/</link>
+      <atom:link href="/tag/causal-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>causal modeling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>causal modeling</title>
+      <link>/tag/causal-modeling/</link>
+    </image>
+    
+    <item>
+      <title>The webs we weave</title>
+      <link>/post/the-webs-we-weave/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/post/the-webs-we-weave/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/viz/viz.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/rmarkdown-libs/DiagrammeR-styles/styles.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/rmarkdown-libs/grViz-binding/grViz.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;I’ve been ‘sketching’ out conceptual models for some time without realizing that there is an entire field of analysis where these sorts of diagrams are the starting point: Causal modeling. My introduction to this world was Judea Pearl’s &lt;a href=&#34;https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/ref=sr_1_1?ie=UTF8&amp;amp;qid=1548436587&amp;amp;sr=8-1&amp;amp;keywords=the+book+of+why&#34;&gt;The Book of Why: The New Science of Cause and Effect&lt;/a&gt;. Interested casual readers might also enjoy Steve Sloman’s excellent and delightfully clear &lt;a href=&#34;https://www.amazon.com/Causal-Models-People-Think-Alternatives/dp/0195394291/ref=sr_1_2?ie=UTF8&amp;amp;qid=1548436730&amp;amp;sr=8-2&amp;amp;keywords=steven+sloman&#34;&gt;&lt;em&gt;Causal Models: How People Think About the World and Its Alternatives&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In this post, I want to build a model for how an observer perceives visual motion given various possible causes.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(DiagrammeR)
+
+nodes &amp;lt;- create_node_df(
+  n = 15,
+  label = c(&amp;quot;retinal motion&amp;quot;, &amp;quot;eye mvmt&amp;quot;, &amp;quot;head mvmt&amp;quot;, &amp;quot;body mvmt&amp;quot;, &amp;quot;object mvmt&amp;quot;, &amp;quot;passive transp&amp;quot;, &amp;quot;eye cmd&amp;quot;, &amp;quot;head cmd&amp;quot;, &amp;quot;body cmd&amp;quot;, &amp;quot;eye prop&amp;quot;, &amp;quot;head prop&amp;quot;, &amp;quot;head vest&amp;quot;, &amp;quot;body prop&amp;quot;, &amp;quot;entity&amp;quot;, &amp;quot;passive force&amp;quot;),
+  type = &amp;quot;number&amp;quot;
+)
+
+edges &amp;lt;- create_edge_df(
+  from = c(2, 3, 4, 5, 6, 7, 8, 9, 2, 3, 3, 4, 4, 14, 15),
+  to = c(1, 1, 1, 1, 4, 2, 3, 4, 10, 11, 12, 12, 13, 5, 5),
+  rel = &amp;quot;related&amp;quot;
+)
+
+graph &amp;lt;- DiagrammeR::create_graph(nodes_df = nodes, 
+                                  edges_df = edges)
+
+graph %&amp;gt;% DiagrammeR::render_graph()&lt;/code&gt;&lt;/pre&gt;
+&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:672px;height:480px;&#34; class=&#34;grViz html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;diagram&#34;:&#34;digraph {\n\ngraph [layout = \&#34;neato\&#34;,\n       outputorder = \&#34;edgesfirst\&#34;,\n       bgcolor = \&#34;white\&#34;]\n\nnode [fontname = \&#34;Helvetica\&#34;,\n      fontsize = \&#34;10\&#34;,\n      shape = \&#34;circle\&#34;,\n      fixedsize = \&#34;true\&#34;,\n      width = \&#34;0.5\&#34;,\n      style = \&#34;filled\&#34;,\n      fillcolor = \&#34;aliceblue\&#34;,\n      color = \&#34;gray70\&#34;,\n      fontcolor = \&#34;gray50\&#34;]\n\nedge [fontname = \&#34;Helvetica\&#34;,\n     fontsize = \&#34;8\&#34;,\n     len = \&#34;1.5\&#34;,\n     color = \&#34;gray80\&#34;,\n     arrowsize = \&#34;0.5\&#34;]\n\n  \&#34;1\&#34; [label = \&#34;retinal motion\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;2\&#34; [label = \&#34;eye mvmt\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;3\&#34; [label = \&#34;head mvmt\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;4\&#34; [label = \&#34;body mvmt\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;5\&#34; [label = \&#34;object mvmt\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;6\&#34; [label = \&#34;passive transp\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;7\&#34; [label = \&#34;eye cmd\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;8\&#34; [label = \&#34;head cmd\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;9\&#34; [label = \&#34;body cmd\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;10\&#34; [label = \&#34;eye prop\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;11\&#34; [label = \&#34;head prop\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;12\&#34; [label = \&#34;head vest\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;13\&#34; [label = \&#34;body prop\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;14\&#34; [label = \&#34;entity\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;15\&#34; [label = \&#34;passive force\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;2\&#34;-&gt;\&#34;1\&#34; \n  \&#34;3\&#34;-&gt;\&#34;1\&#34; \n  \&#34;4\&#34;-&gt;\&#34;1\&#34; \n  \&#34;5\&#34;-&gt;\&#34;1\&#34; \n  \&#34;6\&#34;-&gt;\&#34;4\&#34; \n  \&#34;7\&#34;-&gt;\&#34;2\&#34; \n  \&#34;8\&#34;-&gt;\&#34;3\&#34; \n  \&#34;9\&#34;-&gt;\&#34;4\&#34; \n  \&#34;2\&#34;-&gt;\&#34;10\&#34; \n  \&#34;3\&#34;-&gt;\&#34;11\&#34; \n  \&#34;3\&#34;-&gt;\&#34;12\&#34; \n  \&#34;4\&#34;-&gt;\&#34;12\&#34; \n  \&#34;4\&#34;-&gt;\&#34;13\&#34; \n  \&#34;14\&#34;-&gt;\&#34;5\&#34; \n  \&#34;15\&#34;-&gt;\&#34;5\&#34; \n}&#34;,&#34;config&#34;:{&#34;engine&#34;:&#34;dot&#34;,&#34;options&#34;:null}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;p&gt;The figure implies that motion on the retina comes from the movement of objects in the environment, movement of the observer, specifically the eyes, head, or body, or a combination of any of these. Eye movements stem from eye movement commands; head movements (translations and rotations) stem from head movement commands; body movements stem from commands to move the body. Movements of the eyes, head, or body generate proprioceptive signals from the eyes, head, and body. These signals derive from muscle, joint, and tendon receptors. Rotational and translational motion of the head stimulates vestibular signals.&lt;/p&gt;
+&lt;p&gt;Note that retinal motion caused by the observer has multiple non-visual correlates (or consequences) that are detectable under typical circumstances. There may also be differences in the specific &lt;em&gt;properties&lt;/em&gt; of motion caused by eye, head, body, or object motion. We’ll discuss these in a future post.&lt;/p&gt;
+&lt;p&gt;So, the task for perception is to answer the question: What’s moving and why?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

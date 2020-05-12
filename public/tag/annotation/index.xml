@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>annotation | Rick Gilmore&#39;s site</title>
+    <link>/tag/annotation/</link>
+      <atom:link href="/tag/annotation/index.xml" rel="self" type="application/rss+xml" />
+    <description>annotation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Fri, 28 Dec 2018 16:55:00 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>annotation</title>
+      <link>/tag/annotation/</link>
+    </image>
+    
+    <item>
+      <title>PLAY project</title>
+      <link>/project/play/</link>
+      <pubDate>Fri, 28 Dec 2018 16:55:00 -0500</pubDate>
+      <guid>/project/play/</guid>
+      <description>&lt;p&gt;The Play &amp;amp; Learning Across a Year (PLAY) project will provide a first-ever glimpse inside the homes of almost 1,000 families across the U.S.
+We will collect, annotate (code), and openly share on 
+&lt;a href=&#34;https://databrary.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Databrary&lt;/a&gt; video recordings of mothers and 12-, 18-, and 24-month-old infants engaged in natural behavior in their homes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Datavyu.org</title>
+      <link>/project/datavyu.org/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <guid>/project/datavyu.org/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://datavyu.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Datavyu.org&lt;/a&gt; is a free open-source tool for video and audio annotation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1241 +1,874 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-    <url>
-    
-      <loc>/publication_types/2/</loc>
-      <lastmod>2020-01-23T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/cdp/</loc>
-      <lastmod>2020-01-23T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2020-01-23T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2020-01-23T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2020-01-23T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/data-sharing/</loc>
-      <lastmod>2020-01-23T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/open-science/</loc>
-      <lastmod>2020-01-23T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/the-poet-terrorist/</loc>
-      <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/poetry/</loc>
-      <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/seeing-through-the-fog/</loc>
-      <lastmod>2019-11-17T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/impeachment/</loc>
-      <lastmod>2019-11-17T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/politics/</loc>
-      <lastmod>2019-11-17T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/what-makes-america-great-to-me/</loc>
-      <lastmod>2019-08-14T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/just-do-it/</loc>
-      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/amateur-radio/</loc>
-      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/field-day/</loc>
-      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/ham-radio/</loc>
-      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/0/</loc>
-      <lastmod>2019-06-05T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/databrary/</loc>
-      <lastmod>2019-06-05T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/they-get-rhythm/</loc>
-      <lastmod>2019-06-05T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/is-there-a-crisis-of-reproducibility-in-science/</loc>
-      <lastmod>2019-06-04T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/open-data/</loc>
-      <lastmod>2019-06-04T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/open-science/</loc>
-      <lastmod>2019-06-04T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/reproducibility/</loc>
-      <lastmod>2019-06-04T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/on-gun-love/</loc>
-      <lastmod>2019-05-17T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/atheism/</loc>
-      <lastmod>2019-05-17T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/guns/</loc>
-      <lastmod>2019-05-17T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2019-05-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/ai/</loc>
-      <lastmod>2019-05-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/autovidev/</loc>
-      <lastmod>2019-05-01T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/computer-vision/</loc>
-      <lastmod>2019-05-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/data-science/</loc>
-      <lastmod>2019-05-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/video/</loc>
-      <lastmod>2019-05-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/devilish-details/</loc>
-      <lastmod>2019-04-24T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/ethics/</loc>
-      <lastmod>2019-04-24T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/pre-registration/</loc>
-      <lastmod>2019-04-24T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/poets-may-know-it/</loc>
-      <lastmod>2019-03-29T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/if-you-js8/</loc>
-      <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/js8call/</loc>
-      <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/of-donocrats-and-trumpublicans/</loc>
-      <lastmod>2019-03-23T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/burns-a-bridge/</loc>
-      <lastmod>2019-03-22T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/open-developmental-science/</loc>
-      <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/srcd/</loc>
-      <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/science/</loc>
-      <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/april-9-a-day-of-reflection-and-reconciliation/</loc>
-      <lastmod>2019-03-18T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/april-9/</loc>
-      <lastmod>2019-03-18T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/itsy-bitsy/</loc>
-      <lastmod>2019-02-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/behavior-is-the-linchpin/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/behavior/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/in-search-of-the-ethogram/</loc>
-      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/parameters-for-action/</loc>
-      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/action/</loc>
-      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/behaviorome/</loc>
-      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/ethogram/</loc>
-      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/ontology/</loc>
-      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/research/</loc>
-      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/the-webs-we-weave/</loc>
-      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/causal-modeling/</loc>
-      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/motion-perception/</loc>
-      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/cw/</loc>
-      <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/qsl-qsl/</loc>
-      <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/new-lab-logo/</loc>
-      <lastmod>2019-01-16T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/art/</loc>
-      <lastmod>2019-01-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/building-walls-and-tearing-them-down/</loc>
-      <lastmod>2019-01-02T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/border-wall/</loc>
-      <lastmod>2019-01-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/commentary/</loc>
-      <lastmod>2019-01-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/folk-music/</loc>
-      <lastmod>2019-01-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/play/</loc>
-      <lastmod>2018-12-28T16:55:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2018-12-28T16:55:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/annotation/</loc>
-      <lastmod>2018-12-28T16:55:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/r/</loc>
-      <lastmod>2018-12-28T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/test-driven-development-is-hard-and-important/</loc>
-      <lastmod>2018-12-28T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/software/</loc>
-      <lastmod>2018-12-28T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/test-driven-development/</loc>
-      <lastmod>2018-12-28T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/permission-to-share/</loc>
-      <lastmod>2018-12-27T14:31:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/gdpr/</loc>
-      <lastmod>2018-12-27T14:31:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/consent/</loc>
-      <lastmod>2018-12-27T14:31:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/policy/</loc>
-      <lastmod>2018-12-27T14:31:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/databraryapi/</loc>
-      <lastmod>2018-12-27T12:52:01-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/getting-started/</loc>
-      <lastmod>2018-12-27T12:37:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/blogging/</loc>
-      <lastmod>2018-12-27T12:37:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/ending-the-endless-war/</loc>
-      <lastmod>2018-12-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/middle-east/</loc>
-      <lastmod>2018-12-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/war/</loc>
-      <lastmod>2018-12-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/peep-ii-voices/</loc>
-      <lastmod>2018-12-05T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/audition/</loc>
-      <lastmod>2018-12-05T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/emotion/</loc>
-      <lastmod>2018-12-05T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/perception/</loc>
-      <lastmod>2018-12-05T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/olli-2018-10-29/</loc>
-      <lastmod>2018-10-29T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/neuroscience/</loc>
-      <lastmod>2018-10-29T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/</loc>
-      <lastmod>2018-12-31T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/adventure/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/arts/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/ham_radio_2/</loc>
-      <lastmod>2018-09-09T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/ham_radio_1/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/heroics/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/public_service/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/cycling/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/ham-radio/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/hiking/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/music/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/paddling/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/poetry/</loc>
-      <lastmod>2019-03-29T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/theatre/</loc>
-      <lastmod>2018-12-28T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/play/</loc>
-      <lastmod>2018-03-27T12:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/cne-2019-03-27/</loc>
-      <lastmod>2018-03-27T12:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/cybernetics/</loc>
-      <lastmod>2018-03-27T12:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/dynamics/</loc>
-      <lastmod>2018-03-27T12:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/unknown-knowns/</loc>
-      <lastmod>2018-03-27T12:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/srcd-2019-03-22/</loc>
-      <lastmod>2018-03-18T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/practical-solutions/</loc>
-      <lastmod>2018-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/goad-gunner/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/speedy-recovery/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/databrary.org/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/datavyu.org/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/matlab/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/peep/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/fourth-and-long/</loc>
-      <lastmod>2019-03-29T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/delightful-delusion/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/promise/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/specific-gravity/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/i-never-metaphysics/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/haiku-4-u/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/lonely-cicada/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/oh-beautiful/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/food-for-thought/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/four-letter-word/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/who-knows-how-to-unmake-love/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/lipstick-on-a-pig/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/unsolicited-advice/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/who-shall-lionize/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/angels-blue/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/love-of-death/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/no-one-loves-a-volcano/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/the-physics-of-love/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/worn-on-the-sleeve/</loc>
-      <lastmod>2019-03-29T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/there-are-no-heroes/</loc>
-      <lastmod>2019-03-18T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/we-do-not-swim/</loc>
-      <lastmod>2019-03-29T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/personal/joy-untethered/</loc>
-      <lastmod>2019-03-29T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/slides/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/slides/example-slides/</loc>
-    </url>
-    
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/data-sharing/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/emotion/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/environment/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/ho-ho-ho/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/jecp-2020/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/koraly-perez-edgar/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/michelle-c.-vigeant/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/pamela-m.-cole/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/peter-m.-moriarty/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/poet-terrorist/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/poetry/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rachel-wolf/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rick-o.-gilmore/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/suzanne-scherf/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tawni-b.-stoop/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cdp/</loc>
+    <lastmod>2020-01-23T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/carol-m.-worthman/</loc>
+    <lastmod>2020-01-23T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marcel-a.g.-van-aken/</loc>
+    <lastmod>2020-01-23T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/open-science/</loc>
+    <lastmod>2020-01-23T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/suman-verma/</loc>
+    <lastmod>2020-01-23T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/impeachment/</loc>
+    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/politics/</loc>
+    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/seeing-through-the-fog/</loc>
+    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/what-makes-america-great-to-me/</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/amateur-radio/</loc>
+    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/field-day/</loc>
+    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/ham-radio/</loc>
+    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/just-do-it/</loc>
+    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/0/</loc>
+    <lastmod>2019-06-05T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/databrary/</loc>
+    <lastmod>2019-06-05T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/they-get-rhythm/</loc>
+    <lastmod>2019-06-05T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/is-there-a-crisis-of-reproducibility-in-science/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/open-data/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/open-science/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/r/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/reproducibility/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/atheism/</loc>
+    <lastmod>2019-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/on-gun-love/</loc>
+    <lastmod>2019-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/guns/</loc>
+    <lastmod>2019-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/poetry/</loc>
+    <lastmod>2019-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2019-05-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ai/</loc>
+    <lastmod>2019-05-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/autovidev/</loc>
+    <lastmod>2019-05-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/computer-vision/</loc>
+    <lastmod>2019-05-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/data-science/</loc>
+    <lastmod>2019-05-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/karen-e.-adolph/</loc>
+    <lastmod>2019-05-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ori-ossmy/</loc>
+    <lastmod>2019-05-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/video/</loc>
+    <lastmod>2019-05-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/devilish-details/</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ethics/</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pre-registration/</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/poets-may-know-it/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/if-you-js8/</loc>
+    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/js8call/</loc>
+    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/of-donocrats-and-trumpublicans/</loc>
+    <lastmod>2019-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/burns-a-bridge/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/open-developmental-science/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/science/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/srcd/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/april-9-a-day-of-reflection-and-reconciliation/</loc>
+    <lastmod>2019-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/april-9/</loc>
+    <lastmod>2019-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/itsy-bitsy/</loc>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/behavior/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/behavior-is-the-linchpin/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/action/</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/behaviorome/</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ethogram/</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/in-search-of-the-ethogram/</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ontology/</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/parameters-for-action/</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/r/</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/research/</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/causal-modeling/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/motion-perception/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/the-webs-we-weave/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cw/</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/qsl-qsl/</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/art/</loc>
+    <lastmod>2019-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/new-lab-logo/</loc>
+    <lastmod>2019-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/border-wall/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/building-walls-and-tearing-them-down/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/commentary/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/folk-music/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/annotation/</loc>
+    <lastmod>2018-12-28T16:55:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/play/</loc>
+    <lastmod>2018-12-28T16:55:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2018-12-28T16:55:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/software/</loc>
+    <lastmod>2018-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/test-driven-development/</loc>
+    <lastmod>2018-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/test-driven-development-is-hard-and-important/</loc>
+    <lastmod>2018-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/consent/</loc>
+    <lastmod>2018-12-27T14:31:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/permission-to-share/</loc>
+    <lastmod>2018-12-27T14:31:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/gdpr/</loc>
+    <lastmod>2018-12-27T14:31:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/policy/</loc>
+    <lastmod>2018-12-27T14:31:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/databraryapi/</loc>
+    <lastmod>2018-12-27T12:52:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/ending-the-endless-war/</loc>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/middle-east/</loc>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/war/</loc>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/audition/</loc>
+    <lastmod>2018-12-05T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/k.-suzanne-scherf/</loc>
+    <lastmod>2018-12-05T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/koraly-e.-perez-edgar/</loc>
+    <lastmod>2018-12-05T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/pan-liu/</loc>
+    <lastmod>2018-12-05T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/perception/</loc>
+    <lastmod>2018-12-05T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/peter-moriarty/</loc>
+    <lastmod>2018-12-05T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/peep-ii-voices/</loc>
+    <lastmod>2018-12-05T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/neuroscience/</loc>
+    <lastmod>2018-10-29T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/olli-2018-10-29/</loc>
+    <lastmod>2018-10-29T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2018-10-29T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/arts/</loc>
+    <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cycling/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/ham_radio_2/</loc>
+    <lastmod>2018-09-09T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ham-radio/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/heroics/</loc>
+    <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/hiking/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/ham_radio_1/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/music/</loc>
+    <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/adventure/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/paddling/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/public_service/</loc>
+    <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/theatre/</loc>
+    <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cybernetics/</loc>
+    <lastmod>2018-03-27T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/dynamics/</loc>
+    <lastmod>2018-03-27T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/play/</loc>
+    <lastmod>2018-03-27T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/cne-2019-03-27/</loc>
+    <lastmod>2018-03-27T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/unknown-knowns/</loc>
+    <lastmod>2018-03-27T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/carol-worthman/</loc>
+    <lastmod>2018-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/catherine-tamis-lemonda/</loc>
+    <lastmod>2018-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lisa-gennetian/</loc>
+    <lastmod>2018-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/srcd-2019-03-22/</loc>
+    <lastmod>2018-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/joy-l.-kennedy/</loc>
+    <lastmod>2018-01-01T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/practical-solutions/</loc>
+    <lastmod>2018-01-01T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/goad-gunner/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/speedy-recovery/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/databrary.org/</loc>
+    <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/datavyu.org/</loc>
+    <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/matlab/</loc>
+    <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/peep/</loc>
+    <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/fourth-and-long/</loc>
+    <lastmod>2019-03-29T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/delightful-delusion/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/promise/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/specific-gravity/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/i-never-metaphysics/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/haiku-4-u/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/lonely-cicada/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/oh-beautiful/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/food-for-thought/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/four-letter-word/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/who-knows-how-to-unmake-love/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/lipstick-on-a-pig/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/unsolicited-advice/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/who-shall-lionize/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/angels-blue/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/love-of-death/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/no-one-loves-a-volcano/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/the-physics-of-love/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/worn-on-the-sleeve/</loc>
+    <lastmod>2019-03-29T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/there-are-no-heroes/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/we-do-not-swim/</loc>
+    <lastmod>2019-03-29T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/joy-untethered/</loc>
+    <lastmod>2019-03-29T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rick-gilmore/</loc>
+  </url>
   
 </urlset>

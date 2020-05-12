@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>neuroscience | Rick Gilmore&#39;s site</title>
+    <link>/tag/neuroscience/</link>
+      <atom:link href="/tag/neuroscience/index.xml" rel="self" type="application/rss+xml" />
+    <description>neuroscience</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Mon, 29 Oct 2018 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>neuroscience</title>
+      <link>/tag/neuroscience/</link>
+    </image>
+    
+    <item>
+      <title>Neuroscience: The frontier within</title>
+      <link>/talk/olli-2018-10-29/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
+      <guid>/talk/olli-2018-10-29/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

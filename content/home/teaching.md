@@ -15,14 +15,18 @@ weight = 60
 
 +++
 
-I teach the following courses:
+I teach the following courses on a regular basis:
 
-- [PSYCH 260: Neurological Bases of Human Behavior](https://psu-psychology.github.io/psych-260-2019-spring/) (Spring 2019)
-- [PSY 511: Foundations of Cognitive and Affective Neuroscience](https://psu-psychology.github.io/psy-511-scan-fdns-2018/) (Fall 2018, Fall 2019)
-- [PSY 525: Vision Science](https://psu-psychology.github.io/psy-525-vision-spring-2017/) (Spring 2018)
-- PSY 529: Developmental Theories (Spring 2020)
+- PSYCH 260: Neurological Bases of Human Behavior ([Spring 2019](https://psu-psychology.github.io/psych-260-2019-spring/) & Fall 2020)
+- PSY 511: Foundations of Cognitive and Affective Neuroscience ([Fall 2018](https://psu-psychology.github.io/psy-511-scan-fdns-2018/), [Fall 2019](https://psu-psychology.github.io/psy-511-scan-fdns-2019/) & Fall 2020)
+- PSY 525: Transparent, Open, and Reproducible Research Practices in the Social and Behavioral Sciences ([Spring 2017](http://psu-psychology.github.io/psy-511-reproducible-research-spring-2017/), [Spring 2020](https://psu-psychology.github.io/psy-525-reproducible-research-2020/))
+
+I have taught this course in the past:
+
+- PSY 525: Vision Science ([Spring 2018](https://psu-psychology.github.io/psy-525-vision-spring-2017/))
 
 I have also helped lead the following R workshops:
 
+- [R Bootcamp 2019](https://psu-psychology.github.io/r-bootcamp-2019/)
 - [R Bootcamp 2018](https://psu-psychology.github.io/r-bootcamp-2018/)
 - [R Bootcamp 2017](https://psu-psychology.github.io/r-bootcamp/)

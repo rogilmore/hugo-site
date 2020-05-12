@@ -1,39 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rick Gilmore&#39;s site on Rick Gilmore&#39;s site</title>
+    <title>Rick Gilmore&#39;s site</title>
     <link>/</link>
-    <description>Recent content in Rick Gilmore&#39;s site on Rick Gilmore&#39;s site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 23 Jan 2020 00:00:00 -0500</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rick Gilmore&#39;s site</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Rick Gilmore&#39;s site</title>
+      <link>/</link>
+    </image>
     
     <item>
-      <title>Advancing scientific integrity, transparency, and openness in child development research: Challenges and possible solutions</title>
-      <link>/publication/cdp/</link>
-      <pubDate>Thu, 23 Jan 2020 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/cdp/</guid>
+      <title>Ho, ho, ho</title>
+      <link>/personal/ho-ho-ho/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 -0400</pubDate>
+      <guid>/personal/ho-ho-ho/</guid>
+      <description>&lt;p&gt;Pandemics aren&amp;rsquo;t funny.&lt;/br&gt;
+Sure, people still chuckle.&lt;/br&gt;
+There are jokes.&lt;/br&gt;
+Some are almost good.&lt;/p&gt;
+&lt;p&gt;But the news novacaines my brain.&lt;/br&gt;
+I am desperate to let go some glorious, gawdawful guffaw&lt;/br&gt;
+that for one niggling nanosecond negates the numbness.&lt;/p&gt;
+&lt;p&gt;Yes, those folks really did&lt;/br&gt;
+say that all the people dying were&lt;/br&gt;
+sick and old (or from Pittsburgh and Philly).&lt;/p&gt;
+&lt;p&gt;I heard them and wanted to recite the be-attitudes.&lt;/br&gt;
+But it&amp;rsquo;s ridiculous for atheists to&lt;/br&gt;
+quote the Bible.&lt;/br&gt;
+And I don&amp;rsquo;t think these ghouls give a flying fig what Jesus would do&lt;/br&gt;
+no matter what they tell the pastor on Sunday morning.&lt;/p&gt;
+&lt;p&gt;Why did the chicken cross the road?&lt;/br&gt;
+He wasn&amp;rsquo;t sure,&lt;/br&gt;
+but at this point in quarantine, he&amp;rsquo;d do anything to avoid another Zoom call.&lt;/br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I know that voice! Mothers&#39; voices influence children&#39;s perceptions of emotional intensity</title>
+      <link>/publication/jecp-2020/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 -0400</pubDate>
+      <guid>/publication/jecp-2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The poet terrorist</title>
-      <link>/post/the-poet-terrorist/</link>
-      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/the-poet-terrorist/</guid>
+      <title>The Poet Terrorist</title>
+      <link>/personal/poet-terrorist/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 -0400</pubDate>
+      <guid>/personal/poet-terrorist/</guid>
       <description>&lt;p&gt;words wound.&lt;/br&gt;
 phrases fillet.&lt;/p&gt;
-
 &lt;p&gt;like bombs they burst the heaving heart&lt;/br&gt;
 and shrapnel-shred&lt;/br&gt;
 the decency of slumber.&lt;/p&gt;
-
 &lt;p&gt;verbs vivisect,&lt;/br&gt;
 their violence vast.&lt;/br&gt;&lt;/p&gt;
-
 &lt;p&gt;and one naught notices what nouns name&lt;/br&gt;
 until the now&lt;/br&gt;
 there is no unknowing.&lt;/br&gt;&lt;/p&gt;
@@ -41,31 +65,32 @@ there is no unknowing.&lt;/br&gt;&lt;/p&gt;
     </item>
     
     <item>
+      <title>Advancing scientific integrity, transparency, and openness in child development research: Challenges and possible solutions</title>
+      <link>/publication/cdp/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 -0500</pubDate>
+      <guid>/publication/cdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Seeing through the fog</title>
       <link>/post/seeing-through-the-fog/</link>
       <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
-      
       <guid>/post/seeing-through-the-fog/</guid>
       <description>&lt;p&gt;I understand why Republican partisans want to confuse the public.
 But this is crystal clear.&lt;/p&gt;
-
 &lt;p&gt;No candidate for elected office in the United States should &lt;strong&gt;ever&lt;/strong&gt; seek or receive help from foreign countries to win an election.
 Not ever.
 Period.&lt;/p&gt;
-
 &lt;p&gt;In taking office, a president pledges (or affirms) to &amp;ldquo;preserve, protect, and defend the Constitution.&amp;rdquo;
 Senators and Congressional Representatives pledge (or affirm) to &amp;ldquo;support and defend the Constitution of the United States against all enemies, foreign and domestic&amp;hellip;&amp;rdquo;&lt;/p&gt;
-
 &lt;p&gt;Mr. Trump has now at least twice asked for help from a foreign power to gain political advantage over an opponent, once as a candidate, and at least once as president.
 The asking itself is unmistakably, incontrovertibly, and indefensibly wrong.&lt;/p&gt;
-
 &lt;p&gt;Seeking foreign interference subverts the integrity of our elections, undermines the Constitution, and violates the presidential oath of office.&lt;/p&gt;
-
 &lt;p&gt;A president must uphold the rule of law not advance the law of rulers.
 He is unfit.
 He must be impeached and removed from office.
 Failing to do so represents a violation of the oath of office taken by Senators and Representatives alike to &amp;ldquo;defend the Constitution against all enemies, foreign and domestic.&amp;rdquo;&lt;/p&gt;
-
 &lt;p&gt;There is no fog here, just strategically and cynically blown smoke.&lt;/p&gt;
 </description>
     </item>
@@ -74,27 +99,25 @@ Failing to do so represents a violation of the oath of office taken by Senators 
       <title>What makes America great (to me)</title>
       <link>/post/what-makes-america-great-to-me/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>/post/what-makes-america-great-to-me/</guid>
       <description>&lt;p&gt;Today I rode my bicycle to our public library (an American innovation), and walked around the corner to an Indian restaurant that is owned and operated by people of Latin American heritage.
 While I enjoyed a quiet lunch, diners of all ages and multiple backgrounds did the same.
 There was a head-scarf-wearing mother who works at the restaurant attending to her infant, a separate group of head-scarf-wearing people, people in wheelchairs, people with long hair and short, dark skin and light.
 This panorama of humanity found common purpose in our peaceful enjoyment of food from one of the world&amp;rsquo;s great civilizations.
 And we like to joke that State College is &amp;ldquo;centrally isolated.&amp;rdquo;&lt;/p&gt;
-
 &lt;p&gt;What makes America great (to me) is exactly, precisely this diversity.
 What makes America great is that from our very founding, we have attempted to forge a one from the many.
-Did you know that &lt;a href=&#34;https://en.wikipedia.org/wiki/E_pluribus_unum&#34; target=&#34;_blank&#34;&gt;E Pluribus Unum&lt;/a&gt;, &amp;ldquo;out of many, one&amp;rdquo;, was considered our de facto motto until the 1950&amp;rsquo;s when &amp;ldquo;In God We Trust&amp;rdquo; was adopted as the official one?
+Did you know that 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/E_pluribus_unum&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;E Pluribus Unum&lt;/a&gt;, &amp;ldquo;out of many, one&amp;rdquo;, was considered our de facto motto until the 1950&amp;rsquo;s when &amp;ldquo;In God We Trust&amp;rdquo; was adopted as the official one?
 I didn&amp;rsquo;t.
-And I think that was a mistake, just as I think adding &lt;a href=&#34;https://en.wikipedia.org/wiki/Pledge_of_Allegiance&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;under God&amp;rdquo; to the Pledge of Allegiance&lt;/a&gt; was a mistake.
+And I think that was a mistake, just as I think adding 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Pledge_of_Allegiance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;under God&amp;rdquo; to the Pledge of Allegiance&lt;/a&gt; was a mistake.
 Atheists and animists comprise the pluribus, too.
 And somehow I suspect a supreme entity, should one exist, is diminished in no way by a national motto or pledge that fully reflects the diversity of the creation, encompassing believer and unbeliever alike.&lt;/p&gt;
-
 &lt;p&gt;And so what makes America great (to me) is this very struggle.
 Are we one Nation of many, including diverse and discrepant views on religious questions, racial and ethnic backgrounds, languages and cultures, or are we something else, something, well, smaller?
 I know that loud voices in our land today and among our leaders want to expel the different and shun the diverse, to make us smaller, more homogeneous.
 And what makes America great (to me) is that these too often hateful and fearful voices also have their place among the threads of the national tapestry.&lt;/p&gt;
-
 &lt;p&gt;But love it or not, a patchwork, quilt-like tapestry it is, &lt;em&gt;we are&lt;/em&gt;, first, foremost, and finally.
 And that, my friends, is a flag that genuine patriots are most happy to wrap themselves in.
 Like a burrito.&lt;/p&gt;
@@ -105,32 +128,25 @@ Like a burrito.&lt;/p&gt;
       <title>Just do it!</title>
       <link>/post/just-do-it/</link>
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>/post/just-do-it/</guid>
       <description>&lt;p&gt;Two years ago, I participated in my first Field Day as a ham.
 For the uninitiated, Field Day is an annual event where radio amateurs set-up radio stations in locations they would normally not operate.
 We then try to make as many contacts as possible in a 24 hour period.&lt;/p&gt;
-
-&lt;p&gt;My local club, the &lt;a href=&#34;https://www.nittany-arc.net&#34; target=&#34;_blank&#34;&gt;Nittany Amateur Radio Club&lt;/a&gt; brings out the big guns for Field Day &amp;ndash; big directional beam antennas, high power amplifiers, and capable radios (Elecraft K3S and Icom IC-7610).
+&lt;p&gt;My local club, the 
+&lt;a href=&#34;https://www.nittany-arc.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nittany Amateur Radio Club&lt;/a&gt; brings out the big guns for Field Day &amp;ndash; big directional beam antennas, high power amplifiers, and capable radios (Elecraft K3S and Icom IC-7610).
 This year was no exception.
 Here are a few pics I took early Saturday morning.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../../img/6m-moon.jpg&#34; width=300px/&gt;
+&lt;img src=&#34;../../img/6m-moon.jpg&#34; width=300px/&gt;
 &lt;img src=&#34;../../img/vhf-uhf.jpg&#34; width=300px/&gt;
-&lt;img src=&#34;../../yagis-fd-2019.jpg&#34; height=480px/&gt;&lt;/p&gt;
-
+&lt;img src=&#34;../../yagis-fd-2019.jpg&#34; height=480px/&gt;
 &lt;p&gt;Unlike two years ago, when one of the more senior hams had to shove the microphone and headphones into my hands to get me to jump into the chair, this year I happily jumped into the fray whenever the opportunity arose.
 And that would include 3 am on Sunday morning.&lt;/p&gt;
-
 &lt;p&gt;I know I&amp;rsquo;m not alone in seeing an experienced ham work a pile-up and think how could I possibly listen, type, and talk in the phonetic alphabet without losing it.
 And the answer is, like so many other things, you just have to try.
 So, my unsolicited advice to hams like me who are a little mic shy, or maybe intimidated by CW?&lt;/p&gt;
-
 &lt;p&gt;Just do it.
 It&amp;rsquo;s exhilarating to jump out of your comfort zone and piles of fun.&lt;/p&gt;
-
 &lt;p&gt;Besides, some afternoons you can &amp;lsquo;work&amp;rsquo; (talk to) people in Greenland with 100 Watts and a wire strung up between the trees in your backyard.&lt;/p&gt;
-
 &lt;p&gt;73 de K3ROG&lt;/p&gt;
 </description>
     </item>
@@ -139,7 +155,6 @@ It&amp;rsquo;s exhilarating to jump out of your comfort zone and piles of fun.&l
       <title>They get rhythm--Who could ask for anything more? Commentary on Brakke &amp; Pacheco, 2019</title>
       <link>/publication/they-get-rhythm/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 -0400</pubDate>
-      
       <guid>/publication/they-get-rhythm/</guid>
       <description></description>
     </item>
@@ -148,19 +163,20 @@ It&amp;rsquo;s exhilarating to jump out of your comfort zone and piles of fun.&l
       <title>Is there a crisis of reproducibility in science?</title>
       <link>/post/is-there-a-crisis-of-reproducibility-in-science/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>/post/is-there-a-crisis-of-reproducibility-in-science/</guid>
-      <description>&lt;p&gt;A recent &lt;a href=&#34;https://doi.org/doi/10.1073/pnas.1806370115&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt; in the &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; by Redish et al. argues that &amp;lsquo;reproducibility failures are essential to scientific inquiry.&amp;rsquo;
+      <description>&lt;p&gt;A recent 
+&lt;a href=&#34;https://doi.org/doi/10.1073/pnas.1806370115&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;article&lt;/a&gt; in the &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; by Redish et al. argues that &amp;lsquo;reproducibility failures are essential to scientific inquiry.&amp;rsquo;
 The authors remind readers that progress in many fields often proceeds haltingly, with successes, retrenchments, reconsiderations, and revisions.
-As examples, Redish et al. summarize the history of the &lt;a href=&#34;https://en.wikipedia.org/wiki/Four_color_theorem&#34; target=&#34;_blank&#34;&gt;Four Color Theorem&lt;/a&gt;, the claim that &lt;a href=&#34;https://en.wikipedia.org/wiki/Fourier_series&#34; target=&#34;_blank&#34;&gt;Fourier series&lt;/a&gt; can characterize any function, and the conditions under which neural networks can carry out certain computations.
+As examples, Redish et al. summarize the history of the 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Four_color_theorem&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Four Color Theorem&lt;/a&gt;, the claim that 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Fourier_series&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fourier series&lt;/a&gt; can characterize any function, and the conditions under which neural networks can carry out certain computations.
 I find useful these reminders from mathematics and computer science that progress and regress are essential parts of the trajectory of scientific discovery, but I find unconvincing arguments that &amp;lsquo;many of the current concerns about reproducibility overlook the dynamic, iterative nature of the process of discovery.&amp;rsquo;&lt;/p&gt;
-
-&lt;p&gt;According to a &lt;a href=&#34;https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970&#34; target=&#34;_blank&#34;&gt;2016 survey in Nature&lt;/a&gt;, some 90% of scientists surveyed agreed that &amp;lsquo;there is a reproducibility crisis.&amp;rsquo;
+&lt;p&gt;According to a 
+&lt;a href=&#34;https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2016 survey in Nature&lt;/a&gt;, some 90% of scientists surveyed agreed that &amp;lsquo;there is a reproducibility crisis.&amp;rsquo;
 Sixty to eighty percent of scientists in fields from chemistry to earth and environmental sciences reported failing to reproduce someone else&amp;rsquo;s experiment, and 40-60% reported failing to reproduce their own experiments.
 Respondents expressed widely-ranging opinions about &amp;lsquo;how much published work in your field is reproducible?&amp;rsquo;
 Curiously, physicists and chemists were most confident in the literature AND most likely to report having failed to reproduce a study.
 Perhaps chemists and physicists are more likely to attempt to reproduce published results than scientists in other fields.&lt;/p&gt;
-
 &lt;p&gt;Redish et al. rightly point out that no single study should be viewed as definitive, and that discovering robust findings takes time.
 But I think the authors miss an opportunity to talk about what specific practices accelerate the process of discovery and what practices retard it.
 Open sharing of results, positive and negative, data, experimental procedures, analysis code, and materials accelerates progress.
@@ -168,16 +184,15 @@ In the fields of psychology, vision science, and neuroscience I am most familiar
 If the failures aren&amp;rsquo;t published, discovering the reasons for the failure will be difficult to discern.
 Open data, materials, analysis code, and procedure sharing are slowly growing in popularity, but still not commonplace.
 Without ready access to these elements, it is almost certain that attempts to replicate will differ from the original finding in ways that may or may not be readily apparent.&lt;/p&gt;
-
 &lt;p&gt;Redish et al. state:&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;A failure to reproduce is only the first step in scientific inquiry. In many ways, how science responds to these failures is what determines whether it succeeds.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;I agree.
-And the response of many open science advocates is to encourage our colleagues to adopt more transparent practices in reporting and sharing results, data, analyses, and materials, and to build &lt;a href=&#34;https://databrary.org&#34; target=&#34;_blank&#34;&gt;tools&lt;/a&gt; for making this easy.
-If we want to build &amp;lsquo;a genuinely cumulative science&amp;rsquo;, to borrow a phrase from &lt;a href=&#34;https://www.psychologicalscience.org/observer/becoming-a-cumulative-science&#34; target=&#34;_blank&#34;&gt;Walter Mischel&lt;/a&gt;, we need to attend to improving the processes of self-correction that Redish et al. rightly point out are endemic to science and essential to its power.
+And the response of many open science advocates is to encourage our colleagues to adopt more transparent practices in reporting and sharing results, data, analyses, and materials, and to build 
+&lt;a href=&#34;https://databrary.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tools&lt;/a&gt; for making this easy.
+If we want to build &amp;lsquo;a genuinely cumulative science&amp;rsquo;, to borrow a phrase from 
+&lt;a href=&#34;https://www.psychologicalscience.org/observer/becoming-a-cumulative-science&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Walter Mischel&lt;/a&gt;, we need to attend to improving the processes of self-correction that Redish et al. rightly point out are endemic to science and essential to its power.
 Right now, it&amp;rsquo;s far too difficult for researchers to learn about failures to replicate or generalize and far too difficult to explore the reasons why.
 So perhaps the crisis of reproducibility is more usefully thought of as a crisis of transparency, and if this is so, there are ready solutions at hand.&lt;/p&gt;
 </description>
@@ -187,28 +202,21 @@ So perhaps the crisis of reproducibility is more usefully thought of as a crisis
       <title>Atheist prayer</title>
       <link>/post/on-gun-love/</link>
       <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>/post/on-gun-love/</guid>
       <description>&lt;p&gt;we fear the people who love their guns&lt;/br&gt;
 more than we love our children.&lt;/p&gt;
-
 &lt;p&gt;the atheist prays every day to gods she finds incomprehensible:&lt;/br&gt;&lt;/p&gt;
-
 &lt;p&gt;Remove the sticks of destruction&lt;/br&gt;
 from our arsenals and minds.&lt;/br&gt;
 Banish them to eternity.&lt;/br&gt;
 Cleanse us that we may be clean.&lt;/p&gt;
-
 &lt;p&gt;a merciful god would hear this supplicant,&lt;/br&gt;
 know her grace, &lt;/br&gt;
 and answer in the affirmative.&lt;/br&gt;
 a god who loved his children&lt;/br&gt;
 would, she thinks and hopes.&lt;/br&gt;&lt;/p&gt;
-
 &lt;p&gt;but we could surely find other ways of killing, you object.&lt;/p&gt;
-
 &lt;p&gt;yes, I acknowledge,&lt;/br&gt;&lt;/p&gt;
-
 &lt;p&gt;or perhaps&lt;/br&gt;
 just perhaps&lt;/br&gt;
 choose not to.&lt;/br&gt;&lt;/p&gt;
@@ -219,7 +227,6 @@ choose not to.&lt;/br&gt;&lt;/p&gt;
       <title>AutoViDev: A computer-vision framework to enhance and accelerate research in human development</title>
       <link>/publication/autovidev/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
-      
       <guid>/publication/autovidev/</guid>
       <description></description>
     </item>
@@ -228,94 +235,74 @@ choose not to.&lt;/br&gt;&lt;/p&gt;
       <title>Devilish details</title>
       <link>/post/devilish-details/</link>
       <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>/post/devilish-details/</guid>
-      <description>
-
-&lt;p&gt;I&amp;rsquo;ve found myself at odds recently with colleagues who, like me, view themselves as advocates for open science.
+      <description>&lt;p&gt;I&amp;rsquo;ve found myself at odds recently with colleagues who, like me, view themselves as advocates for open science.
 This post attempts to clarify what I see as the crux of our disagreements.&lt;/p&gt;
-
-&lt;h2 id=&#34;we-don-t-own-our-data&#34;&gt;We don&amp;rsquo;t own our data&lt;/h2&gt;
-
+&lt;h2 id=&#34;we-dont-own-our-data&#34;&gt;We don&amp;rsquo;t own our data&lt;/h2&gt;
 &lt;p&gt;Most researchers feel a strong sense of ownership about our data and often, properly so I think, feel especially protective of our research participants.
 The fact remains, however, that despite our essential role in determining what data get collected from whom and how, we researchers have the weakest claim to actually &lt;em&gt;owning&lt;/em&gt; the data we collect.&lt;/p&gt;
-
 &lt;p&gt;In the U.S., if my work is funded by a grant from the Federal government (e.g., NSF or NIH), then that award is actually made to &lt;em&gt;my institution&lt;/em&gt;, not me.
 In fact, if I am unable to fulfill the obligations of the award, my institution may, and often will, appoint another person to do so.
 If my work is funded by another source, that source is likely to have implemented similar provisions.
 So, in reality, while researchers have a primary stewardship role over research data, it likely belongs to our institution.&lt;/p&gt;
-
 &lt;p&gt;In other contexts, the EU, for example, strong arguments have been made that &lt;em&gt;research participants&lt;/em&gt; actually own their data.
 I am sympathetic to these arguments and believe that empowering individuals to grant researchers specific permission to use their data is the best path toward a future of ethical data use.
 Implementing that vision at-scale poses substantial challenges I believe academic researchers can eventually meet.
 The point of convergence is that researchers don&amp;rsquo;t own the data we collect.&lt;/p&gt;
-
 &lt;p&gt;Not owning the data nevertheless means that we researchers must still think carefully about how best to protect it, our participants, and our institutions.
 As a practical matter, even though our institutions (or research participants) may own the data, we are the ones best positioned to determine what happens to those data when our project ends.
 In other words, the responsibility for determining the future life, if any, of our research data is one we can&amp;rsquo;t meaningfully shirk or easily ignore.
 At the same time, because the data aren&amp;rsquo;t really ours,  considerations about any personal or career risk associated with sharing data can&amp;rsquo;t be at the center of the discussion.
 Instead, our obligations to research participants, our institutions, and funding agencies must take precedence.
 This means that fear of being scooped probably isn&amp;rsquo;t sufficient justification to withhold sharing data.&lt;/p&gt;
-
 &lt;h2 id=&#34;sharing-data-publicly-without-restriction-is-unnecessary-and-poses-unforseen-risks&#34;&gt;Sharing data publicly without restriction is unnecessary and poses unforseen risks&lt;/h2&gt;
-
 &lt;p&gt;I believe that some of my colleagues who are skeptical about data sharing understand the practice to mean sharing data in publicly accessible ways.
 These skeptics argue that they don&amp;rsquo;t have permission to share data that way, and thus doing so would violate research ethics.
 I agree.&lt;/p&gt;
-
 &lt;p&gt;In fact, I go further.
 I am worried that we woefully underestimate the risks of participant reidentifiability associated with combining public and private data sets, even when research data have been stripped of conventional identifiers.
 Imagine if Bernie Sanders and Donald Trump had taken intro psych classes and the &amp;lsquo;deidentified&amp;rsquo; data were publicly available to anyone today.
 Doesn&amp;rsquo;t it seem likely, certain even, that large well-funded teams of data scientists would be scouring the internet in order to try to expose Bernie&amp;rsquo;s answer to this survey question or Donald&amp;rsquo;s score on that cognitive test?&lt;/p&gt;
-
 &lt;p&gt;We can&amp;rsquo;t predict the future, but we can try to shape it.&lt;/p&gt;
-
 &lt;p&gt;Rather than make open, public sharing of data about human beings the expected norm, I suggest we build on an existing track-record of sharing these sorts data with restricted audiences.
-The Inter-university Consortium on Political and Social Research (&lt;a href=&#34;https://icpsr.umich.edu&#34; target=&#34;_blank&#34;&gt;ICSPR&lt;/a&gt;) at the University of Michigan has been storing and sharing data with restricted audiences for almost 60 years.
+The Inter-university Consortium on Political and Social Research (
+&lt;a href=&#34;https://icpsr.umich.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSPR&lt;/a&gt;) at the University of Michigan has been storing and sharing data with restricted audiences for almost 60 years.
 The U.S. Census has developed procedures for allowing restricted access to individual Census survey responses in highly secure and protected environments.
-The &lt;a href=&#34;https://databrary.org&#34; target=&#34;_blank&#34;&gt;Databrary&lt;/a&gt; data library that I co-founded and co-direct has created a data library for openly sharing video and audio recordings with a restricted community of researchers.
+The 
+&lt;a href=&#34;https://databrary.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Databrary&lt;/a&gt; data library that I co-founded and co-direct has created a data library for openly sharing video and audio recordings with a restricted community of researchers.
 There are numerous examples of data sets shared by the U.S. government (e.g., NDAR) that have various restrictions on who can access data and for what purposes.&lt;/p&gt;
-
 &lt;p&gt;These examples illustrate that open data sharing need not be synonymous with public data sharing.
 The ICPSR and Census examples especially show that even the most sensitive data can be successfully shared with responsible researchers.&lt;/p&gt;
-
 &lt;p&gt;Yes, restricted sharing with researchers affiliated with institutions of higher learning or academic medical centers is &amp;lsquo;elitist&amp;rsquo; to some degree.
 But the checks and balances these institutions provide &amp;ndash; research ethics training, research review committees, research supervision, secure data storage infrastructure &amp;ndash; protect research participants in ways that public data sharing schemes simply cannot, at least not now.
 I think this form of elitism is justified in the name of protecting research participants.
 Or at the very least, that restricting data about human participants should be the norm unless and until we can be highly confident that public sharing truly poses minimal risk.&lt;/p&gt;
-
 &lt;p&gt;Thus, I conclude the following:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Virtually all data about human research participants can be shared in some form.&lt;/li&gt;
 &lt;li&gt;The standard for sharing data about human research participants should be to use a data repository that restricts access to specific individuals for purposes subject to external review.&lt;/li&gt;
-&lt;li&gt;All researchers who collect data about human research participants should be collecting permission to share information from their participants so that any data sharing activities are in accord with participants&amp;rsquo; wishes. There are readily available &lt;a href=&#34;https://www.databrary.org/resources/templates.html&#34; target=&#34;_blank&#34;&gt;templates&lt;/a&gt; researchers can adapt for seeking sharing permission. Going forward there is no reason for &amp;lsquo;failure to secure permission to share&amp;rsquo; to be a meaningful impediment.&lt;/li&gt;
+&lt;li&gt;All researchers who collect data about human research participants should be collecting permission to share information from their participants so that any data sharing activities are in accord with participants&amp;rsquo; wishes. There are readily available 
+&lt;a href=&#34;https://www.databrary.org/resources/templates.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;templates&lt;/a&gt; researchers can adapt for seeking sharing permission. Going forward there is no reason for &amp;lsquo;failure to secure permission to share&amp;rsquo; to be a meaningful impediment.&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Now, some may argue that the cost of securing permission to share and storing data in restricted repositories versus publicly accessible places must be weighed against the benefits.
 I don&amp;rsquo;t disagree that costs and benefits must be weighed, but it is often hard to weigh them objectively.
 Instead, I think it is safer to say that we have a longer history of and familiarity with restricted data sharing and more information about the costs of preparing data to share in these sorts of settings.
 So the surer bet in the long-term is to build on what has already been working.
 The risks of widespread public data sharing are a &amp;lsquo;known-unknown&amp;rsquo;, in Donald Rumsfeld&amp;rsquo;s categorical scheme, while the risks of restricted data sharing are &amp;lsquo;known-knowns&amp;rsquo;.
 I do not share Mr. Rumsfeld&amp;rsquo;s politics, but I find his thinking incisive and useful  in this context.&lt;/p&gt;
-
 &lt;p&gt;One final point in favor of restricted sharing in centralized repositories is metadata standardization.
 If we view data sharing as an investment in future scholarship, then sharing data in standard ways that others can combine, reuse, and build upon is essential.
 By design (e.g., Databrary, government-sponsored data repositories) or long-standing practice (ICSPSR), data repositories provide standard metadata elements that make data more readily discoverable and reusable.
 Of course, curating data to meet these metadata standards takes time, but the payoff comes in accelerated resuse and discovery.&lt;/p&gt;
-
 &lt;p&gt;So, data about human participants should be shared (with permission) in data repositories that restrict access and support standardized metadata, and all of us who do research with human participants should be seeking explicit permission to share in these ways.&lt;/p&gt;
-
 &lt;h2 id=&#34;sharing-data-materials-and-analysis-scripts-is-more-important-to-open-science-than-pre-registration&#34;&gt;Sharing data, materials, and analysis scripts is more important to open science than pre-registration&lt;/h2&gt;
-
-&lt;p&gt;I greatly admire the efforts of the team at the &lt;a href=&#34;https://cos.io&#34; target=&#34;_blank&#34;&gt;Center for Open Science&lt;/a&gt; in bringing preregistration and registered reports into widespread scientific discussion and making them a much more common practice.
+&lt;p&gt;I greatly admire the efforts of the team at the 
+&lt;a href=&#34;https://cos.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Open Science&lt;/a&gt; in bringing preregistration and registered reports into widespread scientific discussion and making them a much more common practice.
 There is no question that drawing clearer, brighter lines between confirmatory and exploratory analyses improves the quality of scientific inference and mitigates questionable research practices.&lt;/p&gt;
-
 &lt;p&gt;That said, I get the biggest and hardest push-back from colleagues about preregistration when discussing open science practices.
 One reason is that many people find the process of pregistration difficult, frustrating, and onerous.
 Yes, there are lots of templates to choose from, and yes, many of the details are already in our IRB protocols or grant proposals.
 But even so, the benefits of pre-registration seem small relative to the high costs, especially to skeptics.&lt;/p&gt;
-
 &lt;p&gt;For these reasons, and innate pragmatism, I spend more of my energy talking-up data sharing.
 Data are more interesting to me personally and probably more useful in evaluating the impact and importance of a given piece of work than a detailed preregistration plan.
 One of my graduate school mentors told me that he reads a paper&amp;rsquo;s methods and results first, and only after that decides whether to read the introduction and conclusion.
@@ -325,7 +312,6 @@ Further, I&amp;rsquo;ve found no convincing retort to the skeptics who ask me wh
 In short, I think that most studies on human participants are under-powered and that we need to vastly increase the quantity of shared data in order to address problems of estimating true effect size distributions.
 While I may not really know whether a researcher followed the protocol reported in a manuscript or in their preregistration, I can evaluate the size of the reported effect and hopefully combine it with other datasets&amp;hellip;if the data are shared.
 When push comes to shove, I&amp;rsquo;d rather authors commit to open data sharing and carry through on their commitments than encourage people to preregister but have them stop short of sharing.&lt;/p&gt;
-
 &lt;p&gt;So, while I&amp;rsquo;m completely happy endorsing the virtues of preregistration, I&amp;rsquo;m going to keep asking authors of papers I review, most of which are not preregistered, to share their data.
 That&amp;rsquo;s because I think data, materials, and analysis code sharing is ultimately more important to advancing discovery than preregistration.
 And &amp;lsquo;learn more faster&amp;rsquo; is not only Databrary&amp;rsquo;s tagline, is my personal motivation for adopting open science practices.
@@ -337,19 +323,16 @@ That ultimate goal can get lost in the sometimes devilish discussions about spec
       <title>Poets may know it</title>
       <link>/post/poets-may-know-it/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>/post/poets-may-know-it/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been slowly moving my &lt;a href=&#34;/tags/poetry/&#34;&gt;poetry&lt;/a&gt; into position on this site.
+      <description>&lt;p&gt;I&amp;rsquo;ve been slowly moving my 
+&lt;a href=&#34;/tags/poetry/&#34;&gt;poetry&lt;/a&gt; into position on this site.
 There may be scraps left in some corner of the hard drive, but the task is essentially done.&lt;/p&gt;
-
 &lt;p&gt;There were curious and inexplicable bursts and equally unexplained lapses.
 Writing could be more of a habit were I more disciplined.
 Instead, I await the midnight muse.
 Something in those hours calls forth a form of loose thinking I require to write evocatively.
 Not always well the record shows, but sometimes.&lt;/p&gt;
-
 &lt;p&gt;Many times, too many, the poems respond to death or a close encounter, or other forms of heartbreak, including the self-inflicted sort.&lt;/p&gt;
-
 &lt;p&gt;I gather them here because the desire to remember feels large to me.
 And there are days when the past seems more real than the bewildering and inexplicable now.
 I guess this is what real poets always knew.&lt;/p&gt;
@@ -360,25 +343,22 @@ I guess this is what real poets always knew.&lt;/p&gt;
       <title>If you JS8...</title>
       <link>/post/if-you-js8/</link>
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>/post/if-you-js8/</guid>
       <description>&lt;p&gt;One thing I like about ham radio is the variety.
 There are new modes to try and new things to learn all the time.&lt;/p&gt;
-
-&lt;p&gt;Most recently, I&amp;rsquo;ve been playing with the low power, weak signal &lt;a href=&#34;https://js8call.com/&#34; target=&#34;_blank&#34;&gt;JS8Call mode&lt;/a&gt;.
+&lt;p&gt;Most recently, I&amp;rsquo;ve been playing with the low power, weak signal 
+&lt;a href=&#34;https://js8call.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JS8Call mode&lt;/a&gt;.
 JS8Call takes the weak signal characteristics of the JT8 mode that has taken the ham world by storm, but enables actual ragchew-style QSOs.
 This means that with low power, modest antennas, and poor propagation conditions, hams can have actual conversations with one another.&lt;/p&gt;
-
 &lt;p&gt;This represents a significant departure from FT8 where callsigns, grid squares, and signal reports are about all that get exchanged.
 I&amp;rsquo;ve played around with JT8, too, but the appeal seems limited to me.
 Yes, my elmer got DXCC on FT8 in less than a month, and yes, I&amp;rsquo;m still working my way there on SSB.
 But, JS8Call suits my interests more directly.
 The developer, a guy named Jordan Scherer is an open source guru and all around righteous ham, and he has a plan about where this sort of tool might go.
-Check out this &lt;a href=&#34;https://youtu.be/mZKhVcFOljY&#34; target=&#34;_blank&#34;&gt;YouTube video&lt;/a&gt; to see what I mean.&lt;/p&gt;
-
+Check out this 
+&lt;a href=&#34;https://youtu.be/mZKhVcFOljY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube video&lt;/a&gt; to see what I mean.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s how my 25 W signal was getting out earlier today.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../../img/js8call-k3rog.jpg&#34;/&gt;&lt;/p&gt;
+&lt;img src=&#34;../../img/js8call-k3rog.jpg&#34;/&gt;
 </description>
     </item>
     
@@ -386,30 +366,27 @@ Check out this &lt;a href=&#34;https://youtu.be/mZKhVcFOljY&#34; target=&#34;_bl
       <title>Of Donocrats and Trumpublicans</title>
       <link>/post/of-donocrats-and-trumpublicans/</link>
       <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>/post/of-donocrats-and-trumpublicans/</guid>
-      <description>&lt;p&gt;I wish it were otherwise, but I agree with &lt;a href=&#34;https://nymag.com/intelligencer/2019/03/trump-is-a-massive-failure-and-getting-exactly-what-he-wants.html&#34; target=&#34;_blank&#34;&gt;Andrew Sullivan&lt;/a&gt;.
+      <description>&lt;p&gt;I wish it were otherwise, but I agree with 
+&lt;a href=&#34;https://nymag.com/intelligencer/2019/03/trump-is-a-massive-failure-and-getting-exactly-what-he-wants.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew Sullivan&lt;/a&gt;.
 Regardless of what the Mueller report holds, Trump has severely damaged the country and made our Nation weaker, not stronger.&lt;/p&gt;
-
 &lt;p&gt;Regretably, Mr. Trump has been exactly the sort of president many of us feared he would be.
 And his supporters, Donocrat and Trumpublican alike, actually like it that way.
 That is the grim reality that his opponents must face.
 His bombast and bluster and poutiness and pettiness appeal to large numbers of Americans.
 This charlatan&amp;rsquo;s charlatan seems authentic to them in ways that other more competent and legitimate leaders do not.
 Absent a meaningful challenge from within his own party, nowhere evident, that sentiment is unlikely to change.&lt;/p&gt;
-
-&lt;p&gt;I am reminded of &lt;a href=&#34;https://www.nytimes.com/2016/11/18/opinion/the-right-way-to-resist-trump.html&#34; target=&#34;_blank&#34;&gt;this essay in the &lt;em&gt;New York Times&lt;/em&gt;&lt;/a&gt; published before the dust of the 2016 election had truly settled.
+&lt;p&gt;I am reminded of 
+&lt;a href=&#34;https://www.nytimes.com/2016/11/18/opinion/the-right-way-to-resist-trump.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this essay in the &lt;em&gt;New York Times&lt;/em&gt;&lt;/a&gt; published before the dust of the 2016 election had truly settled.
 Zingales argues that opponents of Italy&amp;rsquo;s Trump-like prime minister, Silvio Berlusconi, learned the hard way that the only way to defeat a larger-than-life autocrat is to sweat the details.&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;The Italian experience provides a blueprint for how to defeat Mr. Trump. Only two men in Italy have won an electoral competition against Mr. Berlusconi: Romano Prodi and the current prime minister, Matteo Renzi (albeit only in a 2014 European election). Both of them treated Mr. Berlusconi as an ordinary opponent. They focused on the issues, not on his character.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;The deficit has exploded, the border is insecure, North Korea remains a mortal threat to its neighbors, America&amp;rsquo;s reputation, power, and influence have declined, the rule of law has been weakened, and we have magnified the already challenges we must inevitably face in responding to climate change.
 Trump has not, will not, and cannot make America great.
 And his supporters have not, will not, and cannot acknowledge it.&lt;/p&gt;
-
-&lt;p&gt;But as &lt;a href=&#34;https://www.brainyquote.com/quotes/john_adams_134175&#34; target=&#34;_blank&#34;&gt;John Adams said&lt;/a&gt;, &amp;ldquo;Facts are stubborn things; and whatever may be our wishes, our inclinations, or the dictates of our passions, they cannot alter the state of facts and evidence.&amp;rdquo;
+&lt;p&gt;But as 
+&lt;a href=&#34;https://www.brainyquote.com/quotes/john_adams_134175&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;John Adams said&lt;/a&gt;, &amp;ldquo;Facts are stubborn things; and whatever may be our wishes, our inclinations, or the dictates of our passions, they cannot alter the state of facts and evidence.&amp;rdquo;
 And it is the facts and evidence of Trump&amp;rsquo;s incompetence we must highlight, relentlessly and fearlessly, to defeat him.&lt;/p&gt;
 </description>
     </item>
@@ -418,7 +395,6 @@ And it is the facts and evidence of Trump&amp;rsquo;s incompetence we must highl
       <title>Burns a bridge</title>
       <link>/post/burns-a-bridge/</link>
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>/post/burns-a-bridge/</guid>
       <description>&lt;p&gt;burns a bridge&lt;/br&gt;
 the night long, this heat&lt;/br&gt;
@@ -429,9 +405,7 @@ but wonders he later&lt;/br&gt;
 wherefore the stench&lt;/br&gt;
 and who has shut the road&lt;/br&gt;
 again.&lt;/p&gt;
-
 &lt;p&gt;we do not swim.&lt;/p&gt;
-
 &lt;p&gt;in motion emotion forever &lt;/br&gt;
 forward&lt;/br&gt;
 fresh, frenetic,&lt;/br&gt;
@@ -441,7 +415,6 @@ pulled more like&lt;/br&gt;
 perhaps by gravitational force&lt;/br&gt;
 or some repulsion.&lt;/br&gt;
 the formula admits no closed form solution.&lt;/p&gt;
-
 &lt;p&gt;ash &amp;amp; ember&lt;/br&gt;
 linger in their dull glow.&lt;/br&gt;
 fire can cauterize, staunch, and save the wounded,&lt;/br&gt;
@@ -460,21 +433,1421 @@ why&lt;/p&gt;
       <title>Open developmental science</title>
       <link>/post/open-developmental-science/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>/post/open-developmental-science/</guid>
       <description>&lt;p&gt;If you plan to attend the Society for Research in Child Development (SRCD) meeting in Baltimore later this week, you might be interested in some of the open science activities that will be taking place:&lt;/p&gt;
-
-&lt;p&gt;On Friday, March 22, from 10-11:30 am, I am co-leading a conversation hour on the topic &lt;a href=&#34;https://www.rick-gilmore.com/talk/srcd-2019-03-22/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;What SRCD is doing to address open science&lt;/em&gt;&lt;/a&gt;.
+&lt;p&gt;On Friday, March 22, from 10-11:30 am, I am co-leading a conversation hour on the topic 
+&lt;a href=&#34;https://www.rick-gilmore.com/talk/srcd-2019-03-22/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;What SRCD is doing to address open science&lt;/em&gt;&lt;/a&gt;.
 We&amp;rsquo;ll focus on a set of new policies and guidelines to authors that the SRCD Task Force on Scientific Integrity and Openness produced.&lt;/p&gt;
-
 &lt;p&gt;In addition, there are other open science events happening at SRCD:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;ManyBabies: Bringing large-scale collaborative projects to infant development research&lt;/em&gt;, Saturday, March 23, 12:45-2:15 pm, Hilton Baltimore, Level 2, Key 4&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Making developmental science more open: Successes, obstacles, and solutions&lt;/em&gt;, Saturday, March 23, 2:30-4:00 pm, Baltimore Convention Center, Room 309&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;See you in Baltimore!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>April 9: A national day of reflection and reconciliation</title>
+      <link>/post/april-9-a-day-of-reflection-and-reconciliation/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/post/april-9-a-day-of-reflection-and-reconciliation/</guid>
+      <description>&lt;p&gt;America needs a holiday dedicated to reflecting on the many ways we have failed to meet our founding ideals.
+We need such a holiday to reconcile the past with our common hopes for a better future, to &amp;lsquo;bind up the Nation&amp;rsquo;s wounds&amp;rsquo;, as Lincoln suggested in his 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Abraham_Lincoln%27s_second_inaugural_address&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;second inaugural address&lt;/a&gt;.
+I suggest we make April 9 that day.&lt;/p&gt;
+&lt;p&gt;Lee surrendered to Grant on April 9, 1865 in Appomattox Court House, Virginia, a month after Lincoln&amp;rsquo;s second inaugural.
+This ended the military portion of the Civil War, the bloodiest conflict in American history.
+But in a very real sense, the conflict never truly ended.
+It simply shifted to other battlefields, several of which rage on today.&lt;/p&gt;
+&lt;p&gt;I suggest that the American project is stronger when we, the people, view our history openly and honestly, with the courage to acknowledge our shortcomings.
+Indeed, lacking such an honest accounting, our sense of pride may appear prideful or worse, willfully ignorant of the price so many have paid for this progress.&lt;/p&gt;
+&lt;p&gt;Where and how has America fallen short?
+My list may differ from yours, but here are some suggestions: Our genocide of Native Americans, our history of slavery, our treatment of any number of immigrant groups, the long delay in granting women suffrage, the Japanese internment, the ways 
+&lt;a href=&#34;https://www.theatlantic.com/magazine/archive/2019/04/adam-serwer-madison-grant-white-nationalism/583258/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;American white supremacists inspired the Nazis&lt;/a&gt;, the interminable war on terror no one seems willing to end, and our failures to confront and address climate change.&lt;/p&gt;
+&lt;p&gt;A truly great and powerful nation can muster the courage to face its own flaws and to hold itself account.
+Indeed, lacking that courage, how can any people aspire to righteousness or assume the responsibilities of leadership?&lt;/p&gt;
+&lt;p&gt;Like the Jews, who atone for sin on Yom Kippur by seeking forgiveness from one another before facing judgment from the almighty, let us set aside April 9 for a national day of reflection and reconciliation.
+Let us find strength in examining our weakness.
+And let such a day form a more perfect union among us that we may secure the blessings of liberty, as we the people have ordained in our Constitution, for all posterity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Itsy Bitsy</title>
+      <link>/post/itsy-bitsy/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/post/itsy-bitsy/</guid>
+      <description>&lt;p&gt;i wonder what it is like&lt;/p&gt;
+&lt;p&gt;to swing from a rope of my own&lt;/p&gt;
+&lt;p&gt;making; pulled out of my&amp;hellip;&lt;/p&gt;
+&lt;p&gt;as it were,&lt;/p&gt;
+&lt;p&gt;hoping some unsuspecting&lt;/br&gt;
+fly&lt;/p&gt;
+&lt;p&gt;by night nibbles on the line&lt;/br&gt;
+i&amp;rsquo;ve cast&lt;/p&gt;
+&lt;p&gt;when patience&lt;/br&gt;
+is more than virtue&lt;/br&gt;
+and cunning no vice&lt;/br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Behavior is the linchpin</title>
+      <link>/post/behavior-is-the-linchpin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/post/behavior-is-the-linchpin/</guid>
+      <description>&lt;p&gt;The Eunice Kennedy Shriver National Institute for Child Health and Human Development (NICHD) has 
+&lt;a href=&#34;https://grants.nih.gov/grants/guide/notice-files/NOT-HD-18-031.html?utm_source=2018&amp;#43;Current&amp;#43;Member&amp;#43;List&amp;amp;utm_campaign=09227e70bd-EMAIL_CAMPAIGN_2019_01_17_08_03&amp;amp;utm_medium=email&amp;amp;utm_term=0_e5b504feb0-09227e70bd-293977841&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;requested input&lt;/a&gt; on a draft strategic plan for 2020-2024.&lt;/p&gt;
+&lt;p&gt;NICHD supports Databrary and PLAY, and it has supported my habituation modeling work in the past.
+The following is a draft response my colleagues and I are working on.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Dear Dr. Bianchi:&lt;/p&gt;
+&lt;p&gt;Thank you for the opportunity to respond to the NICHD Strategic Plan for Fiscal Years 2020-2024. We write as Principal Investigators of the Play &amp;amp; Learning Across a Year (PLAY) project (R01HD094830), a 65-researcher-strong video-based study of natural infant/mother behavior, funded by NICHD, NIMH, OBSSSR, and the Office of the Director. Our recommendation is simple: We urge you and your colleagues to incorporate a clear vision for behavioral research in the plan&amp;rsquo;s research themes and goals to underscore the pivotal importance of behavior and experience in child development.&lt;/p&gt;
+&lt;p&gt;Behavior is the linchpin of the most vexing problems in public health, and a better understanding of behavior is fundamental to achieving positive health outcomes, from prenatal development throughout adulthood. Behavior contributes to the progression or prevention of disease, defines a disorder or marks recovery, and provides mechanisms for therapeutic intervention. The study of child health and human development magnifies this importance. According to the CDC, two of the three leading causes of death among children aged 1-4 (accidents and assault/homicide) and children aged 5- 14 (accidents and suicide) involve behavior, among other factors. One child in six has a developmental disability. The most common developmental disabilities—autism spectrum disorder (ASD), attention deficit hyperactivity disorder (ADHD), and sensory impairments—substantially impact behaviors across the lifespan, and often the most effective interventions are behavioral. Virtually every problem in children, families, and society—substance use, school violence, school dropout, ethnic disparities, emotional dysregulation, racism and discrimination, and more—can be traced to behaviors and experiences in childhood. Moreover, the growing field of epigenetics reveals that genetics data alone provide limited insights about developmental outcomes without critical information about early experiences, behaviors, and environments.&lt;/p&gt;
+&lt;p&gt;In the context of the NICHD 2020-2024 Strategic plan, our specific recommendations are as follows. In Research Theme #1—understanding early human development—we ask that you expand the focus beyond genetic and cellular levels of analysis and incorporate maternal and fetal behavior as central phenomena that need to be studied and understood. Similarly, regarding Research Theme #2—setting the stage for a healthy pregnancy—we ask that you expand the focus to include maternal and other caregiver behaviors, including paternal behaviors, that may reduce or elevate risk.
+Research Theme #4—identifying sensitive time periods to optimize health interventions—highlights the role of behavior. However, the plan implies that we have sufficient knowledge about the varied trajectories of typical development to productively intervene in atypical development. This may be true in a limited set of domains, but is not broadly true in our experience. Much more research about behavioral development is needed. Our suggestion about Research Theme #5—Improving health during the transition from adolescence to adulthood—is to broaden the lens to include research on childhood behaviors observed in a variety of settings that serve as precursors to risk in adolescence.&lt;/p&gt;
+&lt;p&gt;We wish to emphasize that many standardized laboratory tasks or parent-report questionnaire instruments thought to reliably reflect the &amp;ldquo;phenotype,&amp;rdquo; fail to capture vital dimensions of infant, child, adolescent, and parent behavior that occur in natural settings. Indeed, this gap motivates our focus on video in the PLAY project. Natural behavior in home, school, and clinical settings can be reliably and informatively captured and analyzed using video. And we have shown that video can be securely and ethically shared using tools for video informatics (Databrary and Datavyu) and policies for restricted data sharing with explicit consent that we have developed and shared with the research community thanks to NICHD support (U01HD076595).&lt;/p&gt;
+&lt;p&gt;The PLAY project capitalizes on these advances in an effort to capture, analyze, and openly share data about the building blocks of infant and maternal behavior combining video with other data sources. PLAY is motivated in part by the belief that the hard-won knowledge gleaned from public funding for the genome, proteome, metabolome, and connectome initiatives will have substantially greater impact on child and maternal health outcomes when combined with insights from a corresponding &amp;ldquo;behaviorome.&amp;rdquo; As a &amp;ldquo;behaviorome&amp;rdquo;-like research effort, PLAY aims to accelerate the pace of discovery in basic and applied developmental science.
+NICHD has a strong track record of funding research on infant and child behavior. Given the essential role of behavior in maternal, child, and adolescent health, we urge NICHD to build upon this tradition by giving the study of behavior substantially greater emphasis and visibility in the 2020-2024 strategic plan and beyond.&lt;/p&gt;
+&lt;p&gt;Yours truly,&lt;/p&gt;
+&lt;p&gt;Karen Adolph, Professor of Psychology and Neural Science, New York University&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;Rick O. Gilmore, Associate Professor of Psychology, The Pennsylvania State University&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;Catherine Tamis-LeMonda, Professor of Applied Psychology, New York University&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>In search of the ethogram</title>
+      <link>/post/in-search-of-the-ethogram/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/post/in-search-of-the-ethogram/</guid>
+      <description>&lt;p&gt;Psychology is in part, a science of behavior.
+Mental experience &amp;ndash; thoughts and feelings &amp;ndash; are also common targets of inquiry.&lt;/p&gt;
+&lt;p&gt;I recently went looking for a systematic catalogue of behaviors that should, in theory, constitute the substance of what psychologists and other behavioral scientists study.
+My goal was to take that catalogue as a starting point for thinking about the relationship between information available for perception and the actions (behaviors) that this information informs.
+The formal term for this sort of catalog is an &amp;lsquo;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Ethogram&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ethogram&lt;/a&gt;&#39;.
+Here&amp;rsquo;s a sample 
+&lt;a href=&#34;https://tolweb.org/onlinecontributors/app?page=TeacherResourceViewSupportMaterial&amp;amp;service=external&amp;amp;sp=l3090&amp;amp;sp=4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;template&lt;/a&gt; from the Tree of Life project.
+Unfortunately, I failed in my quest.&lt;/p&gt;
+&lt;p&gt;There have been attempts to create and openly share animal ethograms like the apparently stalled or inactive ethobank.org site associated with the EthoSource project.
+The 
+&lt;a href=&#34;https://www.cogpo.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cognitive Paradigm Ontology&lt;/a&gt; and the 
+&lt;a href=&#34;https://www.cognitiveatlas.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cognitive Atlas&lt;/a&gt; project attempt to create systematic ontologies (systematic representations of categories and concepts and their relations) of tasks used in experimental psychology.
+Cognitive psychology tasks clearly require very specific types of behavior from participants.
+Systematically organizing the nature of these tasks should lead to faster progress in understanding how they relate to one another, and ultimately, how minds and brains actually work.
+Still, I came up short in finding a comprehensive human ethogram.&lt;/p&gt;
+&lt;p&gt;In other contexts, I&amp;rsquo;ve called such a thing the behaviorome, partly to suggest that behavior should have a more central place in research grantmaking priorities.
+The 
+&lt;a href=&#34;/project/PLAY/&#34;&gt;PLAY project&lt;/a&gt; is a type of behaviorome effort.
+We will be creating detailed definitions for specific behaviors that our infant and adult participants produce in a small set of behavioral domains, but it will not be comprehensive by any means.
+For now, I&amp;rsquo;m stuck with trying to assemble my own.&lt;/p&gt;
+&lt;p&gt;One approach to an ethogram for humans could focus on biologically essential behavioral classes that we share with all other animals: &lt;em&gt;ingestion&lt;/em&gt; (food and nutrient seeking), &lt;em&gt;defense&lt;/em&gt; (self-protection), and &lt;em&gt;reproduction&lt;/em&gt;.
+Unfortunately, this scheme fail to capture the sets of behaviors studied by the majority of psychologists.
+Adding in a class of communicative and affiliative behaviors helps.
+But even this augmented classification describes the functional purposes of behavior, not the behaviors themselves.
+For example, locomotor behavior, moving toward or away from some target, occurs in food seeking, predator avoidance, mate seeking, and social (affiliative) contexts.&lt;/p&gt;
+&lt;p&gt;Another way to ask the question is to observe whether physical activities that humans do for pleasure and watch others for entertainment (sports) have some latent structure we might exploit.
+Here, we assume that if large groups of humans engage in an activity or pay to watch others engage in it, the skills involved must be especially demanding.
+Indeed, professional sports represent some of humankind&amp;rsquo;s most skilled (and highly paid) actors.
+And while I&amp;rsquo;m still looking for a comprehensive catalog of sport types, this table shows that most of them fall into a small set of categories when focusing on the core actions that define success.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Category&lt;/th&gt;
+&lt;th&gt;Sports&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;aiming&lt;/td&gt;
+&lt;td&gt;basketball, baseball, football (passing &amp;amp; kicking), hocky, soccer, bowling, tennis, golf, pool/billiards, archery, &amp;hellip;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;steering&lt;/td&gt;
+&lt;td&gt;slalom skiing, motorsports&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;performing&lt;/td&gt;
+&lt;td&gt;gymnastics, diving, synchronized swimming, figure skating, &amp;hellip;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;racing&lt;/td&gt;
+&lt;td&gt;running, motorsports, speed skating, swimming, cycling, paddling&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;fighting&lt;/td&gt;
+&lt;td&gt;boxing, wrestling, &amp;hellip;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;feats of strength&lt;/td&gt;
+&lt;td&gt;weightlifting&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;You may disagree with my categorization, but I hope you&amp;rsquo;ll agree that there are many similarities in the sorts of actions we find entertaining to watch.&lt;/p&gt;
+&lt;p&gt;Another approach to an ethogram starts with the actions that computer vision researchers find are important to extract from video.
+Google’s Atomic Visual Action (AVA) dataset (&lt;a href=&#34;https://research.google.com/ava/&#34;&gt;https://research.google.com/ava/&lt;/a&gt;) involves three classes of movements, &lt;em&gt;person movement&lt;/em&gt;, &lt;em&gt;object interaction&lt;/em&gt;, &lt;em&gt;person interaction&lt;/em&gt;, and has exemplars with 81 specific actions that fit into these categories.
+Some examples of specific behaviors tagged in the AVA dataset are &lt;em&gt;crawl&lt;/em&gt;, &lt;em&gt;dance&lt;/em&gt;, &lt;em&gt;jump/leap&lt;/em&gt;, &lt;em&gt;lift&lt;/em&gt;, &lt;em&gt;open&lt;/em&gt;, &lt;em&gt;press&lt;/em&gt;, &lt;em&gt;hug&lt;/em&gt;, &lt;em&gt;kiss&lt;/em&gt;, and &lt;em&gt;listen to&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Maybe some combination of these approaches is as good a start as any.
+After all, if 
+&lt;a href=&#34;https://doi.org/10.1016/j.anbehav.2009.03.018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;behavioral biologists don&amp;rsquo;t seem to agree about what constitutes behavior&lt;/a&gt;, it&amp;rsquo;s not that surprising that psychologists haven&amp;rsquo;t yet created our own list.
+We do need a list like this, though, don&amp;rsquo;t you think?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Parameters for action</title>
+      <link>/post/parameters-for-action/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/post/parameters-for-action/</guid>
+      <description>
+
+
+&lt;p&gt;Several years ago, Florian Raudies, Swapnaa Jayaraman and I published a &lt;a href=&#34;https://doi.org/10.1109/DEVLRN.2015.7345450&#34;&gt;paper&lt;/a&gt; where we simulated the optic flow that infants would experience in different head/body postures.
+We computed cyclopian (one-eyed) flow on the basis of this schematic:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gilmore-lab/temple-2017-02-27/master/img/computing-flow.jpg&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;Here, the key parameters were the instantaneous translation &lt;span class=&#34;math inline&#34;&gt;\((v_x{}, v_y{}, v_z{})\)&lt;/span&gt; and rotation &lt;span class=&#34;math inline&#34;&gt;\((\omega_{x}, \omega_y{}, \omega_z{})\)&lt;/span&gt; of the planar retina.
+Coupled with the optic flow equation,&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;math inline&#34;&gt;\(\begin{pmatrix}\dot{x} \\ \dot{y}\end{pmatrix}=\frac{1}{z} \begin{pmatrix}-f &amp;amp; 0 &amp;amp; x\\ 0 &amp;amp; -f &amp;amp; y \end{pmatrix} \begin{pmatrix}{v_x{}}\\ {v_y{}} \\{v_z{}}\end{pmatrix}+ \frac{1}{f} \begin{pmatrix} xy &amp;amp; -(f^2+x^2) &amp;amp; fy\\ f^2+y^2 &amp;amp; -xy &amp;amp; -fy \end{pmatrix} \begin{pmatrix} \omega_{x}\\ \omega_{y}\\ \omega_{z} \end{pmatrix}\)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;we were able to simulate the &lt;em&gt;perceptual&lt;/em&gt; effects of postural geometry: Changes in eye height and forward translational speed that would occur when a child changed from crawling to walking altered the pattern of retinal flow &lt;span class=&#34;math inline&#34;&gt;\((\dot{x}, \dot{y})\)&lt;/span&gt; in interesting ways.&lt;/p&gt;
+&lt;p&gt;This work has lain dormant for a few years, but I now want to pick it back up.
+In short, there are a handful of perception/action systems that provide the nervous system with deterministic, causal information about the effects of different actions.
+These must be important for development.&lt;/p&gt;
+&lt;p&gt;For the next step, I’m looking for a concise, but thorough parameterization of body posture that includes the eyes, head, torso, arms, and legs.
+Here’s a sketch of what I have in mind for the upper parts body that have the greatest impact on the direction of visual fixation:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Body part&lt;/th&gt;
+&lt;th&gt;Parameter(s)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Eyes&lt;/td&gt;
+&lt;td&gt;$&lt;em&gt;{rx}, &lt;/em&gt;{ry}, &lt;em&gt;{lx}, &lt;/em&gt;{lx} $&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Head&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;math inline&#34;&gt;\(\theta_x{}, \theta_y{}, \theta_z{}\)&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Torso&lt;/td&gt;
+&lt;td&gt;$_x{}, _y{}, _z{} $&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Coupled with the distance between the eyes, &lt;span class=&#34;math inline&#34;&gt;\(i\)&lt;/span&gt;, the radial distance to the head’s center of rotation, &lt;span class=&#34;math inline&#34;&gt;\(h\)&lt;/span&gt;, and the distance from the head’s center of rotation to the torso’s center of rotation, &lt;span class=&#34;math inline&#34;&gt;\(t\)&lt;/span&gt;, we can compute the effects of eye, head, and torso movement on visual motion at the two retinae.
+Now, if the &lt;em&gt;visual&lt;/em&gt; signals from eye vs. head vs. torso can be distinguished, then these could couple with other proprioceptive (muscle, tendon, cutaneous) signals to provide a powerful set of &lt;em&gt;sensory&lt;/em&gt; signals that are directly caused by eye, head, and torso motion.
+See &lt;a href=&#34;../the-webs-we-weave/&#34;&gt;this earlier post&lt;/a&gt; for a causal graph that elaborates on this point.
+I’ll discuss why I think there are &lt;em&gt;visual&lt;/em&gt; differences in the effects of eye and head motion in a future post.&lt;/p&gt;
+&lt;p&gt;My next step is to ask my colleagues in kinesiology if there is a canonical parameterization of body position that I can build upon.
+If you know of one, let me know.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The webs we weave</title>
+      <link>/post/the-webs-we-weave/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/post/the-webs-we-weave/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/viz/viz.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/rmarkdown-libs/DiagrammeR-styles/styles.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/rmarkdown-libs/grViz-binding/grViz.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;I’ve been ‘sketching’ out conceptual models for some time without realizing that there is an entire field of analysis where these sorts of diagrams are the starting point: Causal modeling. My introduction to this world was Judea Pearl’s &lt;a href=&#34;https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/ref=sr_1_1?ie=UTF8&amp;amp;qid=1548436587&amp;amp;sr=8-1&amp;amp;keywords=the+book+of+why&#34;&gt;The Book of Why: The New Science of Cause and Effect&lt;/a&gt;. Interested casual readers might also enjoy Steve Sloman’s excellent and delightfully clear &lt;a href=&#34;https://www.amazon.com/Causal-Models-People-Think-Alternatives/dp/0195394291/ref=sr_1_2?ie=UTF8&amp;amp;qid=1548436730&amp;amp;sr=8-2&amp;amp;keywords=steven+sloman&#34;&gt;&lt;em&gt;Causal Models: How People Think About the World and Its Alternatives&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In this post, I want to build a model for how an observer perceives visual motion given various possible causes.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(DiagrammeR)
+
+nodes &amp;lt;- create_node_df(
+  n = 15,
+  label = c(&amp;quot;retinal motion&amp;quot;, &amp;quot;eye mvmt&amp;quot;, &amp;quot;head mvmt&amp;quot;, &amp;quot;body mvmt&amp;quot;, &amp;quot;object mvmt&amp;quot;, &amp;quot;passive transp&amp;quot;, &amp;quot;eye cmd&amp;quot;, &amp;quot;head cmd&amp;quot;, &amp;quot;body cmd&amp;quot;, &amp;quot;eye prop&amp;quot;, &amp;quot;head prop&amp;quot;, &amp;quot;head vest&amp;quot;, &amp;quot;body prop&amp;quot;, &amp;quot;entity&amp;quot;, &amp;quot;passive force&amp;quot;),
+  type = &amp;quot;number&amp;quot;
+)
+
+edges &amp;lt;- create_edge_df(
+  from = c(2, 3, 4, 5, 6, 7, 8, 9, 2, 3, 3, 4, 4, 14, 15),
+  to = c(1, 1, 1, 1, 4, 2, 3, 4, 10, 11, 12, 12, 13, 5, 5),
+  rel = &amp;quot;related&amp;quot;
+)
+
+graph &amp;lt;- DiagrammeR::create_graph(nodes_df = nodes, 
+                                  edges_df = edges)
+
+graph %&amp;gt;% DiagrammeR::render_graph()&lt;/code&gt;&lt;/pre&gt;
+&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:672px;height:480px;&#34; class=&#34;grViz html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;diagram&#34;:&#34;digraph {\n\ngraph [layout = \&#34;neato\&#34;,\n       outputorder = \&#34;edgesfirst\&#34;,\n       bgcolor = \&#34;white\&#34;]\n\nnode [fontname = \&#34;Helvetica\&#34;,\n      fontsize = \&#34;10\&#34;,\n      shape = \&#34;circle\&#34;,\n      fixedsize = \&#34;true\&#34;,\n      width = \&#34;0.5\&#34;,\n      style = \&#34;filled\&#34;,\n      fillcolor = \&#34;aliceblue\&#34;,\n      color = \&#34;gray70\&#34;,\n      fontcolor = \&#34;gray50\&#34;]\n\nedge [fontname = \&#34;Helvetica\&#34;,\n     fontsize = \&#34;8\&#34;,\n     len = \&#34;1.5\&#34;,\n     color = \&#34;gray80\&#34;,\n     arrowsize = \&#34;0.5\&#34;]\n\n  \&#34;1\&#34; [label = \&#34;retinal motion\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;2\&#34; [label = \&#34;eye mvmt\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;3\&#34; [label = \&#34;head mvmt\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;4\&#34; [label = \&#34;body mvmt\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;5\&#34; [label = \&#34;object mvmt\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;6\&#34; [label = \&#34;passive transp\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;7\&#34; [label = \&#34;eye cmd\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;8\&#34; [label = \&#34;head cmd\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;9\&#34; [label = \&#34;body cmd\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;10\&#34; [label = \&#34;eye prop\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;11\&#34; [label = \&#34;head prop\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;12\&#34; [label = \&#34;head vest\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;13\&#34; [label = \&#34;body prop\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;14\&#34; [label = \&#34;entity\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;15\&#34; [label = \&#34;passive force\&#34;, fillcolor = \&#34;#F0F8FF\&#34;, fontcolor = \&#34;#000000\&#34;] \n  \&#34;2\&#34;-&gt;\&#34;1\&#34; \n  \&#34;3\&#34;-&gt;\&#34;1\&#34; \n  \&#34;4\&#34;-&gt;\&#34;1\&#34; \n  \&#34;5\&#34;-&gt;\&#34;1\&#34; \n  \&#34;6\&#34;-&gt;\&#34;4\&#34; \n  \&#34;7\&#34;-&gt;\&#34;2\&#34; \n  \&#34;8\&#34;-&gt;\&#34;3\&#34; \n  \&#34;9\&#34;-&gt;\&#34;4\&#34; \n  \&#34;2\&#34;-&gt;\&#34;10\&#34; \n  \&#34;3\&#34;-&gt;\&#34;11\&#34; \n  \&#34;3\&#34;-&gt;\&#34;12\&#34; \n  \&#34;4\&#34;-&gt;\&#34;12\&#34; \n  \&#34;4\&#34;-&gt;\&#34;13\&#34; \n  \&#34;14\&#34;-&gt;\&#34;5\&#34; \n  \&#34;15\&#34;-&gt;\&#34;5\&#34; \n}&#34;,&#34;config&#34;:{&#34;engine&#34;:&#34;dot&#34;,&#34;options&#34;:null}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;p&gt;The figure implies that motion on the retina comes from the movement of objects in the environment, movement of the observer, specifically the eyes, head, or body, or a combination of any of these. Eye movements stem from eye movement commands; head movements (translations and rotations) stem from head movement commands; body movements stem from commands to move the body. Movements of the eyes, head, or body generate proprioceptive signals from the eyes, head, and body. These signals derive from muscle, joint, and tendon receptors. Rotational and translational motion of the head stimulates vestibular signals.&lt;/p&gt;
+&lt;p&gt;Note that retinal motion caused by the observer has multiple non-visual correlates (or consequences) that are detectable under typical circumstances. There may also be differences in the specific &lt;em&gt;properties&lt;/em&gt; of motion caused by eye, head, body, or object motion. We’ll discuss these in a future post.&lt;/p&gt;
+&lt;p&gt;So, the task for perception is to answer the question: What’s moving and why?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QSL? QSL</title>
+      <link>/post/qsl-qsl/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/post/qsl-qsl/</guid>
+      <description>&lt;p&gt;Last night, my friend Mike (N3LI) and I made our first-ever CW QSOs.
+In ham-speak, that means we chatted using Morse code.&lt;/p&gt;
+&lt;p&gt;It wasn&amp;rsquo;t fast, and we didn&amp;rsquo;t copy each other completely.
+But we exchanged meaningful information using a classic communication mode that is no longer a requirement for licensing but is still going strong.
+It was great fun, and we plan to keep practicing and plan to meet-up again next week.&lt;/p&gt;
+&lt;p&gt;Re-learning Morse code has reinforced several things for me.
+Patience and persistence are the most important qualities for long-term mastery of any difficult skill.
+And it&amp;rsquo;s good to give older brains a tough, but realizable challenge.
+Especially when there are concrete and visible measures of success.&lt;/p&gt;
+&lt;p&gt;So any no-code hams out there who haven&amp;rsquo;t taken the plunge, come on in!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New lab logo</title>
+      <link>/post/new-lab-logo/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/post/new-lab-logo/</guid>
+      <description>&lt;p&gt;For I don&amp;rsquo;t remember how many years I&amp;rsquo;ve wanted a lab logo.
+I thought that designing a logo was something that &lt;em&gt;some&lt;/em&gt; student might actually enjoy doing.
+But I never pushed or insisted, and so it never happened.&lt;/p&gt;
+&lt;p&gt;Then, as a byproduct of a bunch of reading I&amp;rsquo;ve been doing about causal modeling and the philosophy of science, I came up with a figure that seems to work on several levels.&lt;/p&gt;
+&lt;img src=&#34;../img/nested-causality.jpg.png&#34; height=150px/&gt;
+&lt;p&gt;The outer circle represents the world, the next circle the body that is embedded in the world, the next the nervous system embedded in that body (in the world), and the smallest the mind embedded in the brain (in the body in the world).
+The world, body, and brain are directly measurable in various ways.
+The mind is not.
+We infer properties and structures of the mind indirectly, through patterns of brain activity or peripheral physiology or behavior.
+The focal point of psychology as a science is making inferences about something that cannot be directly measured.
+This is one reason psychology is harder than physics.&lt;/p&gt;
+&lt;p&gt;The figure has other associations.
+It is similar to one used to demonstrate that rotational motion in 2 dimensions can evoke the perception of an object in 3 dimensions &amp;ndash; something called the stereokinetic depth effect (SKE).
+It evokes the perception of a cone-like shape protruding up and to the left.
+And it evokes a weaker perception of a tunnel.
+I study depth perception and motion perception, so these features make the figure even more appealing.&lt;/p&gt;
+&lt;p&gt;Finally, the figure could be viewed as a large letter O, for openness, something I now embrace in all aspects of my scholarship.&lt;/p&gt;
+&lt;p&gt;I confess that I was just trying a new way to depict the embedded causal relationships among mind, brain, body, and the environment and found a color scheme I liked.
+The rest was purely accidental.
+But I guess invention is like that sometimes.&lt;/p&gt;
+&lt;p&gt;I hope you like it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building walls and tearing them down</title>
+      <link>/post/building-walls-and-tearing-them-down/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/post/building-walls-and-tearing-them-down/</guid>
+      <description>&lt;p&gt;The building of walls is of much concern these days.
+This song from Anais Mitchell&amp;rsquo;s folk opera &amp;ldquo;Hadestown&amp;rdquo; sheds light on &lt;em&gt;why&lt;/em&gt; some of us want so desperately to build them:&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/8sQ8R54C53o&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;I must also wonder what future Mexican leader will call on us to tear down the wall we seem so desperate to build?&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/GCO9BYCGNeY&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;Walls are no symbol of strength.
+They shut in more than they keep out.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PLAY project</title>
+      <link>/project/play/</link>
+      <pubDate>Fri, 28 Dec 2018 16:55:00 -0500</pubDate>
+      <guid>/project/play/</guid>
+      <description>&lt;p&gt;The Play &amp;amp; Learning Across a Year (PLAY) project will provide a first-ever glimpse inside the homes of almost 1,000 families across the U.S.
+We will collect, annotate (code), and openly share on 
+&lt;a href=&#34;https://databrary.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Databrary&lt;/a&gt; video recordings of mothers and 12-, 18-, and 24-month-old infants engaged in natural behavior in their homes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test-driven development is hard...and important.</title>
+      <link>/post/test-driven-development-is-hard-and-important/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/post/test-driven-development-is-hard-and-important/</guid>
+      <description>
+
+
+&lt;p&gt;I’ve been developing an R package that interacts with the &lt;a href=&#34;https://databrary.org&#34;&gt;Databrary.org&lt;/a&gt; API and with &lt;a href=&#34;https://datavyu.org&#34;&gt;Datavyu&lt;/a&gt; annotation files stored locally or on Databrary alongside shared videos. If you’re curious, you can download the &lt;code&gt;databraryapi&lt;/code&gt; package from this GitHub repository: &lt;a href=&#34;https://github.com/PLAY-behaviorome/databraryapi&#34; class=&#34;uri&#34;&gt;https://github.com/PLAY-behaviorome/databraryapi&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Like many people in the software world, I’m entirely self-taught. Ok, I took a class in C programming at the U.S. Department of Agriculture’s Graduate School in the year before I applied to graduate schools in cognitive neuroscience. But my R package development skills are entirely self-taught. I must thank the incredibly generous geniuses who have gone before me and who share their code and their talents so freely and openly. Without the almost instant availability of these resources, my progress would be much, much slower.&lt;/p&gt;
+&lt;p&gt;Developers are an opinionated bunch, and there are at least as many styles (fads?) in software development as their are developers. One style that I have started to try to emulate is &lt;a href=&#34;https://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;‘test-driven development’&lt;/a&gt;. In TDD, the idea is that you create tests for how each part of your package should respond given this or that input. If your tests are through enough and correct, your package should work…at least within the boundaries of what you tested.&lt;/p&gt;
+&lt;p&gt;For the latest version of the package (0.1.4), I added a bunch of new tests to evaluate several new functions I’ve added to the package. Let’s just say that getting through my own self-designed test battery was challenging. But as a result, the code is cleaner and less buggy than it would be if I hadn’t gone this route.&lt;/p&gt;
+&lt;p&gt;In the larger sense, TDD is sort of a “plan for the worst” style. I like it because I know it forces me to be more precise and specific than I might otherwise choose to be. Since I’ve been using the &lt;code&gt;databraryapi&lt;/code&gt; more often for keeping tabs on what’s going on in the Databrary world, that’s a very good thing.&lt;/p&gt;
+&lt;p&gt;In case you’re curious what the package can do, check this out:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;devtools::install_github(&amp;quot;PLAY-behaviorome/databraryapi&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## Skipping install of &amp;#39;databraryapi&amp;#39; from a github remote, the SHA1 (a6a700ea) has not changed since last install.
+##   Use `force = TRUE` to force installation&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Here is a list of some recently authorized researchers:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;databraryapi::get_db_stats(&amp;quot;people&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## # A tibble: 6 x 6
+##      id sortname  prename     affiliation               url   institution
+##   &amp;lt;int&amp;gt; &amp;lt;chr&amp;gt;     &amp;lt;chr&amp;gt;       &amp;lt;chr&amp;gt;                     &amp;lt;chr&amp;gt; &amp;lt;lgl&amp;gt;      
+## 1  4744 Tadepalli Prasad      Oregon State University   &amp;lt;NA&amp;gt;  NA         
+## 2  4871 Black     Jessica Jan Saint Vincent College     &amp;lt;NA&amp;gt;  NA         
+## 3  4477 Prull     Matthew     Whitman College           &amp;lt;NA&amp;gt;  NA         
+## 4   753 Childers  Jane        Trinity University        &amp;lt;NA&amp;gt;  NA         
+## 5  4881 Lindskog  Marcus      Uppsala University        &amp;lt;NA&amp;gt;  NA         
+## 6  4852 Hudson    Danae       Missouri State University &amp;lt;NA&amp;gt;  NA&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;And here is a very simple plot of the growth in authorized researchers and institutions over time:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;with(databraryapi::read_csv_data_as_df(), plot(Auth_Investigators, Institutions))&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## No encoding supplied: defaulting to UTF-8.&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2018-12-28-test-driven-development-is-hard-and-important_files/figure-html/unnamed-chunk-3-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;I’ve said in other places that I think scientists will eventually interact with their data programmatically – via scripts like this – with the data and materials stored in repositories that others can also access programmatically. Furthermore, I think that the philosophy of test-driven development can help make our software AND the results and findings we derive from it more robust and reproducible.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ethical data sharing</title>
+      <link>/project/permission-to-share/</link>
+      <pubDate>Thu, 27 Dec 2018 14:31:00 -0500</pubDate>
+      <guid>/project/permission-to-share/</guid>
+      <description>&lt;p&gt;Video recordings pose challenges for data sharing.
+They contain faces and voices that cannot be easily eliminated or altered without harming the value of the recordings for other researchers.
+My colleagues and I developed a data sharing policy framework for Databrary that requires researchers to gain consent to share from research participants and restricts access to institutionally-approved researchers.
+Databrary&amp;rsquo;s template sharing release (permission) language may be found 
+&lt;a href=&#34;https://www.databrary.org/resources/templates/release-template.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, and some draft language relevant for gaining permission to share identifiable in the context of the EU&amp;rsquo;s General Data Protection Regulation (GDPR) may be found 
+&lt;a href=&#34;https://github.com/gilmore-lab/ethical-data-sharing-w-GDPR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>databraryapi package</title>
+      <link>/project/databraryapi/</link>
+      <pubDate>Thu, 27 Dec 2018 12:52:01 -0500</pubDate>
+      <guid>/project/databraryapi/</guid>
+      <description>&lt;p&gt;I have released a working version (0.1.4) of an R package that interacts with the 
+&lt;a href=&#34;https://databrary.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Databrary.org&lt;/a&gt; API.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ending the endless war</title>
+      <link>/post/ending-the-endless-war/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/post/ending-the-endless-war/</guid>
+      <description>&lt;p&gt;I find Andrew Sullivan worth reading almost all of the time even if I disagree with him.
+This 
+&lt;a href=&#34;https://nymag.com/intelligencer/2018/12/andrew-sullivan-establishment-will-never-say-no-to-a-war.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;time&lt;/a&gt;, I agree completely:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;&lt;em&gt;&amp;hellip;I simply do not believe that the West has the knowledge, the will, or the ability to shape the extremely complicated and endlessly vicious politics of the Middle East. And I defy anyone to show otherwise&amp;hellip;&lt;/em&gt;&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;So, while I find the present occupant completely unfit for office, I applaud his announcement to withdraw U.S. troops from Syria and reduce our presence in Afghanistan.&lt;/p&gt;
+&lt;p&gt;We forget that &lt;em&gt;Congress&lt;/em&gt; has the Constitutional power to declare war or decisively choose not to.
+It&amp;rsquo;s part of the balance of powers created by the Framers.
+I&amp;rsquo;d like to see Congress restore balance here and in other areas.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Young children&#39;s neural processing of their mother’s voice: An fMRI study</title>
+      <link>/publication/peep-ii-voices/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 -0500</pubDate>
+      <guid>/publication/peep-ii-voices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuroscience: The frontier within</title>
+      <link>/talk/olli-2018-10-29/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
+      <guid>/talk/olli-2018-10-29/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/personal/arts/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      <guid>/personal/arts/</guid>
+      <description>&lt;p&gt;My family and I have been involved theatre and music for a very long time.
+Indeed, my wife and I met in a production of &amp;ldquo;South Pacific&amp;rdquo; with the Georgetown Gilbert &amp;amp; Sullivan Society (GG&amp;amp;SS).
+I played &amp;ldquo;The Professor&amp;rdquo; if you can believe it.&lt;/p&gt;
+&lt;p&gt;Recent shows here in State College have included &amp;ldquo;Oliver!&amp;quot;, &amp;ldquo;The Sound of Music,&amp;rdquo; and &amp;ldquo;Sweeney Todd,&amp;rdquo; with Singing Onstage, &amp;ldquo;Dracula&amp;rdquo;, &amp;ldquo;The Survivor&amp;rdquo;, and &amp;ldquo;Gypsy&amp;rdquo; with the 
+&lt;a href=&#34;https://scctonline.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;State College Community Theatre (SCCT)&lt;/a&gt;, and &amp;ldquo;The Memory of Water&amp;rdquo;, &amp;ldquo;Harper Regan&amp;rdquo;, and &amp;ldquo;Two Can Play&amp;rdquo; with 
+&lt;a href=&#34;https://www.facebook.com/thenextstageinc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Next Stage&lt;/a&gt; theatre company.&lt;/p&gt;
+&lt;p&gt;I am a former president of SCCT.
+I&amp;rsquo;m proud to say that my colleagues and I forced the owners of the Boal Barn to make essential repairs to the facility.&lt;/p&gt;
+&lt;p&gt;Behind the fearless leadership of Amy Farkas, I&amp;rsquo;m helping launch a new community theatre group called &amp;ldquo;Left of Centre.&amp;rdquo;
+Look for details soon.&lt;/p&gt;
+&lt;p&gt;Needless to say, I love to sing and dance.
+My wife and daugther are the instrumentalists, but I pick a banjo now and then or play a bit of harmonica or tin whistle.&lt;/p&gt;
+&lt;p&gt;My wife and I also enjoy volunteering with the 
+&lt;a href=&#34;https://acousticbrew.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acoustic Brew&lt;/a&gt; concert series and attending shows.
+Our folk music friends are pretty awesome, too.&lt;/p&gt;
+&lt;p&gt;When the spirit moves me, I write poetry.
+And when I remember, I take photographs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Equipment</title>
+      <link>/personal/ham_radio_2/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      <guid>/personal/ham_radio_2/</guid>
+      <description>&lt;h2 id=&#34;vhfuhf&#34;&gt;VHF/UHF&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Kenwood TH-D74 HT&lt;/li&gt;
+&lt;li&gt;Yaesu FT-70DR HT&lt;/li&gt;
+&lt;li&gt;Kenwood TM-D710G mobile&lt;/li&gt;
+&lt;li&gt;Kenwood TM-281 mobile (for APRS I-Gate)&lt;/li&gt;
+&lt;li&gt;Tytera MD-2017 HT&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;hf&#34;&gt;HF&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Icom IC-7300&lt;/li&gt;
+&lt;li&gt;Icom IC-7100&lt;/li&gt;
+&lt;li&gt;LDG 600ProII autotuner&lt;/li&gt;
+&lt;li&gt;MFJ 993B autotuner&lt;/li&gt;
+&lt;li&gt;Multiband (80-10m) doublet at 10 m&lt;/li&gt;
+&lt;li&gt;Dipoles for 20m and 40m&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;other&#34;&gt;Other&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tecsun PL-880 portable shortwave/medium wave receiver&lt;/li&gt;
+&lt;li&gt;Openspot UHF digital mode (D-Star, Fusion, DMR) hotspot&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Heroics</title>
+      <link>/personal/heroics/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      <guid>/personal/heroics/</guid>
+      <description>&lt;p&gt;Some rascal or rogue&lt;/br&gt;
+Stashed kryptonite&lt;/br&gt;
+Upon my person.&lt;/p&gt;
+&lt;p&gt;Perhaps in that fingertip pocket of my Levi’s,&lt;/br&gt;
+Or the underside of the spare button on that green and black plaid shirt,&lt;/br&gt;
+Or the tunnel in my underwear that no man uses I assure you but most boys try at least once.&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;I have always loved flying&lt;/br&gt;
+And nerdy girls.&lt;/br&gt;
+I have been underestimated by villains,&lt;/br&gt;
+And see beneath the surfaces of things.&lt;/br&gt;
+I’m unusually attentive to phone booths,&lt;/br&gt;
+And of course capes.&lt;/p&gt;
+&lt;p&gt;It’s just when I tried to catch bullets&lt;/br&gt;
+Lois changed lanes.&lt;/br&gt;
+And I needed the horn rims to see up from down&lt;/br&gt;
+When forced to discover that&lt;/br&gt;
+the laws of gravity&lt;/br&gt;
+Are never broken.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ham Radio</title>
+      <link>/personal/ham_radio_1/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      <guid>/personal/ham_radio_1/</guid>
+      <description>&lt;p&gt;I was licensed as a Tech+ in 1993, but was never really active.
+Kids and finishing grad school were higher priorities.
+After reading &amp;ldquo;Seveneves,&amp;rdquo; I got the bug again and took both the Technician and General in the space of a couple of weeks in the summer of 2016.
+With the moral support of some fellow club members and a helpful Elmer, I upgraded to Extra in July of 2017.&lt;/p&gt;
+&lt;p&gt;I enjoy VHF special event support and help run a local EmComm net. I&amp;rsquo;m doing my best to chase DX on 20 and 40 m using a barefoot IC-7300 and a multiband doublet.
+In the fall of 2019, I added tuned dipoles for 20m and 40m, and in
+the Spring of 2020, I added a Comet 3 for better VHF and UHF coverage.&lt;/p&gt;
+&lt;p&gt;To help with our local APRS coverage, I also run a fill-in digipeater/I-Gate.&lt;/p&gt;
+&lt;p&gt;I am taking the CW Academy courses to (re)learn the code in hopes of doing QRP SOTA and POTA type of activations.
+That seems like an ideal way to combine my love of outdoor activities (hiking, cycling, and paddling) with ham radio.&lt;/p&gt;
+&lt;p&gt;My local club is the 
+&lt;a href=&#34;https://https://nittany-arc.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nittany Amateur Radio Club&lt;/a&gt;.
+I check-in to the Western PA D-Star net occasionally, and often monitor the 146.85 W3YA repeater and the Yaesu System Fusion AmericaLink reflector.
+In Spring 2020, I joined the Board of Directors of NARC.&lt;/p&gt;
+&lt;p&gt;In 2019, I took over as Faculty Adviser for the Penn State Amateur Radio Club.
+I am also trustee for the three K3CR repeaters.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Outdoors</title>
+      <link>/personal/adventure/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      <guid>/personal/adventure/</guid>
+      <description>&lt;p&gt;For fun, I like to walk, run, hike, backpack, kayak and ride my bicycles: a Specialized Hybrid that I sometimes use to commute to work, a Specialized Allez road bike, and stoker-willing, a Hokitika road tandem we call Tonya.
+In 2018 to celebrate our 25th anniversary, my wife and I took a tour of southern Tuscany with Vermont Bicycle Tours (VBT).
+I&amp;rsquo;m what some might call a &amp;ldquo;half-fast&amp;rdquo; cyclist.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Public Service</title>
+      <link>/personal/public_service/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      <guid>/personal/public_service/</guid>
+      <description>&lt;p&gt;I have been involved in local politics, serving as clerk and Judge of Elections in my State College precinct and now Majority Inspector.
+I was a moderate Republican at one point, but changed parties after the 2000 election.&lt;/p&gt;
+&lt;p&gt;My wife and I were formerly Democratic Precinct Co-chairs.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m especially proud of the work that led to the construction of the 
+&lt;a href=&#34;https://www.traillink.com/trail/bellefonte-central-rail-trail/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bellefonte Central Rail Trail&lt;/a&gt;.
+It was one of our community&amp;rsquo;s constructive responses to 9/11.
+Just weeks after the attack, more than 100 volunteers cleared the first overgrown section of railbed.&lt;/p&gt;
+&lt;p&gt;I currently serve on the State College Borough Transportation Commission.
+In a previous rotation on the Commission, we helped implement traffic calming speed humps in the Highlands neighborhood, pedestrian lead times in the downtown district, and plan for a set of bike lanes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;This site collects no personal data about you.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;You are responsible for your use of this site.
+If you use content from the site, you agree to site the content.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The whole elephant</title>
+      <link>/talk/cne-2019-03-27/</link>
+      <pubDate>Tue, 27 Mar 2018 12:00:00 -0400</pubDate>
+      <guid>/talk/cne-2019-03-27/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What SRCD is doing to address open science</title>
+      <link>/talk/srcd-2019-03-22/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 -0400</pubDate>
+      <guid>/talk/srcd-2019-03-22/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Practical solutions for sharing data and materials from psychological research</title>
+      <link>/publication/practical-solutions/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      <guid>/publication/practical-solutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Goad Gunner</title>
+      <link>/personal/goad-gunner/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 -0400</pubDate>
+      <guid>/personal/goad-gunner/</guid>
+      <description>&lt;p&gt;taunts of bad hair boy-men&lt;/br&gt;
+transfix the play yard.&lt;/br&gt;
+mine is bigger. no mine. look.&lt;/p&gt;
+&lt;p&gt;there is no alternative channel&lt;/br&gt;
+for the cartoon among nations.&lt;/p&gt;
+&lt;p&gt;our smiley wiley has&lt;/br&gt;
+chased some tail&lt;/br&gt;
+feather off a cliff&lt;/br&gt;
+and stands now unbound by ground,&lt;/br&gt;
+animation suspended.&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&amp;lsquo;tis only a matter of time&lt;/br&gt;
+until&lt;/br&gt;
+the forces of nature&lt;/br&gt;
+overcome their shock at the effrontery&lt;/br&gt;
+and shame gravity to reassert its&lt;/br&gt;
+inevitable grasp on matter and mass.&lt;/p&gt;
+&lt;p&gt;But what then goes before the fall?&lt;/br&gt;
+This abyss extends how deep?&lt;/br&gt;
+And whose tongue flip says meep-meep?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Speedy Recovery</title>
+      <link>/personal/speedy-recovery/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 -0400</pubDate>
+      <guid>/personal/speedy-recovery/</guid>
+      <description>&lt;p&gt;The tools of the do-it-yourself surgeon vary in sharpness.&lt;/br&gt;
+Some glint in just that light,&lt;/br&gt;
+and cut in their fashion,&lt;/br&gt;
+but how deeply&lt;/br&gt;
+or cleanly&lt;/br&gt;
+only the scar will tell.&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;And it surprises,&lt;/br&gt;
+the ooze I mean,&lt;/br&gt;
+and yes, the stench.&lt;/br&gt;
+Is that me?&lt;/br&gt;
+I expected something more or perhaps different from the excavation of this interior.&lt;/p&gt;
+&lt;p&gt;Worse,&lt;/br&gt;
+once extracted&lt;/br&gt;
+not all the &lt;/br&gt;
+giblets fit back into the cavity.&lt;/br&gt;
+What to do about the extra bits?&lt;/br&gt;
+There really is no suitable stewpot.&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;Of course, the news stays private,&lt;/br&gt;
+so no flowers adorn the recuperation.&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;If there is a next time, it may be best to seek a second opinion&lt;/br&gt;
+or a Highlands malt, cask-aged and served neat.&lt;/br&gt;
+Leave the scalpel on the tray.&lt;/br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Databrary.org</title>
+      <link>/project/databrary.org/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <guid>/project/databrary.org/</guid>
+      <description>&lt;p&gt;Karen Adolph and I co-founded 
+&lt;a href=&#34;https://databrary.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Databrary.org&lt;/a&gt;, a data library specialized for securely storing, streaming, and sharing video and audio recordings for use as data and documentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Datavyu.org</title>
+      <link>/project/datavyu.org/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <guid>/project/datavyu.org/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://datavyu.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Datavyu.org&lt;/a&gt; is a free open-source tool for video and audio annotation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Proximal Emotional Environment Project (PEEP)</title>
+      <link>/project/peep/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <guid>/project/peep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fourth and long</title>
+      <link>/personal/fourth-and-long/</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 -0500</pubDate>
+      <guid>/personal/fourth-and-long/</guid>
+      <description>&lt;p&gt;sometimes late in the 4th quarter&lt;/br&gt;
+you&#39;re down a score,&lt;/br&gt;
+out of timeouts,&lt;/br&gt;
+and it&#39;s 4th and long.&lt;/p&gt;
+&lt;p&gt;on the line is your whole season&lt;/p&gt;
+&lt;p&gt;or your job&lt;/p&gt;
+&lt;p&gt;or your life.&lt;/p&gt;
+&lt;p&gt;and you throw the Hail Mary&lt;/br&gt;
+toward that one corner of the endzone&lt;/br&gt;
+where your receivers just might beat the cornerbacks&lt;/br&gt;
+in a jump ball&lt;/br&gt;
+or a volleyball tip,&lt;/br&gt;
+and two feet just might land in bounds,&lt;/br&gt;
+and the crowd just might roar,&lt;/br&gt;
+and you just might reach to the sky in triumph,&lt;/br&gt;
+and your tears just might be ones of joy.&lt;/p&gt;
+&lt;p&gt;coach always said you play your heart out until the whistle.&lt;/br&gt;
+on each and every down.&lt;/br&gt;
+until the final one.&lt;/p&gt;
+&lt;p&gt;leave it all on the field.&lt;/br&gt;
+that&#39;s what champions do.&lt;/br&gt;
+even when they lose.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Delightful delusion</title>
+      <link>/personal/delightful-delusion/</link>
+      <pubDate>Thu, 25 Feb 2016 00:00:00 -0500</pubDate>
+      <guid>/personal/delightful-delusion/</guid>
+      <description>&lt;p&gt;oh my, yes.&lt;/br&gt;
+I oh so wanted to see&lt;/br&gt;
+a tuxedo, penguin crisp, satin shiny,&lt;/br&gt;
+pseudo-sparkle when he sauntered by&lt;/br&gt;
+us peons, clinging to&lt;/br&gt;
+such rags as misfortune&lt;/br&gt;
+left in her cloud of dust and tears.&lt;/br&gt;
+Coughing.&lt;/p&gt;
+&lt;p&gt;but, oh my no. no.&lt;/br&gt;
+Clad there not in finery,&lt;/br&gt;
+but in the simplest of suits.&lt;/br&gt;
+Birthday I am told the style.&lt;/br&gt;
+Flattered, but not flattering.&lt;/br&gt;
+Scoffing, not coughing.&lt;/p&gt;
+&lt;p&gt;And in seeing I could not unsee,&lt;/br&gt;
+despite I swear so wanting, you must believe,&lt;/br&gt;
+Nor in knowing could I unknow&lt;/br&gt;
+what what wisdom bears in its stoop and beard&lt;/br&gt;
+the penultimate emptiness of every emperor,&lt;/br&gt;
+penguin or man.&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s delightful, this delusion of guardian garments.&lt;/br&gt;
+I&amp;rsquo;ll just close my eyes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Promise</title>
+      <link>/personal/promise/</link>
+      <pubDate>Thu, 25 Feb 2016 00:00:00 -0500</pubDate>
+      <guid>/personal/promise/</guid>
+      <description>&lt;p&gt;I flare my talons&lt;/br&gt;
+and prepare to strike,&lt;/br&gt;
+but only in defense.&lt;/br&gt;
+I sharpen my beak, but only in warning.&lt;/p&gt;
+&lt;p&gt;I am your presidential detail,&lt;/br&gt;
+your Secret Service.&lt;/br&gt;
+Vigilant. Committed.&lt;/br&gt;
+I seek out bullets fired in your direction&lt;/br&gt;
+by indifferent snipers&lt;/br&gt;
+and absorb their impact with joy.&lt;/br&gt;
+Unwounded.&lt;/p&gt;
+&lt;p&gt;I will carry your heart when it cannot be lifted.&lt;/br&gt;
+I will find you when you are lost even to yourself.&lt;/br&gt;
+I will light your darkness with the fire in my eyes,&lt;/br&gt;
+and we will crawl together out of the wilderness.&lt;/br&gt;
+I will gather each and every scattered scrap of your shattered heart&lt;/br&gt;
+and bind them all with stitches&lt;/br&gt;
+from the unbreakable thread of my love.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Specific gravity</title>
+      <link>/personal/specific-gravity/</link>
+      <pubDate>Thu, 21 Jan 2016 00:00:00 -0500</pubDate>
+      <guid>/personal/specific-gravity/</guid>
+      <description>&lt;p&gt;the call always&lt;/br&gt;
+comes too early&lt;/br&gt;
+in the morning for anything&lt;/br&gt;
+but mischief&lt;/br&gt;
+or the baker&lt;/p&gt;
+&lt;p&gt;I know who&#39;s talking&lt;/br&gt;
+but not the language spoken.&lt;/p&gt;
+&lt;p&gt;hand on the bannister&lt;/br&gt;
+does not steady.
+&lt;p&gt;the direction of gravity skewed&lt;/br&gt;
+by other forces of nature.&lt;/p&gt;
+&lt;p&gt;there now is down, but which way up?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>I never metaphysics</title>
+      <link>/personal/i-never-metaphysics/</link>
+      <pubDate>Fri, 14 Aug 2015 00:00:00 -0400</pubDate>
+      <guid>/personal/i-never-metaphysics/</guid>
+      <description>&lt;p&gt;
+it&#39;s like fireworks, dad.&lt;/br&gt;
+you said the colors and patterns come from all the minerals.&lt;/br&gt;
+their making a mutual arrangement designed to ignite and illuminate.
+&lt;/p&gt;
+&lt;p&gt;
+you said the designers crafted this one boomy blue and that one sparkly-white.&lt;/br&gt;
+this cascade brilliant, that smiley face a dud.&lt;/br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+flying high or bursting low, it&#39;s all in the timing&lt;/br&gt;
+and atmospheric conditions.&lt;/br&gt;
+don&#39;t forget chemistry and physics.&lt;/br&gt;
+human ingenuity (and error).&lt;/br&gt;
+some are dampened or damaged in transit.
+&lt;/p&gt;
+&lt;p&gt;
+do you think they know it&#39;s all ashes at the end?&lt;/br&gt;
+maybe.&lt;/br&gt;
+probably.&lt;/br&gt;
+but what a ride.&lt;/br&gt;
+what a show.&lt;/br&gt;
+I don&#39;t care if the music is synchronized.&lt;/br&gt;
+ooh.&lt;/br&gt;
+ahh.
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;R Markdown&lt;/h1&gt;
+&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &amp;lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Including Plots&lt;/h1&gt;
+&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
+  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
+  init.angle = -50, border = NA
+)&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: A fancy pie chart.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Haiku 4 U</title>
+      <link>/personal/haiku-4-u/</link>
+      <pubDate>Sun, 12 Jul 2015 00:00:00 -0400</pubDate>
+      <guid>/personal/haiku-4-u/</guid>
+      <description>&lt;img src=&#34;../../img/arts-fest-2015.jpg&#34; width=600&gt;
+&lt;p&gt;One last time, Dad says.&lt;/br&gt;
+Jason squeals ands bolts inside&lt;/br&gt;
+the mister. Slippery guy.&lt;/p&gt;
+&lt;p&gt;The audacity&lt;/br&gt;
+of giant metal tin-men&lt;/br&gt;
+shames the humbler heart.&lt;/p&gt;
+&lt;p&gt;What are crab cheese fries?&lt;/br&gt;
+Regular with seasoning?&lt;/br&gt;
+Do they sell? Who knows?&lt;/br&gt;
+&lt;p&gt;The didgery-dude&lt;/br&gt;
+took a raincheck. See, honey,&lt;/br&gt;
+I should have bought one.&lt;/br&gt;
+&lt;p&gt;Nittany Lion&lt;/br&gt;
+mating calls echo &#39;cross the&lt;/br&gt;
+Borough. Love me, do.&lt;/br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lonely cicada</title>
+      <link>/personal/lonely-cicada/</link>
+      <pubDate>Sun, 12 Jul 2015 00:00:00 -0400</pubDate>
+      <guid>/personal/lonely-cicada/</guid>
+      <description>&lt;img src=&#34;https://www.princeton.edu/~angarone/cicada/cicada83.jpg&#34; width=400px/&gt;
+&lt;p&gt;Lonely cicada.&lt;/br&gt;
+Bad at math. Off by one? Damn.&lt;/br&gt;
+No choral singing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oh beautiful</title>
+      <link>/personal/oh-beautiful/</link>
+      <pubDate>Sun, 12 Jul 2015 00:00:00 -0400</pubDate>
+      <guid>/personal/oh-beautiful/</guid>
+      <description>&lt;img src=&#34;../../img/911-memorial.jpg&#34; width=600&gt;
+&lt;p&gt;sweet land of liberty of thee i sing&lt;/p&gt;
+&lt;p&gt;the world will little note, nor long remember what we say here,&lt;/br&gt;
+but it can never forget what they did:&lt;/br&gt;
+unreasonable searches and seizures&lt;/br&gt;
+deprived of life, liberty, or property without due process.&lt;/p&gt;
+&lt;p&gt;o say can you see by the dawn&#39;s early light&lt;/br&gt;
+that a house divided against itself cannot stand;&lt;/br&gt;
+that bravura is not bravery.&lt;/p&gt;
+&lt;p&gt;this land is your land, this land is my land.&lt;/p&gt;
+&lt;p&gt;we here highly resolve that&lt;/br&gt;
+these dead shall not have died in vain&lt;/p&gt;
+&lt;p&gt;for&lt;/p&gt;
+&lt;p&gt;we, the people, do ordain and establish&lt;/br&gt;
+that all men are created equal;&lt;/br&gt;
+that they are endowed by their creator with&lt;/br&gt; 
+certain&lt;/br&gt;
+inalienable&lt;/br&gt; 
+rights,&lt;/p&gt;
+&lt;p&gt;among these are life,&lt;/br&gt;
+nor cruel and unusual punishments inflicted.&lt;/p&gt;
+&lt;p&gt;land of the pilgrims&#39; pride&lt;/br&gt;
+in order to form a more perfect union,&lt;/br&gt;
+establish justice,&lt;/br&gt;
+let freedom ring,&lt;/br&gt;
+secure the blessings of liberty,&lt;/br&gt;
+promote the general welfare.&lt;/p&gt;
+&lt;p&gt;for amber waves of grain God shed his grace on thee,&lt;/br&gt;
+ourselves and our posterity -- &lt;/br&gt;
+your huddled masses yearning to breathe&lt;/br&gt;
+free.
+&lt;p&gt;we hold these truths to be self-evident:&lt;/br&gt;
+the rule of fear subverts the rule of law.&lt;/br&gt;
+we do these things not because they are easy, but because they are hard.&lt;/p&gt;
+&lt;p&gt;i have a dream.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Food for thought</title>
+      <link>/personal/food-for-thought/</link>
+      <pubDate>Thu, 07 May 2015 00:00:00 -0400</pubDate>
+      <guid>/personal/food-for-thought/</guid>
+      <description>&lt;p&gt;yes she cranked the handle&lt;/br&gt;
+but the meat and potato man put his heart in the grinder&lt;/br&gt;
+and no one saved the pink spaghetti strands for chili.&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;
+he could have had his cake and eaten humble pie&lt;/br&gt; 
+or worn it as a badge of honorable intent.&lt;/br&gt;
+instead he tasted just desserts that fate sandwiched&lt;/br&gt; 
+between margaritaville and a cheeseburger in paradise.
+&lt;/p&gt;
+&lt;p&gt;
+full of gumption Forest&#39;s mother disparaged the integrity of chocolates.&lt;/br&gt;
+Me, I find it a mixed bag of lettuce with dressing on the side.
+&lt;/p&gt;
+&lt;p&gt;
+You&#39;re more likely to find a happy meal in strawberry or key lime -- sweetness&lt;/br&gt;
+that don&#39;t need no rhyme.&lt;/br&gt;
+Eden Earth yields galactically good fruit.&lt;/br&gt; 
+(Kpax swallowed it rind and all.)&lt;/br&gt;
+Eve murmurs amen, and knowing smilingly says&lt;/br&gt;
+bone appetite my cherry.&lt;/br&gt;
+Be my eye&#39;s apple.&lt;/br&gt;
+I&#39;ll be the salt of your Earth.
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Four letter word</title>
+      <link>/personal/four-letter-word/</link>
+      <pubDate>Fri, 06 Mar 2015 00:00:00 -0500</pubDate>
+      <guid>/personal/four-letter-word/</guid>
+      <description>&lt;p&gt;I strangled hope.&lt;/br&gt;
+Smug bastard annoyed me.&lt;/br&gt;
+I spring eternal; there is always room for me,&lt;/br&gt; 
+he&#39;d say&lt;/br&gt;
+(or his fanboys would moonily recite).&lt;/br&gt;
+So I grabbed his throat&lt;/br&gt;
+and fingers clenched squeezed.&lt;/br&gt;
+his eyes bulged green&lt;/br&gt;
+then withered gray.&lt;/br&gt;
+he lay dishrag limp on my lap.&lt;/br&gt;
+I hissed a firehose sigh,&lt;/br&gt;
+a contrail marking passage across some cloudless sky&lt;/br&gt;
+and felt&lt;/br&gt;
+don&#39;t laugh&lt;/br&gt;
+full of...&lt;/p&gt;
+&lt;p&gt;Persistent bastard.&lt;/br&gt;
+Kill you again if I have the chance.&lt;/br&gt;
+Maybe tomorrow.
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Who knows how to unmake love</title>
+      <link>/personal/who-knows-how-to-unmake-love/</link>
+      <pubDate>Fri, 06 Mar 2015 00:00:00 -0500</pubDate>
+      <guid>/personal/who-knows-how-to-unmake-love/</guid>
+      <description>&lt;p&gt;Who knows how to unmake love?&lt;/br&gt;
+that fertile ground for growing&lt;/br&gt;
+goodness&lt;/br&gt;
+in tiny cracks between beings.&lt;/br&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Passionate&lt;/em&gt; demands attention, but draws reluctant admiration&lt;/br&gt;
+for his gymnastic stamina and&lt;/br&gt;
+singularity of focus --&lt;/br&gt;
+a laser light later scattered in time&#39;s gauze.
+&lt;/p&gt;
+&lt;p&gt;Oh so cute I could pinch the cheeks of this &lt;em&gt;Puppy&lt;/em&gt; she says &lt;em&gt;40 Years Married&lt;/em&gt; now.&lt;/br&gt;
+Others applaud politely if not quite aspiring to such&lt;/br&gt;
+longevity.
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Unrequited&lt;/em&gt; garners the requisite sympathy.&lt;/br&gt;
+Fearing the recollection in his reflection,&lt;/br&gt;
+they remark so sad to one another not him.&lt;/br&gt;
+Getting better, he gamely proclaims if asked his status.
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Of Country&lt;/em&gt; sometimes sings at wrong moments.&lt;/br&gt;
+In his chest beat two mindhearts, one humbleproud, the other not so.
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Familial&lt;/em&gt; says leave it alone it&#39;s complicated,&lt;/br&gt;
+but none of us can quite completely ever; let&#39;s get real, people.
+&lt;/p&gt;
+&lt;p&gt;But, how can BOTH unwant you? asks &lt;em&gt;Unrequited&lt;/em&gt; of &lt;em&gt;Unwanted&lt;/em&gt;&lt;/br&gt;
+trying to be sincere, sympathetic.
+&lt;/p&gt;
+&lt;p&gt;Impossible. and yet here I am, she answers.&lt;/br&gt;
+no more able to explain her creation or illogical persistence than any other.
+&lt;/p&gt;
+&lt;p&gt;Is it sad? Are you?&lt;/p&gt;
+&lt;p&gt;I think not. No.&lt;/p&gt;
+&lt;p&gt;We &lt;em&gt;Love&lt;/em&gt; are performers in this passion play, pinacles of&lt;/br&gt;
+perfection, the&lt;/br&gt; 
+apotheosis of achievement, speaking poetically I mean.
+&lt;/p&gt;
+&lt;p&gt;And so the slender tender shoots that sprang in that space&lt;/br&gt;
+and unfurled under unfriendly spotlight -- &lt;/br&gt;
+dangerously acknowledged if ever. and deeply unwanted&lt;/br&gt;
+speak not of them please --&lt;/br&gt;
+remain unwithered, wonderous, a blessing to behold,&lt;/br&gt;
+even if without peer or purpose.&lt;/br&gt;
+Perhaps then especially.
+&lt;/p&gt;
+&lt;p&gt;Friendship mends the cracks in the world.&lt;/p&gt;
+&lt;p&gt;Who knows how to unmake love?&lt;/br&gt;
+Or even knowing would?
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lipstick on a pig</title>
+      <link>/personal/lipstick-on-a-pig/</link>
+      <pubDate>Mon, 12 Jan 2015 00:00:00 -0500</pubDate>
+      <guid>/personal/lipstick-on-a-pig/</guid>
+      <description>&lt;p&gt;some Wilburs inspire no spider-poets&lt;/br&gt;
+nor earn the love of Fern.&lt;/p&gt;
+&lt;p&gt;this pig shuns lipstick.&lt;/br&gt;
+his countenance admits no adornment.&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;ears perky,&lt;/br&gt;
+hairs erect,&lt;/br&gt;
+nose for mayhem acute, undulled,&lt;/br&gt;
+taste for anything.&lt;/br&gt;
+&lt;/br&gt;
+Orwell&amp;rsquo;s Napoleon commands our farm.&lt;/br&gt;
+cowed, we animals howl or growl&lt;/br&gt;
+assent to each assertion&lt;/br&gt;
+of fat cat dogma.&lt;/br&gt;
+&lt;/br&gt;
+Ham? I am.&lt;/br&gt;
+you speak newspeak?&lt;/br&gt;
+come wallow in the mud and muck with me.&lt;/br&gt;
+it&amp;rsquo;s warm; you&amp;rsquo;re welcome.&lt;/br&gt;
+&lt;/br&gt;
+the swamp now drained,&lt;/br&gt;
+the reptiles slither&lt;/br&gt;
+hither&lt;/br&gt;
+not yon.&lt;/br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unsolicited Advice</title>
+      <link>/personal/unsolicited-advice/</link>
+      <pubDate>Mon, 12 Jan 2015 00:00:00 -0500</pubDate>
+      <guid>/personal/unsolicited-advice/</guid>
+      <description>&lt;p&gt;My unicorn&lt;/br&gt;
+Is patron saint of regret.&lt;/br&gt;
+He holds dominion over&lt;/br&gt;
+Things wished-for but not received.&lt;/br&gt;
+the unfulfilled, unrequited, unrealized.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;Get it? He says, I&#39;m like a Magritte or an Escher. Self-referential.&lt;/p&gt;
+&lt;p&gt;I don&#39;t. Or, I do, but I&#39;m wallowing.&lt;/p&gt;
+&lt;p&gt;Quite unselfservingly,&lt;/br&gt;
+He says I should&lt;/br&gt;
+shun the vaporous un....&lt;/br&gt;
+and rather mind those things I got&lt;/br&gt;
+but did not think to wish for.&lt;/p&gt;
+&lt;p&gt;Treasure there, matey -- &lt;/br&gt;
+Forges to steel the metal in yer mettle;&lt;/br&gt;
+(He&#39;s fond of pirate talk, too. Who knew?)&lt;/br&gt;
+Jewels to find and mine and polish;&lt;/br&gt;
+And critters to craft your character--&lt;/br&gt;
+Gollums surely, but a perhaps Samwise or maybe Gandalf.&lt;/br&gt;
+Who wouldn&#39;t find a wizard handy in tight spots?&lt;/p&gt;
+&lt;p&gt;Or a unicorn, I say.&lt;/p&gt;
+&lt;p&gt;He just stares. Is that a snort?&lt;/p&gt;
+&lt;p&gt;Oh, and cherish, but don&#39;t count your blessings. They come in different sizes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Who shall lionize</title>
+      <link>/personal/who-shall-lionize/</link>
+      <pubDate>Mon, 12 Jan 2015 00:00:00 -0500</pubDate>
+      <guid>/personal/who-shall-lionize/</guid>
+      <description>&lt;p&gt;who shall lionize&lt;/br&gt;
+this deceased?&lt;/br&gt;
+and where&lt;/br&gt;
+pray&lt;/br&gt;
+tell&lt;/br&gt;
+shall the bodiless&lt;/br&gt;
+be interred?&lt;/br&gt;
+i know not&lt;/br&gt;
+where to&lt;/br&gt;
+lay bouquets&lt;/br&gt;
+nor what color&lt;/br&gt;
+on such&lt;/br&gt;
+civic holy-days&lt;/br&gt;
+that celebrate&lt;/br&gt;
+my dear departed.&lt;/br&gt;
+&lt;/br&gt;
+the stones i&lt;/br&gt;
+have accumulated to mark&lt;/br&gt;
+a graveside visit&lt;/br&gt;
+stack cold&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;hurl them at the walls&lt;/br&gt;
+of this always glass&lt;/br&gt;
+but newly transparent&lt;/br&gt;
+house of cards.&lt;/br&gt;
+shatter or bounce. who cares?&lt;/br&gt;
+&lt;/br&gt;
+when dreams die&lt;/br&gt;
+the pain sears&lt;/br&gt;
+as befits that without which&lt;/br&gt;
+we choose not to endure&lt;/br&gt;
+&lt;/br&gt;
+but must.&lt;/br&gt;
+&lt;/br&gt;
+no photo legacy&lt;/br&gt;
+survives&lt;/br&gt;
+just memory of what never&lt;/br&gt;
+was but might have&lt;/br&gt;
+&lt;/br&gt;
+five stages they say,&lt;/br&gt;
+but stuck,&lt;/br&gt;
+i persist&lt;/br&gt;
+in resisting&lt;/br&gt;
+acceptance.&lt;/br&gt;
+&lt;/br&gt;
+my country &amp;lsquo;tis of thee&lt;/br&gt;
+sweet land I dreamed to be.&lt;/br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Angels Blue</title>
+      <link>/personal/angels-blue/</link>
+      <pubDate>Fri, 09 Jan 2015 00:00:00 -0500</pubDate>
+      <guid>/personal/angels-blue/</guid>
+      <description>&lt;p&gt;Gods I&amp;rsquo;ve always viewed with skepticism,&lt;/br&gt;
+But, I met an angel named Shirley.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;They don&#39;t wear wings, you know.&lt;/br&gt;
+Impractical indoors. Hard to fit under a winter coat. Showy.&lt;/br&gt;
+Too many feathers ruffled already.&lt;/p&gt;
+&lt;p&gt;Or halos.&lt;/br&gt;
+Lord knows we have enough of those.&lt;/p&gt;
+&lt;p&gt;Sensible shoes? You bet.&lt;/br&gt;
+Got to keep their footing sure.&lt;/p&gt;
+&lt;p&gt;Craig or Suzanne might play a little trumpet, but only in the municipal band.&lt;/p&gt;
+&lt;p&gt;And none of them want to wrestle, ok?&lt;/p&gt;
+&lt;p&gt;It&#39;s code blue in the ICU,&lt;/br&gt;
+and there are sacred jobs to do.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Love of death</title>
+      <link>/personal/love-of-death/</link>
+      <pubDate>Sun, 12 Oct 2014 00:00:00 -0400</pubDate>
+      <guid>/personal/love-of-death/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://i.guim.co.uk/static/w-620/h--/q-95/sys-images/Guardian/Pix/pictures/2014/8/20/1408530010517/Screengrab-from-the-ISIS--011.jpg&#34; alt=&#34;Execution of James Foley by ISIS&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Love of death and fear of life&lt;/br&gt;
+well describes the current strife&lt;/br&gt;
+in Babylonia today.&lt;/br&gt;
+Nihilism rules the day.
+&lt;/p&gt;
+&lt;p&gt;And what persuades the nihilist?&lt;/br&gt;
+Nothing, save the gun or fist.&lt;/br&gt;
+So, honor life -- with every breath&lt;/br&gt;
+speak words that counter love of death.
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>No one loves a volcano</title>
+      <link>/personal/no-one-loves-a-volcano/</link>
+      <pubDate>Mon, 06 Oct 2014 00:00:00 -0400</pubDate>
+      <guid>/personal/no-one-loves-a-volcano/</guid>
+      <description>&lt;p&gt;spewing strangling gas&lt;/br&gt;
+red white vapor paints green grass gray.&lt;/p&gt;
+&lt;p&gt;unlovely lava flows -- entrails of eviscerated Earth -- &lt;/br&gt;
+that true when cool replenish tired soils.&lt;/p&gt;
+&lt;p&gt;and also true his indigestion soothed by some poison belch -- &lt;/br&gt;
+by gravity&#39;s hand sculpts the quieted cone into a shape most grand.&lt;/p&gt;
+&lt;p&gt;Still, I pity.&lt;/p&gt;
+&lt;p&gt;We misunderstand the flaming ash hole.&lt;/br&gt;
+We fear. We blame.&lt;/p&gt;
+&lt;p&gt;When it is the foul deep,&lt;/br&gt;
+Hades black bile,&lt;/br&gt;
+that forces its stench upward,&lt;/br&gt;
+ripping open his closed throat to spray&lt;/br&gt;
+things unwelcome here.&lt;/br&gt;
+Eruptions set his head afire.&lt;/p&gt;
+&lt;p&gt;He stands singly, wearily awaiting the next assault, wearing hermit&#39;s dread.&lt;/br&gt;
+Who will cool the dragon heart? And when?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The physics of love</title>
+      <link>/personal/the-physics-of-love/</link>
+      <pubDate>Mon, 06 Oct 2014 00:00:00 -0400</pubDate>
+      <guid>/personal/the-physics-of-love/</guid>
+      <description>&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/d/d4/Comet_P1_McNaught02_-_23-01-07-edited.jpg&#34; width=&#34;600px&#34;/&gt;
+&lt;p&gt;like surfing a comet&lt;/p&gt;
+&lt;p&gt;in such a frictionless state&lt;/br&gt;
+we are thought experiments in&lt;/br&gt;
+Schrodinger&#39;s sanctuary,&lt;/br&gt;
+simultaneously alive and dead, both and neither,&lt;/br&gt; 
+statistically speaking.&lt;/br&gt;
+let us out of the box to end the mystery;&lt;/br&gt; 
+measure our true state at your peril and ours.&lt;/p&gt;
+&lt;p&gt;novices idealize its positions, velocities,&lt;/br&gt;
+accelerations of different centers of mass.&lt;/br&gt;
+meanwhile the conservation of momentum,&lt;/br&gt;
+the history of trajectories of particles in collision,&lt;/br&gt;
+demonstrates the superiority of this calculus over that algebra.&lt;/p&gt;
+&lt;p&gt;thermodynamics describes expanding heat, rising&lt;/br&gt;
+but then entropy, entropy, entropy.&lt;/p&gt;
+&lt;p&gt;electrodynamics binds the electric and magnetic&lt;/br&gt;
+through which polar opposites make sparks fly.&lt;/p&gt;
+&lt;p&gt;the strong nuclear force, with its companion forces bind mortal&lt;/br&gt;
+matter&lt;/br&gt;
+but what of orbits around her sun -- &lt;/br&gt;
+so many planets rocky, major and minor alike --&lt;/br&gt; 
+or the satellites, some perhaps hospitable to life.&lt;/br&gt;
+i&#39;ll run rings around ya, fella. and leave a glittering spray in passing.&lt;/p&gt;
+&lt;p&gt;to me this is all ten dimensional string theory. what else&lt;/br&gt;
+could unify&lt;/br&gt;
+Cupid&#39;s quantum and classical mechanics?&lt;/br&gt;
+really, Einstein, what could create the&lt;/br&gt;
+a black hole at the center of my galaxy,&lt;/br&gt;
+the really big bang&lt;/br&gt;
+whose aftermath leaves a telltale trail&lt;/br&gt;
+of radiation across the background of your unknown universe?&lt;/br&gt;
+what else could warp spacetime across years of light&lt;/br&gt;
+and darkness?&lt;/p&gt;
+&lt;p&gt;she is our specific gravity without which we&#39;d fly hurtling off&lt;/br&gt;
+into space.&lt;/p&gt;
+&lt;p&gt;a quantity neither created nor destroyed&lt;/br&gt;
+Just try to measure. There are no units.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Worn on the sleeve</title>
+      <link>/personal/worn-on-the-sleeve/</link>
+      <pubDate>Thu, 18 Sep 2014 00:00:00 -0400</pubDate>
+      <guid>/personal/worn-on-the-sleeve/</guid>
+      <description>&lt;p&gt;I used to envy those who carried&lt;/br&gt;
+their hearts&lt;/br&gt;
+safe&lt;/br&gt;
+surrounded by the warm fellowship of other organs.&lt;/p&gt;
+&lt;p&gt;worn on the sleeve&lt;/br&gt;
+mine fits no item of clothing,&lt;/br&gt;
+so rides exposed,&lt;/br&gt;
+bumping into this sharp-edged&lt;/br&gt;
+tongue, or that pointed&lt;/br&gt;
+remark.&lt;/p&gt;
+&lt;p&gt;but a bleeding heart is never really broken,&lt;/br&gt;
+and worn there&lt;/br&gt;
+it escapes its ribbed-cage.&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;on the lam, its every beat sucks in sorrow,
+pumps out sweetness, the flow of life and its ebb.&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;wristworn its hands waving,
+it warns all and me,&lt;/br&gt;
+each staccato second,&lt;/br&gt;
+that the time is always&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;now.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>There are no heroes</title>
+      <link>/personal/there-are-no-heroes/</link>
+      <pubDate>Thu, 04 Sep 2014 00:00:00 -0400</pubDate>
+      <guid>/personal/there-are-no-heroes/</guid>
+      <description>&lt;p&gt;there are no heroes&lt;/br&gt;
+in this comic book,&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;but everyone wears a costume,&lt;/br&gt;
+good guys and bad.&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;or worse a mask that fools none but&lt;/br&gt;
+mothers&lt;/p&gt;
+&lt;p&gt;who play along&lt;/p&gt;
+&lt;p&gt;complicit in their love.&lt;/p&gt;
+&lt;p&gt;at stake stands no less&lt;/p&gt;
+&lt;p&gt;the world,&lt;/p&gt;
+&lt;p&gt;the lives of innocents,&lt;/p&gt;
+&lt;p&gt;the child in distress.&lt;/p&gt;
+&lt;p&gt;super powers, super powerful&lt;/p&gt;
+&lt;p&gt;warp their wielder&amp;rsquo;s character&lt;/p&gt;
+&lt;p&gt;move mountains, oh yes, but&lt;/p&gt;
+&lt;p&gt;who, I ask who will remove the rubble?&lt;/p&gt;
+&lt;p&gt;we wear kryptonite because it is the fashion&lt;/p&gt;
+&lt;p&gt;and a cape that does not billow when we do not fly.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Burns a bridge</title>
+      <link>/personal/we-do-not-swim/</link>
+      <pubDate>Sat, 22 Mar 2014 00:00:00 -0400</pubDate>
+      <guid>/personal/we-do-not-swim/</guid>
+      <description>&lt;p&gt;burns a bridge&lt;/br&gt;
+the night long, this heat&lt;/br&gt;
+retards bitterness and cold&lt;/br&gt;
+yellow-red flickers illuminate, but dimly&lt;/br&gt;
+even in that moment fleeting&lt;/br&gt;
+but wonders he later&lt;/br&gt;
+wherefore the stench&lt;/br&gt;
+and who has shut the road&lt;/br&gt;
+again.&lt;/p&gt;
+&lt;p&gt;we do not swim.&lt;/p&gt;
+&lt;p&gt;in motion emotion forever&lt;/br&gt;
+forward&lt;/br&gt;
+fresh, frenetic,&lt;/br&gt;
+pushed by what&lt;/br&gt;
+i know not&lt;/br&gt;
+pulled more like&lt;/br&gt;
+perhaps by gravitational force&lt;/br&gt;
+or some repulsion.&lt;/br&gt;
+the formula admits no closed form solution.&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;ash &amp;amp; ember&lt;/br&gt;
+linger in their dull glow.&lt;/br&gt;
+fire can cauterize, staunch, and save the wounded,&lt;/br&gt;
+but also sear&lt;/br&gt;
+the mortal flesh,&lt;/br&gt;
+branding innocents,&lt;/br&gt;
+and in smoky shadows scar–&lt;/br&gt;
+spreading jumble-tumbles of silent speaking symbols–&lt;/br&gt;
+others inspect for structure or sense&lt;/br&gt;
+and in failing ask&lt;/br&gt;
+why&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Joy untethered</title>
+      <link>/personal/joy-untethered/</link>
+      <pubDate>Mon, 17 Mar 2014 00:00:00 -0400</pubDate>
+      <guid>/personal/joy-untethered/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://upload.wikimedia.org/wikipedia/en/thumb/8/81/Man_flying_kite.jpg/320px-Man_flying_kite.jpg&#34; alt=&#34;Man flying kite&#34;&gt;&lt;/p&gt;
+&lt;p&gt;joy untethered by sorrow&lt;/p&gt;
+&lt;p&gt;i mistrust.&lt;/p&gt;
+&lt;p&gt;twitches she there rootless,&lt;/p&gt;
+&lt;p&gt;buffeted by the mindless exhaltation of hope.&lt;/p&gt;
+&lt;p&gt;but anchored to sad&lt;/p&gt;
+&lt;p&gt;lightness soars,&lt;/p&gt;
+&lt;p&gt;stretches,&lt;/p&gt;
+&lt;p&gt;tugs at the reins of actual,&lt;/p&gt;
+&lt;p&gt;sending skyward&lt;/p&gt;
+&lt;p&gt;a kite of kindness.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ontology | Rick Gilmore&#39;s site</title>
+    <link>/tag/ontology/</link>
+      <atom:link href="/tag/ontology/index.xml" rel="self" type="application/rss+xml" />
+    <description>ontology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>ontology</title>
+      <link>/tag/ontology/</link>
+    </image>
+    
+    <item>
+      <title>In search of the ethogram</title>
+      <link>/post/in-search-of-the-ethogram/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/post/in-search-of-the-ethogram/</guid>
+      <description>&lt;p&gt;Psychology is in part, a science of behavior.
+Mental experience &amp;ndash; thoughts and feelings &amp;ndash; are also common targets of inquiry.&lt;/p&gt;
+&lt;p&gt;I recently went looking for a systematic catalogue of behaviors that should, in theory, constitute the substance of what psychologists and other behavioral scientists study.
+My goal was to take that catalogue as a starting point for thinking about the relationship between information available for perception and the actions (behaviors) that this information informs.
+The formal term for this sort of catalog is an &amp;lsquo;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Ethogram&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ethogram&lt;/a&gt;&#39;.
+Here&amp;rsquo;s a sample 
+&lt;a href=&#34;https://tolweb.org/onlinecontributors/app?page=TeacherResourceViewSupportMaterial&amp;amp;service=external&amp;amp;sp=l3090&amp;amp;sp=4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;template&lt;/a&gt; from the Tree of Life project.
+Unfortunately, I failed in my quest.&lt;/p&gt;
+&lt;p&gt;There have been attempts to create and openly share animal ethograms like the apparently stalled or inactive ethobank.org site associated with the EthoSource project.
+The 
+&lt;a href=&#34;https://www.cogpo.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cognitive Paradigm Ontology&lt;/a&gt; and the 
+&lt;a href=&#34;https://www.cognitiveatlas.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cognitive Atlas&lt;/a&gt; project attempt to create systematic ontologies (systematic representations of categories and concepts and their relations) of tasks used in experimental psychology.
+Cognitive psychology tasks clearly require very specific types of behavior from participants.
+Systematically organizing the nature of these tasks should lead to faster progress in understanding how they relate to one another, and ultimately, how minds and brains actually work.
+Still, I came up short in finding a comprehensive human ethogram.&lt;/p&gt;
+&lt;p&gt;In other contexts, I&amp;rsquo;ve called such a thing the behaviorome, partly to suggest that behavior should have a more central place in research grantmaking priorities.
+The 
+&lt;a href=&#34;/project/PLAY/&#34;&gt;PLAY project&lt;/a&gt; is a type of behaviorome effort.
+We will be creating detailed definitions for specific behaviors that our infant and adult participants produce in a small set of behavioral domains, but it will not be comprehensive by any means.
+For now, I&amp;rsquo;m stuck with trying to assemble my own.&lt;/p&gt;
+&lt;p&gt;One approach to an ethogram for humans could focus on biologically essential behavioral classes that we share with all other animals: &lt;em&gt;ingestion&lt;/em&gt; (food and nutrient seeking), &lt;em&gt;defense&lt;/em&gt; (self-protection), and &lt;em&gt;reproduction&lt;/em&gt;.
+Unfortunately, this scheme fail to capture the sets of behaviors studied by the majority of psychologists.
+Adding in a class of communicative and affiliative behaviors helps.
+But even this augmented classification describes the functional purposes of behavior, not the behaviors themselves.
+For example, locomotor behavior, moving toward or away from some target, occurs in food seeking, predator avoidance, mate seeking, and social (affiliative) contexts.&lt;/p&gt;
+&lt;p&gt;Another way to ask the question is to observe whether physical activities that humans do for pleasure and watch others for entertainment (sports) have some latent structure we might exploit.
+Here, we assume that if large groups of humans engage in an activity or pay to watch others engage in it, the skills involved must be especially demanding.
+Indeed, professional sports represent some of humankind&amp;rsquo;s most skilled (and highly paid) actors.
+And while I&amp;rsquo;m still looking for a comprehensive catalog of sport types, this table shows that most of them fall into a small set of categories when focusing on the core actions that define success.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Category&lt;/th&gt;
+&lt;th&gt;Sports&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;aiming&lt;/td&gt;
+&lt;td&gt;basketball, baseball, football (passing &amp;amp; kicking), hocky, soccer, bowling, tennis, golf, pool/billiards, archery, &amp;hellip;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;steering&lt;/td&gt;
+&lt;td&gt;slalom skiing, motorsports&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;performing&lt;/td&gt;
+&lt;td&gt;gymnastics, diving, synchronized swimming, figure skating, &amp;hellip;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;racing&lt;/td&gt;
+&lt;td&gt;running, motorsports, speed skating, swimming, cycling, paddling&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;fighting&lt;/td&gt;
+&lt;td&gt;boxing, wrestling, &amp;hellip;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;feats of strength&lt;/td&gt;
+&lt;td&gt;weightlifting&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;You may disagree with my categorization, but I hope you&amp;rsquo;ll agree that there are many similarities in the sorts of actions we find entertaining to watch.&lt;/p&gt;
+&lt;p&gt;Another approach to an ethogram starts with the actions that computer vision researchers find are important to extract from video.
+Google’s Atomic Visual Action (AVA) dataset (&lt;a href=&#34;https://research.google.com/ava/&#34;&gt;https://research.google.com/ava/&lt;/a&gt;) involves three classes of movements, &lt;em&gt;person movement&lt;/em&gt;, &lt;em&gt;object interaction&lt;/em&gt;, &lt;em&gt;person interaction&lt;/em&gt;, and has exemplars with 81 specific actions that fit into these categories.
+Some examples of specific behaviors tagged in the AVA dataset are &lt;em&gt;crawl&lt;/em&gt;, &lt;em&gt;dance&lt;/em&gt;, &lt;em&gt;jump/leap&lt;/em&gt;, &lt;em&gt;lift&lt;/em&gt;, &lt;em&gt;open&lt;/em&gt;, &lt;em&gt;press&lt;/em&gt;, &lt;em&gt;hug&lt;/em&gt;, &lt;em&gt;kiss&lt;/em&gt;, and &lt;em&gt;listen to&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Maybe some combination of these approaches is as good a start as any.
+After all, if 
+&lt;a href=&#34;https://doi.org/10.1016/j.anbehav.2009.03.018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;behavioral biologists don&amp;rsquo;t seem to agree about what constitutes behavior&lt;/a&gt;, it&amp;rsquo;s not that surprising that psychologists haven&amp;rsquo;t yet created our own list.
+We do need a list like this, though, don&amp;rsquo;t you think?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

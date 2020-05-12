@@ -3,3 +3,4 @@
 .RData
 .Ruserdata
 hugo-site.Rproj
+.DS_Store

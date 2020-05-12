@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JS8call | Rick Gilmore&#39;s site</title>
+    <link>/tag/js8call/</link>
+      <atom:link href="/tag/js8call/index.xml" rel="self" type="application/rss+xml" />
+    <description>JS8call</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Thu, 28 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>JS8call</title>
+      <link>/tag/js8call/</link>
+    </image>
+    
+    <item>
+      <title>If you JS8...</title>
+      <link>/post/if-you-js8/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/post/if-you-js8/</guid>
+      <description>&lt;p&gt;One thing I like about ham radio is the variety.
+There are new modes to try and new things to learn all the time.&lt;/p&gt;
+&lt;p&gt;Most recently, I&amp;rsquo;ve been playing with the low power, weak signal 
+&lt;a href=&#34;https://js8call.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JS8Call mode&lt;/a&gt;.
+JS8Call takes the weak signal characteristics of the JT8 mode that has taken the ham world by storm, but enables actual ragchew-style QSOs.
+This means that with low power, modest antennas, and poor propagation conditions, hams can have actual conversations with one another.&lt;/p&gt;
+&lt;p&gt;This represents a significant departure from FT8 where callsigns, grid squares, and signal reports are about all that get exchanged.
+I&amp;rsquo;ve played around with JT8, too, but the appeal seems limited to me.
+Yes, my elmer got DXCC on FT8 in less than a month, and yes, I&amp;rsquo;m still working my way there on SSB.
+But, JS8Call suits my interests more directly.
+The developer, a guy named Jordan Scherer is an open source guru and all around righteous ham, and he has a plan about where this sort of tool might go.
+Check out this 
+&lt;a href=&#34;https://youtu.be/mZKhVcFOljY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube video&lt;/a&gt; to see what I mean.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s how my 25 W signal was getting out earlier today.&lt;/p&gt;
+&lt;img src=&#34;../../img/js8call-k3rog.jpg&#34;/&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
