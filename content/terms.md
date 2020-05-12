@@ -11,4 +11,4 @@ title: Terms
 ---
 
 You are responsible for your use of this site.
-If you use content from the site, you agree to site the content.
+If you use content from the site, you agree to cite the content.
