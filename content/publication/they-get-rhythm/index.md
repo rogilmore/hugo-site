@@ -49,7 +49,7 @@ slides = ""
 tags = ["open science", "data sharing", "Databrary"]
 
 # Links (optional).
-# url_pdf = "http://arxiv.org/pdf/1512.04133v1"
+# url_pdf = "https://arxiv.org/pdf/1512.04133v1"
 #url_preprint = ""
 # url_code = ""
 # url_dataset = ""
@@ -61,7 +61,7 @@ url_source = "https://monographmatters.srcd.org/2019/05/30/commentary-gilmore-84
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# url_custom = [{name = "Custom Link", url = "https://example.org"}]
 
 # Digital Object Identifier (DOI)
 doi = ""

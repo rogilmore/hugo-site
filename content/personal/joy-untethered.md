@@ -17,7 +17,7 @@ linktitle = "Joy untethered"
   weight = 2
 +++
 
-![Man flying kite](http://upload.wikimedia.org/wikipedia/en/thumb/8/81/Man_flying_kite.jpg/320px-Man_flying_kite.jpg)
+![Man flying kite](https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Man_flying_kite.jpg/320px-Man_flying_kite.jpg)
 
 joy untethered by sorrow
 
