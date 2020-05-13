@@ -28,6 +28,8 @@ abstract = "In 2019, the Governing Council of the Society for Research in Child 
 # Is this a selected publication? (true/false)
 selected = true
 
+featured = true
+
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
