@@ -29,4 +29,5 @@ by leaps of faith.</br>
 Flights of fancy or physics all land or crash.</br>
 And every passenger</br>
 in time must find</br>
-some solace silent buried in her bosom.</br>
+some solace silent</br>
+buried in her bosom.</br>
