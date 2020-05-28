@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/personal/mother-earth/</loc>
+    <lastmod>2020-05-28T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/poetry/</loc>
+    <lastmod>2020-05-28T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-05-28T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <lastmod>2020-05-13T14:28:05-04:00</lastmod>
   </url>
@@ -93,11 +108,6 @@
   </url>
   
   <url>
-    <loc>/tag/poetry/</loc>
-    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication_types/</loc>
     <lastmod>2020-05-12T00:00:00-04:00</lastmod>
   </url>
@@ -119,11 +129,6 @@
   
   <url>
     <loc>/author/suzanne-scherf/</loc>
-    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-05-12T00:00:00-04:00</lastmod>
   </url>
   
