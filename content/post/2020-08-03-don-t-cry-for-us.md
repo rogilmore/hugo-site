@@ -26,4 +26,4 @@ and embraced cruelty</br>
 out of fear</br>
 that our boasts</br>
 were as empty</br>
-as our hearts.
+as our heart.
