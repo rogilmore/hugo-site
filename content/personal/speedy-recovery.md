@@ -1,5 +1,5 @@
 +++
-title = "Speedy Recovery"
+title = "Speedy recovery"
 
 date = 2017-09-25T00:00:00
 lastmod = 2019-03-18T00:00:00

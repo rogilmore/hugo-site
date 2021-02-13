@@ -1,5 +1,5 @@
 +++
-title = "Shovel Brigade"
+title = "Shovel brigade"
 
 date = 2021-01-12T00:00:00
 lastmod = 2021-01-12T00:00:00
@@ -20,7 +20,7 @@ linktitle = "Shovel Brigade"
 a long-term symptom of this peculiar viral infection</br>
 is loss of smell.</br>
 
-bullshit</br>
+yet bullshit</br>
 
 spewn from a particular asshole</br>
 

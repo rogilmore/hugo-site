@@ -1,5 +1,5 @@
 +++
-title = "The Poet Terrorist"
+title = "The poet terrorist"
 
 date = 2020-05-12T00:00:00
 lastmod = 2020-05-12T00:00:00

@@ -1,5 +1,5 @@
 +++
-title = "Yields Again to Dawn"
+title = "Yields again to dawn"
 
 date = 2021-01-23T00:00:00
 lastmod = 2021-01-23T00:00:00
