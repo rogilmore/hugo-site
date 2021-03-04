@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/personal/poet-terrorist/</loc>
+    <lastmod>2021-03-04T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/poetry/</loc>
+    <lastmod>2021-03-04T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-03-04T09:59:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-03-04T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/blast-from-the-past/</loc>
+    <lastmod>2021-03-04T09:59:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2021-03-04T09:59:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/open-science/</loc>
+    <lastmod>2021-03-04T09:59:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2021-03-04T09:59:50-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication-type/2/</loc>
     <lastmod>2021-02-13T00:00:00-05:00</lastmod>
   </url>
@@ -113,23 +153,8 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2021-02-13T01:49:35-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/rick-o.-gilmore/</loc>
     <lastmod>2021-02-13T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-02-13T01:49:35-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2021-02-13T01:49:35-05:00</lastmod>
   </url>
   
   <url>
@@ -143,18 +168,8 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2021-02-13T01:49:35-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/this-is-great/</loc>
     <lastmod>2021-02-13T01:49:35-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/poetry/</loc>
-    <lastmod>2021-01-23T00:00:00-05:00</lastmod>
   </url>
   
   <url>
@@ -253,11 +268,6 @@
   </url>
   
   <url>
-    <loc>/personal/poet-terrorist/</loc>
-    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/rachel-wolf/</loc>
     <lastmod>2020-05-12T00:00:00-04:00</lastmod>
   </url>
@@ -344,11 +354,6 @@
   
   <url>
     <loc>/tag/open-data/</loc>
-    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/open-science/</loc>
     <lastmod>2019-06-04T00:00:00+00:00</lastmod>
   </url>
   

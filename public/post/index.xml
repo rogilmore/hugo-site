@@ -5,12 +5,32 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Sat, 13 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Blast from the past</title>
+      <link>/post/blast-from-the-past/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/post/blast-from-the-past/</guid>
+      <description>&lt;p&gt;A colleague reached out to me recently about a project we&amp;rsquo;d worked on years ago.
+The work involved a study of how adult observers categorize visual patterns that have intrinsic regularities.
+Here are two examples:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nyu.databrary.org/slot/6510/-/asset/11894/download?inline=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nyu.databrary.org/slot/6510/-/asset/11902/download?inline=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;We had never finished writing the paper, but in trying to figure out where we&amp;rsquo;d left off I discovered several things, all of them positive.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;d left good notes about the project and reasonably well documented code in a repository on GitHub: &lt;a href=&#34;https://github.com/gilmore-lab/symmetry-sorting&#34;&gt;https://github.com/gilmore-lab/symmetry-sorting&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;d stored the images on Databrary so it was easy to retrieve them and match the ratings to the images:&lt;/p&gt;
+&lt;p&gt;Gilmore, R.O. &amp;amp; Norcia, A.M. (2014). The Salience of Lower-Order, Localized Features in Highly Self-Similar Wallpaper Groups. Databrary. Retrieved March 4, 2021 from &lt;a href=&#34;http://doi.org/10.17910/B7KS3M&#34;&gt;http://doi.org/10.17910/B7KS3M&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And even though no one had worked on the project in five years, it too, about an hour to get back up to speed and get the project moving again.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m not the first or only person to have said that open, transparent, and reproducible research practices benefit your future (forgetful) self.
+This is a great example of how and why.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>This is great</title>

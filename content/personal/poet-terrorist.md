@@ -1,8 +1,8 @@
 +++
-title = "The poet terrorist"
+title = "Dear Friends"
 
-date = 2020-05-12T00:00:00
-lastmod = 2020-05-12T00:00:00
+date = 2021-03-04T00:00:00
+lastmod = 2021-03-04T00:00:00
 
 draft = false  # Is this a draft? true/false
 toc = false  # Show table of contents? true/false
@@ -11,23 +11,36 @@ type = "docs"  # Do not modify.
 tags = ["poetry"]
 
 # Add menu entry to sidebar.
-linktitle = "Poet Terrorist"
+linktitle = "Dear Friends"
 [menu.personal]
   parent = "Arts"
   weight = 2
 +++
 
-words wound.</br>
-phrases fillet.
+It is the ache</br>
+and honor</br>
+of those you</br>
+have touched</br>
 
-like bombs they burst the heaving heart</br>
-and shrapnel-shred</br>
-the decency of slumber.
+to join you uninvited</br>
 
-verbs vivisect,</br>
-their violence vast.</br>
+to fathom the unfathomable</br>
+to grieve the grievous</br>
 
-and one naught notices what nouns name</br>
-until the now</br>
-there is no unknowing.</br>
+to go where none</br>
+would ever choose</br>
+except thrust by must.
+
+And so we</br>
+sit and stand</br>
+sit and stand</br>
+pray and question prayer</br>
+moan and mumble</br>
+weep and wonder</br>
+
+in love and sorrow</br>
+in longing</br>
+and in light</br>
+
+with you.
 
