@@ -5,12 +5,30 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Deep rest</title>
+      <link>/post/deep-rest/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/post/deep-rest/</guid>
+      <description>&lt;p&gt;This morning I read an article in the New York Times the struggle to find motivation so many of us feel.
+I myself have fallen off the exercise wagon I&amp;rsquo;d jumped on a few weeks ago.
+And let&amp;rsquo;s not get started about my to-do list.&lt;/p&gt;
+&lt;p&gt;Academic life has a rhythm that&amp;rsquo;s deeply embedded in my psyche.
+This week would have been Spring Break, had Penn State kept its conventional calendar.
+For pandemic-related reasons, the University opted to start the semester a week later than usual, but skip the week-long break.
+Talk to most faculty and students, and they&amp;rsquo;d have preferred a shorter semester.
+So in the spirit of encouraging the deep rest all of us need to feel and do our best, I gave my undergraduate research assistants the week off.&lt;/p&gt;
+&lt;p&gt;And I got on the elliptical before I sat down to my computer.
+It&amp;rsquo;s not yet a habit, but it&amp;rsquo;s a start.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blast from the past</title>

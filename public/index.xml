@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Rick Gilmore&#39;s site</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Thu, 04 Mar 2021 00:00:00 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Rick Gilmore&#39;s site</title>
@@ -13,10 +13,28 @@
     </image>
     
     <item>
+      <title>Deep rest</title>
+      <link>/post/deep-rest/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/post/deep-rest/</guid>
+      <description>&lt;p&gt;This morning I read an article in the New York Times the struggle to find motivation so many of us feel.
+I myself have fallen off the exercise wagon I&amp;rsquo;d jumped on a few weeks ago.
+And let&amp;rsquo;s not get started about my to-do list.&lt;/p&gt;
+&lt;p&gt;Academic life has a rhythm that&amp;rsquo;s deeply embedded in my psyche.
+This week would have been Spring Break, had Penn State kept its conventional calendar.
+For pandemic-related reasons, the University opted to start the semester a week later than usual, but skip the week-long break.
+Talk to most faculty and students, and they&amp;rsquo;d have preferred a shorter semester.
+So in the spirit of encouraging the deep rest all of us need to feel and do our best, I gave my undergraduate research assistants the week off.&lt;/p&gt;
+&lt;p&gt;And I got on the elliptical before I sat down to my computer.
+It&amp;rsquo;s not yet a habit, but it&amp;rsquo;s a start.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Dear Friends</title>
-      <link>/personal/poet-terrorist/</link>
+      <link>/personal/dear-friends/</link>
       <pubDate>Thu, 04 Mar 2021 00:00:00 -0500</pubDate>
-      <guid>/personal/poet-terrorist/</guid>
+      <guid>/personal/dear-friends/</guid>
       <description>&lt;p&gt;It is the ache&lt;/br&gt;
 and honor&lt;/br&gt;
 of those you&lt;/br&gt;
@@ -351,6 +369,24 @@ but at this point in quarantine, he&amp;rsquo;d do anything to avoid another Zoo
       <pubDate>Tue, 12 May 2020 00:00:00 -0400</pubDate>
       <guid>/publication/jecp-2020/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>The poet terrorist</title>
+      <link>/personal/poet-terrorist/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 -0400</pubDate>
+      <guid>/personal/poet-terrorist/</guid>
+      <description>&lt;p&gt;words wound.&lt;/br&gt;
+phrases fillet.&lt;/p&gt;
+&lt;p&gt;like bombs they burst the heaving heart&lt;/br&gt;
+and shrapnel-shred&lt;/br&gt;
+the decency of slumber.&lt;/p&gt;
+&lt;p&gt;verbs vivisect,&lt;/br&gt;
+their violence vast.&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;and one naught notices what nouns name&lt;/br&gt;
+until the now&lt;/br&gt;
+there is no unknowing.&lt;/br&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>

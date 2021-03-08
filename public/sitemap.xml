@@ -3,18 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/personal/poet-terrorist/</loc>
+    <loc>/post/deep-rest/</loc>
+    <lastmod>2021-03-08T11:26:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2021-03-08T11:26:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-03-08T11:26:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/dear-friends/</loc>
     <lastmod>2021-03-04T00:00:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/poetry/</loc>
     <lastmod>2021-03-04T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2021-03-04T09:59:50-05:00</lastmod>
   </url>
   
   <url>
@@ -34,11 +44,6 @@
   
   <url>
     <loc>/category/open-science/</loc>
-    <lastmod>2021-03-04T09:59:50-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
     <lastmod>2021-03-04T09:59:50-05:00</lastmod>
   </url>
   
@@ -264,6 +269,11 @@
   
   <url>
     <loc>/author/peter-m.-moriarty/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/poet-terrorist/</loc>
     <lastmod>2020-05-12T00:00:00-04:00</lastmod>
   </url>
   
